@@ -17,3 +17,4 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2016.06.24 | 2016.09.22-24 | Japan, Nara | [CUFP](http://cufp.org/2016/) | [here](http://cufp.org/2016/call-for-presentations.html) | Functional programming | 
 | 2016.06.24 | 2016.09.03 | Poland, Wrocław | [Scalapolis](http://konf.scalapolis.pl) | [here](https://docs.google.com/forms/d/12KGvMTkeSUSCWYsJYmJsGjlbff9nO2FG_nDVI6Uumq8) | Scala |
 | 2016.06.21 | 2016.07.21-23 | Konya, Turkey | [BigData2016](http://sdiwc.net/conferences/bigdata2016/) | [here](http://sdiwc.net/conferences/bigdata2016/paper-submission/) | Data Mining, Internet Computing,  Big Data |
+| 2016.09.09 | 2016.11.16-18 | Seville, Spain | [ApacheCon 2016](http://events.linuxfoundation.org/events/apachecon-europe) | [C4P](http://events.linuxfoundation.org/events/apachecon-europe/program/cfp) | Apache related projects & Big Data |
