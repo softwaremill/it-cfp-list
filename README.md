@@ -16,7 +16,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2016.08.10 | 2016.10.14-15 | Ukraine, Kyiv | [JavaDay Kyiv](http://javaday.org.ua/kyiv/) | [here](http://javaday.org.ua/call-for-papers-kyiv/) | Java, JVM |
 | 2016.07.17 | 2016.11.01-03 | Morocco, Casablanca | [Devoxx Morocco](http://devoxx.ma/) |  [here](http://cfp.devoxx.ma/) | JVM, Big Data, IoT, Cloud, Alternative Languages |
 | 2016.07.15 | 2016.10.27-28 | UK, London | [droidcon London 2016](http://uk.droidcon.com) | [here](http://uk.droidcon.com/#get_involved) | Android |
-| 2016.07.15 | 2016.10.15-16 | China, Shangahi | [UI/UX Conference China](http://2016.uiuxconf.com/) | [here](https://skillsmatter.com/conferences/7276-haskell-exchange-2016#get_involved) | UI, UX |
+| 2016.07.15 | 2016.10.15-16 | China, Shanghai | [UI/UX Conference China](http://2016.uiuxconf.com/) | [here](https://skillsmatter.com/conferences/7276-haskell-exchange-2016#get_involved) | UI, UX |
 | 2016.07.07 | 2016.11.25-26 | Italy, Milan | [Codemotion Milan](http://milan2016.codemotionworld.com/) | [here](http://milan2016.codemotionworld.com/call-for-paper/) | Frontend, Backend, Mobile, Devops, Big Data, IoT | 
 | 2016.07.07 |  2016.11.07-08 | UK, London | [µCon 2016: The Microservices Conference](https://skillsmatter.com/conferences/7412-con-2016-the-microservices-conference) | [here](https://skillsmatter.com/conferences/7412-con-2016-the-microservices-conference#get_involved) | Microservices | 
 | 2016.07.06 | 2016.11.07-11 | Belgium, Antwerp | [Devoxx](https://devoxx.be/) |  [here](http://cfp.devoxx.be/) | JVM, Big Data, Cloud |
