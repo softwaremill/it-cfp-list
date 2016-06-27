@@ -15,6 +15,8 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2016.08.14 | 2016.12.08-09 | UK, London | [Scala eXchange](https://skillsmatter.com/conferences/7432-scala-exchange-2016#) | [here](https://skillsmatter.com/conferences/7432-scala-exchange-2016#get_involved) | Scala, Functional Programming, Big Data, Reactive |
 | 2016.08.10 | 2016.10.14-15 | Ukraine, Kyiv | [JavaDay Kyiv](http://javaday.org.ua/kyiv/) | [here](http://javaday.org.ua/call-for-papers-kyiv/) | Java, JVM |
 | 2016.07.17 | 2016.11.01-03 | Morocco, Casablanca | [Devoxx Morocco](http://devoxx.ma/) |  [here](http://cfp.devoxx.ma/) | JVM, Big Data, IoT, Cloud, Alternative Languages |
+| 2016.07.15 | 2016.10.27-28 | UK, London | [droidcon London 2016](http://uk.droidcon.com) | [here](http://uk.droidcon.com/#get_involved) | Android |
+| 2016.07.07 |  2016.11.07-08 | UK, London | [µCon 2016: The Microservices Conference](https://skillsmatter.com/conferences/7412-con-2016-the-microservices-conference) | [here](https://skillsmatter.com/conferences/7412-con-2016-the-microservices-conference#get_involved) | Microservices | 
 | 2016.07.06 | 2016.11.07-11 | Belgium, Antwerp | [Devoxx](https://devoxx.be/) |  [here](http://cfp.devoxx.be/) | JVM, Big Data, Cloud |
 | 2016.07.01 | 2016.10.25-27 | Belgium, Brussels | [Spark Summit Europe](https://spark-summit.org/eu-2016/) | [here](http://www.prevalentdesignevents.com/sparksummit2016/europe/speakers/) | Big Data, Spark | 
 | 2016.06.30 | 2016.11.11-13 | USA, San Francisco | [Scala By the Bay](http://scala.bythebay.io/) |  [here](http://scala.bythebay.io/cfp.html) | Scala, Big Data |
