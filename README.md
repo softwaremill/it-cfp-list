@@ -22,8 +22,8 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2016.08.14 | 2016.12.08-09 | UK, London | [Scala eXchange](https://skillsmatter.com/conferences/7432-scala-exchange-2016#) | [here](https://skillsmatter.com/conferences/7432-scala-exchange-2016#get_involved) | Scala, Functional Programming, Big Data, Reactive |
 | 2016.08.10 | 2016.10.14-15 | Ukraine, Kyiv | [JavaDay Kyiv](http://javaday.org.ua/kyiv/) | [here](http://javaday.org.ua/call-for-papers-kyiv/) | Java, JVM |
 | 2016.07.31 | 2016.10.17-18 | Canada, Toronto | [Full Stack Toronto](http://fsto.co/) | [here](https://fsto.co/speak/) | Frontend, Backend, UX, IoT, DevOps |
+| 2016.07.24 | 2016.11.01-03 | Morocco, Casablanca | [Devoxx Morocco](http://devoxx.ma/) |  [here](http://cfp.devoxx.ma/) | JVM, Big Data, IoT, Cloud, Alternative Languages |
 | 2016.07.18 | 2016.10.10-11 | Poland, Kraków | [JDD](http://16.jdd.org.pl/) | [here](http://16.jdd.org.pl/cfp/form/) | JVM |
-| 2016.07.17 | 2016.11.01-03 | Morocco, Casablanca | [Devoxx Morocco](http://devoxx.ma/) |  [here](http://cfp.devoxx.ma/) | JVM, Big Data, IoT, Cloud, Alternative Languages |
 | 2016.07.17 | 2016.09.15-16 | Poland, Warsaw | [Codemotion Warsaw](http://warsaw2016.codemotionworld.com/) | [here](http://warsaw2016.codemotionworld.com/call-for-papers/) | Big Data, DevOps, IoT, CI, Frontend, Backend | 
 | 2016.07.15 | 2016.10.27-28 | UK, London | [droidcon London 2016](http://uk.droidcon.com) | [here](http://uk.droidcon.com/#get_involved) | Android |
 | 2016.07.15 | 2016.10.15-16 | China, Shanghai | [UI/UX Conference China](http://2016.uiuxconf.com/) | [here](https://skillsmatter.com/conferences/7276-haskell-exchange-2016#get_involved) | UI, UX |
