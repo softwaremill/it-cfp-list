@@ -8,6 +8,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 |---------|-----------------|---------------|------|----------|----------|
 | ??? | 2016.11.28-12.01 | USA, Fort Lauderdale | [G3 Summit](https://g3summit.com) | [here](https://g3summit.com/home/speaker_request) | Groovy, Grails, Gradle |
 | ??? | 2016.10.14 | Lithuania, Vilnius | [High Load Strategy](http://www.highloadstrategy.lt/) | [here](http://www.highloadstrategy.lt/) | Architecture, DevOps, Data Science |
+| ??? | 2016.10.10-12 | Poland, Warsaw | [AgileByExample](http://2016.agilebyexample.com/) | [here](http://2016.agilebyexample.com/c4s/) | Agile | 
 | ??? | 2016.09.30-10.01 | Spain, Cádiz | [Lambda World](http://www.lambda.world/) | [here](http://www.lambda.world/blog/call-for-papers-2016) | Functional programming |
 | ??? | 2016.09.22-23 | Poland, Kraków | [TWF Conference](http://conference2016.twf.community/) | [here](http://goo.gl/forms/3H87cl20Q7) | Front-end, UI/UX, Programming, IoT | 
 | 2016.10.31 | 2016 winter  | Israel, Tel Aviv | [Codemotion Tel Aviv](http://telaviv2016.codemotionworld.com/) | [here](http://speaker.codemotionworld.com/c4p.php) | Big Data, DevOps, IoT, CI, Frontend, Backend | 
