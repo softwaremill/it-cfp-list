@@ -18,6 +18,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2016.09.16 | 2017 spring | Italy, Rome | [Codemotion Rome](http://rome2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com/c4p.php) | Big Data, DevOps, IoT, CI, Frontend, Backend | 
 | 2016.09.09 | 2016.11.16-18 | Spain, Seville | [ApacheCon 2016](http://events.linuxfoundation.org/events/apachecon-europe) | [here](http://events.linuxfoundation.org/events/apachecon-europe/program/cfp) | Apache related projects & Big Data |
 | 2016.09.04 | 2016.10.27-28 | France, Lyon | [Scala.IO](http://scala.io/) |  [here](http://scala.io/cfp.html) | Scala, Functional Programming, Big Data |
+| 2016.08.26 | 2017.03.23-24 | UK, Brighton | [TestBash Brighton](http://www.ministryoftesting.com/2016/07/testbash-brighton-call-papers/) | [here](http://www.ministryoftesting.com/training-events/testbash-brighton-2017/) | Testing |
 | 2016.08.16 | 2017.03.28-30 | Germany, Bruehl | [JavaLand](https://www.javaland.eu/en/home/) | [here](https://www.javaland.eu/en/speaker/speaker/) | JVM |
 | 2016.08.14 | 2016.12.08-09 | UK, London | [Scala eXchange](https://skillsmatter.com/conferences/7432-scala-exchange-2016#) | [here](https://skillsmatter.com/conferences/7432-scala-exchange-2016#get_involved) | Scala, Functional Programming, Big Data, Reactive |
 | 2016.08.10 | 2016.10.14-15 | Ukraine, Kyiv | [JavaDay Kyiv](http://javaday.org.ua/kyiv/) | [here](http://javaday.org.ua/call-for-papers-kyiv/) | Java, JVM |
