@@ -16,6 +16,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2016.09.26 | 2016.11.17-18 | Spain, Madrid | [Big Data Spain](http://www.bigdataspain.org) | [here](http://www.bigdataspain.org/pdf/Call-for-papers-Big-Data-Spain-2016-edition.pdf) | Big Data |
 | 2016.09.22 | 2016.10.22 | Poland, Łódź | [Mobilization](http://2016.mobilization.pl/) | [here](http://bit.ly/mobilization6-c4p) | Mobile |
 | 2016.09.16 | 2017 spring | Italy, Rome | [Codemotion Rome](http://rome2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com/c4p.php) | Big Data, DevOps, IoT, CI, Frontend, Backend | 
+| 2016.09.15 | 2016.10.20-21 | Czech Republic, Prague | [GeeCON Prague](http://2016.geecon.cz) | [here](http://2016.geecon.cz/cfp/) | Java, Groovy, Ruby |
 | 2016.09.09 | 2016.11.16-18 | Spain, Seville | [ApacheCon 2016](http://events.linuxfoundation.org/events/apachecon-europe) | [here](http://events.linuxfoundation.org/events/apachecon-europe/program/cfp) | Apache related projects & Big Data |
 | 2016.09.04 | 2016.10.27-28 | France, Lyon | [Scala.IO](http://scala.io/) |  [here](http://scala.io/cfp.html) | Scala, Functional Programming, Big Data |
 | 2016.08.26 | 2017.03.23-24 | UK, Brighton | [TestBash Brighton](http://www.ministryoftesting.com/2016/07/testbash-brighton-call-papers/) | [here](http://www.ministryoftesting.com/training-events/testbash-brighton-2017/) | Testing |
