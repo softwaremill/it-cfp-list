@@ -22,7 +22,8 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2016.08.26 | 2017.03.23-24 | UK, Brighton | [TestBash Brighton](http://www.ministryoftesting.com/2016/07/testbash-brighton-call-papers/) | [here](http://www.ministryoftesting.com/training-events/testbash-brighton-2017/) | Testing |
 | 2016.08.16 | 2017.03.28-30 | Germany, Bruehl | [JavaLand](https://www.javaland.eu/en/home/) | [here](https://www.javaland.eu/en/speaker/speaker/) | JVM |
 | 2016.08.14 | 2016.12.08-09 | UK, London | [Scala eXchange](https://skillsmatter.com/conferences/7432-scala-exchange-2016#) | [here](https://skillsmatter.com/conferences/7432-scala-exchange-2016#get_involved) | Scala, Functional Programming, Big Data, Reactive |
-| 2016.08.12 | 2016.11.15 | Germany, Darmstadt | [MODCONF 2016](https://www.eventbrite.com/e/modconf-2016-registration-26637008008) | [here](https://www.papercall.io/devcon) | Liferay, OSGi, Microservices, Modularity |
+| 2016.08.12 | 2016.11.14-16 | Germany, Darmstadt | [DEVCON ](https://web.liferay.com/web/events2016/devcon/home) | [here](https://www.papercall.io/devcon) | Liferay |
+| 2016.08.12 | 2016.11.15 | Germany, Darmstadt | [MODCONF 2016](https://www.eventbrite.com/e/modconf-2016-registration-26637008008) | [here](https://www.papercall.io/devcon) | OSGi, Microservices, Modularity |
 | 2016.08.10 | 2016.10.14-15 | Ukraine, Kyiv | [JavaDay Kyiv](http://javaday.org.ua/kyiv/) | [here](http://javaday.org.ua/call-for-papers-kyiv/) | Java, JVM |
 | 2016.07.31 | 2016.10.17-18 | Canada, Toronto | [Full Stack Toronto](http://fsto.co/) | [here](https://fsto.co/speak/) | Frontend, Backend, UX, IoT, DevOps |
 | 2016.07.24 | 2016.11.01-03 | Morocco, Casablanca | [Devoxx Morocco](http://devoxx.ma/) |  [here](http://cfp.devoxx.ma/) | JVM, Big Data, IoT, Cloud, Alternative Languages |
