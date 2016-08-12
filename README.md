@@ -20,6 +20,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2016.09.15 | 2016.10.20-21 | Czech Republic, Prague | [GeeCON Prague](http://2016.geecon.cz) | [here](http://2016.geecon.cz/cfp/) | Java, Groovy, Ruby |
 | 2016.09.09 | 2016.11.16-18 | Spain, Seville | [ApacheCon 2016](http://events.linuxfoundation.org/events/apachecon-europe) | [here](http://events.linuxfoundation.org/events/apachecon-europe/program/cfp) | Apache related projects & Big Data |
 | 2016.09.04 | 2016.10.27-28 | France, Lyon | [Scala.IO](http://scala.io/) |  [here](http://scala.io/cfp.html) | Scala, Functional Programming, Big Data |
+| 2016.08.30 | 2016.10.28-29 | Croatia, Zagreb | [WebCamp Zagreb](https://2016.webcampzg.org/) | [here](https://2016.webcampzg.org/cfp) | Development, UX, DB, Mobile, Web |
 | 2016.08.26 | 2017.03.23-24 | UK, Brighton | [TestBash Brighton](http://www.ministryoftesting.com/2016/07/testbash-brighton-call-papers/) | [here](http://www.ministryoftesting.com/training-events/testbash-brighton-2017/) | Testing |
 | 2016.08.21 | 2016.11.03 | Netherlands, Ede | [J-Fall](http://www.nljugcfp.nl/) | [here](http://www.nljugcfp.nl/) | JVM, IoT, Mobile |
 | 2016.08.16 | 2017.03.28-30 | Germany, Bruehl | [JavaLand](https://www.javaland.eu/en/home/) | [here](https://www.javaland.eu/en/speaker/speaker/) | JVM |
