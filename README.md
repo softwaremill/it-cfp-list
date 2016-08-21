@@ -16,6 +16,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2016.09.30 | 2016.11.22-23 | Poland, Warsaw | [DevOpsDays Warsaw](http://2016.devopsdays.pl/) | [here](http://2016.devopsdays.pl/cfp/form/) | DevOps |
 | 2016.09.26 | 2016.11.17-18 | Spain, Madrid | [Big Data Spain](http://www.bigdataspain.org) | [here](http://www.bigdataspain.org/pdf/Call-for-papers-Big-Data-Spain-2016-edition.pdf) | Big Data |
 | 2016.09.22 | 2016.10.22 | Poland, Łódź | [Mobilization](http://2016.mobilization.pl/) | [here](http://bit.ly/mobilization6-c4p) | Mobile |
+| 2016.09.20 | 2017.03.08-10 | Canada, Montreal | [ConFoo Montreal](https://confoo.ca/en/yul2017) | [here](https://confoo.ca/en/yul2017/call-for-papers) | Web development, DevOps |
 | 2016.09.16 | 2017 spring | Italy, Rome | [Codemotion Rome](http://rome2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com/c4p.php) | Big Data, DevOps, IoT, CI, Frontend, Backend | 
 | 2016.09.15 | 2016.10.20-21 | Czech Republic, Prague | [GeeCON Prague](http://2016.geecon.cz) | [here](http://2016.geecon.cz/cfp/) | Java, Groovy, Ruby |
 | 2016.09.09 | 2016.11.16-18 | Spain, Seville | [ApacheCon 2016](http://events.linuxfoundation.org/events/apachecon-europe) | [here](http://events.linuxfoundation.org/events/apachecon-europe/program/cfp) | Apache related projects & Big Data |
