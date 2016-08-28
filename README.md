@@ -12,6 +12,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | ??? | 2016.09.30-10.01 | Spain, Cádiz | [Lambda World](http://www.lambda.world/) | [here](http://www.lambda.world/blog/call-for-papers-2016) | Functional programming |
 | ??? | 2016.09.22-23 | Poland, Kraków | [TWF Conference](http://conference2016.twf.community/) | [here](http://goo.gl/forms/3H87cl20Q7) | Front-end, UI/UX, Programming, IoT | 
 | ??? | 2016.11.07-11 | United States, San Francisco | [QCon San Francisco](https://qconsf.com) | [here](https://qconsf.com/talk-submissions-qcon-sf-2016) | Deep Learning, Big Data, Chatbots... , Trends |
+| 2016.11.01 | 2017.02.20-22 | USA, Atlanta | [DevNexus](https://devnexus.com) | [here](https://devnexus.com/s/cfp) | Java, Java EE, Spring, JavaScript, JVM, UX, Cloud, Mobile, ... |
 | 2016.10.31 | 2016 winter  | Israel, Tel Aviv | [Codemotion Tel Aviv](http://telaviv2016.codemotionworld.com/) | [here](http://speaker.codemotionworld.com/c4p.php) | Big Data, DevOps, IoT, CI, Frontend, Backend | 
 | 2016.09.30 | 2017.02.06-08 | Sweden, Stockholm | [Jfokus](http://www.jfokus.se/) | [here](http://www.jfokus.se/jfokus/proposals.jsp) | JVM, NoSQL, Mobile... |
 | 2016.09.30 | 2016.11.22-23 | Poland, Warsaw | [DevOpsDays Warsaw](http://2016.devopsdays.pl/) | [here](http://2016.devopsdays.pl/cfp/form/) | DevOps |
