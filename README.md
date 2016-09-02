@@ -14,6 +14,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | ??? | 2016.09.22-23 | Poland, Kraków | [TWF Conference](http://conference2016.twf.community/) | [here](http://goo.gl/forms/3H87cl20Q7) | Front-end, UI/UX, Programming, IoT | 
 | ??? | 2016.11.07-11 | United States, San Francisco | [QCon San Francisco](https://qconsf.com) | [here](https://qconsf.com/talk-submissions-qcon-sf-2016) | Deep Learning, Big Data, Chatbots... , Trends |
 | 2016.11.01 | 2017.02.20-22 | USA, Atlanta | [DevNexus](https://devnexus.com) | [here](https://devnexus.com/s/cfp) | Java, Java EE, Spring, JavaScript, JVM, UX, Cloud, Mobile, ... |
+| 2016.10.25 | 2017.05.10-11 | USA, Austin | [OSCON](http://conferences.oreilly.com/oscon/oscon-tx) |  [here](http://conferences.oreilly.com/oscon/oscon-tx/public/cfp/502?cmp=tw-prog-confpro-lp-ostx16_cfp) | Open Source, Big Data, Security, ... |
 | 2016.10.31 | 2016 winter  | Israel, Tel Aviv | [Codemotion Tel Aviv](http://telaviv2016.codemotionworld.com/) | [here](http://speaker.codemotionworld.com/c4p.php) | Big Data, DevOps, IoT, CI, Frontend, Backend | 
 | 2016.09.30 | 2017.03.13-16 | USA, San Jose | [Strata + Hadoop World](http://conferences.oreilly.com/strata/strata-ca) | [here](http://conferences.oreilly.com/strata/strata-ca/public/cfp/495) | Hadoop, Big Data, Data science, Spark, IoT |
 | 2016.09.30 | 2017.02.06-08 | Sweden, Stockholm | [Jfokus](http://www.jfokus.se/) | [here](http://www.jfokus.se/jfokus/proposals.jsp) | JVM, NoSQL, Mobile... |
