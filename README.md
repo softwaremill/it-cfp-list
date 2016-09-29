@@ -6,7 +6,6 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
-| 2016.11.20 | 2017.02.25-26 | Tokyo, Japan | [ScalaMatsuri](http://2017.scalamatsuri.org/index_en.html) | [here](http://2017.scalamatsuri.org/en/cfp/) | Scala |
 | ??? | 2017.01.07-08 | India, New Delhi | [GR8Conf IN](http://gr8conf.in/) | [here](http://gr8conf.in/#/cfp) | Groovy, Grails, Gradle |
 | ??? | 2016.11.28-12.01 | USA, Fort Lauderdale | [G3 Summit](https://g3summit.com) | [here](https://g3summit.com/home/speaker_request) | Groovy, Grails, Gradle |
 | ??? | 2016.11.21-22 | Poland, Warsaw | [ngPoland](http://www.ng-poland.pl/) | [here](https://goo.gl/jhe6H5) | AngularJS |
@@ -15,7 +14,9 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | ??? | 2016.09.30-10.01 | Spain, Cádiz | [Lambda World](http://www.lambda.world/) | [here](http://www.lambda.world/blog/call-for-papers-2016) | Functional programming |
 | ??? | 2016.09.22-23 | Poland, Kraków | [TWF Conference](http://conference2016.twf.community/) | [here](http://goo.gl/forms/3H87cl20Q7) | Front-end, UI/UX, Programming, IoT | 
 | ??? | 2016.11.07-11 | United States, San Francisco | [QCon San Francisco](https://qconsf.com) | [here](https://qconsf.com/talk-submissions-qcon-sf-2016) | Deep Learning, Big Data, Chatbots... , Trends |
+| 2017.01.01 |  2017.02.09-10 | Poland, Kraków | [Lambda Days](http://www.lambdadays.org/lambdadays2017) | [here](http://www.lambdadays.org/lambdadays2017#call-for-talks) | functional programming, web, reactive, ...|
 | 2016.11.25 | 2017.04.28 | UK, London | [ProgSCon London](http://2017.progscon.co.uk/) | [here](http://2017.progscon.co.uk/talk-submission/) | Programming, Practices, Languages |
+| 2016.11.20 | 2017.02.25-26 | Tokyo, Japan | [ScalaMatsuri](http://2017.scalamatsuri.org/index_en.html) | [here](http://2017.scalamatsuri.org/en/cfp/) | Scala |
 | 2016.11.18 | 2017.02.23 | Switzerland, Zürich | [Voxxed Days Zürich 2017](https://voxxeddays.com/zurich/) | [here](https://cfp-vdz.exteso.com/) | JVM, BigData, Mobile, ...|
 | 2016.11.01 | 2017.02.20-22 | USA, Atlanta | [DevNexus](https://devnexus.com) | [here](https://devnexus.com/s/cfp) | Java, Java EE, Spring, JavaScript, JVM, UX, Cloud, Mobile, ... |
 | 2016.10.25 | 2017.05.10-11 | USA, Austin | [OSCON](http://conferences.oreilly.com/oscon/oscon-tx) |  [here](http://conferences.oreilly.com/oscon/oscon-tx/public/cfp/502?cmp=tw-prog-confpro-lp-ostx16_cfp) | Open Source, Big Data, Security, ... |
