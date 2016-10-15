@@ -8,6 +8,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 |---------|-----------------|---------------|------|----------|----------|
 | ??? | 2017.01.07-08 | India, New Delhi | [GR8Conf IN](http://gr8conf.in/) | [here](http://gr8conf.in/#/cfp) | Groovy, Grails, Gradle |
 | ??? | 2016.11.28-12.01 | USA, Fort Lauderdale | [G3 Summit](https://g3summit.com) | [here](https://g3summit.com/home/speaker_request) | Groovy, Grails, Gradle |
+| ??? | 2016.11.26 | Poland, Warsaw | [GDG DevFest Poland](https://devfest.pl/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSfEGOW-ozP2xebZIYLOZ1vanPwalJLMGpx4YJgAuqs2-BvxGw/viewform) | Android, Design, UX |
 | ??? | 2016.11.21-22 | Poland, Warsaw | [ngPoland](http://www.ng-poland.pl/) | [here](https://goo.gl/jhe6H5) | AngularJS |
 | ??? | 2016.10.14 | Lithuania, Vilnius | [High Load Strategy](http://www.highloadstrategy.lt/) | [here](http://www.highloadstrategy.lt/) | Architecture, DevOps, Data Science |
 | ??? | 2016.10.10-12 | Poland, Warsaw | [AgileByExample](http://2016.agilebyexample.com/) | [here](http://2016.agilebyexample.com/c4s/) | Agile | 
