@@ -15,6 +15,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | ??? | 2016.09.30-10.01 | Spain, Cádiz | [Lambda World](http://www.lambda.world/) | [here](http://www.lambda.world/blog/call-for-papers-2016) | Functional programming |
 | ??? | 2016.09.22-23 | Poland, Kraków | [TWF Conference](http://conference2016.twf.community/) | [here](http://goo.gl/forms/3H87cl20Q7) | Front-end, UI/UX, Programming, IoT | 
 | ??? | 2016.11.07-11 | United States, San Francisco | [QCon San Francisco](https://qconsf.com) | [here](https://qconsf.com/talk-submissions-qcon-sf-2016) | Deep Learning, Big Data, Chatbots... , Trends |
+| 2017.02.28 | 2017.06.21-23 | Poland, Kraków | [Devoxx Poland](http://devoxx.pl/) | [here](http://cfp.devoxx.pl/) | Java, Big Data, Mobile, Web, ...|
 | 2017.01.01 |  2017.02.09-10 | Poland, Kraków | [Lambda Days](http://www.lambdadays.org/lambdadays2017) | [here](http://www.lambdadays.org/lambdadays2017#call-for-talks) | functional programming, web, reactive, ...|
 | 2016.11.25 | 2017.04.28 | UK, London | [ProgSCon London](http://2017.progscon.co.uk/) | [here](http://2017.progscon.co.uk/talk-submission/) | Programming, Practices, Languages |
 | 2016.11.20 | 2017.02.25-26 | Tokyo, Japan | [ScalaMatsuri](http://2017.scalamatsuri.org/index_en.html) | [here](http://2017.scalamatsuri.org/en/cfp/) | Scala |
