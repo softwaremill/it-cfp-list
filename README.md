@@ -16,6 +16,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2016.11.25 | 2017.04.28 | UK, London | [ProgSCon London](http://2017.progscon.co.uk/) | [here](http://2017.progscon.co.uk/talk-submission/) | Programming, Practices, Languages |
 | 2016.11.20 | 2017.02.25-26 | Tokyo, Japan | [ScalaMatsuri](http://2017.scalamatsuri.org/index_en.html) | [here](http://2017.scalamatsuri.org/en/cfp/) | Scala |
 | 2016.11.18 | 2017.02.23 | Switzerland, Zürich | [Voxxed Days Zürich 2017](https://voxxeddays.com/zurich/) | [here](https://cfp-vdz.exteso.com/) | JVM, BigData, Mobile, ...|
+| 2016.11.11 | 2017.01.27-29 | Czech Republic, Brno | [DevConf.cz](https://devconf.cz/) | [here](https://devconfcz.typeform.com/to/SB4LW3) | BigData, DevOps, JVM, Java EE, JBoss, Tets, Mobile, ... |
 | 2016.11.01 | 2017.02.20-22 | USA, Atlanta | [DevNexus](https://devnexus.com) | [here](https://devnexus.com/s/cfp) | Java, Java EE, Spring, JavaScript, JVM, UX, Cloud, Mobile, ... |
 | 2016.10.25 | 2017.05.10-11 | USA, Austin | [OSCON](http://conferences.oreilly.com/oscon/oscon-tx) |  [here](http://conferences.oreilly.com/oscon/oscon-tx/public/cfp/502?cmp=tw-prog-confpro-lp-ostx16_cfp) | Open Source, Big Data, Security, ... |
 | 2016.10.31 | 2016 winter  | Israel, Tel Aviv | [Codemotion Tel Aviv](http://telaviv2016.codemotionworld.com/) | [here](http://speaker.codemotionworld.com/c4p.php) | Big Data, DevOps, IoT, CI, Frontend, Backend | 
