@@ -13,6 +13,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | ??? | 2016.11.07-11 | United States, San Francisco | [QCon San Francisco](https://qconsf.com) | [here](https://qconsf.com/talk-submissions-qcon-sf-2016) | Deep Learning, Big Data, Chatbots... , Trends |
 | 2017.02.28 | 2017.06.21-23 | Poland, Kraków | [Devoxx Poland](http://devoxx.pl/) | [here](http://cfp.devoxx.pl/) | Java, Big Data, Mobile, Web, ...|
 | 2017.01.01 |  2017.02.09-10 | Poland, Kraków | [Lambda Days](http://www.lambdadays.org/lambdadays2017) | [here](http://www.lambdadays.org/lambdadays2017#call-for-talks) | functional programming, web, reactive, ...|
+| 2016.12.15 | 2017.03.10 | Romania, Bucharest | [Voxxed Days Bucharest 2017](https://voxxeddays.com/bucharest/) | [here](https://voxxeddays.com/bucharest/cfp-2017/) | JVM, BigData, Mobile, ...|
 | 2016.11.25 | 2017.04.28 | UK, London | [ProgSCon London](http://2017.progscon.co.uk/) | [here](http://2017.progscon.co.uk/talk-submission/) | Programming, Practices, Languages |
 | 2016.11.20 | 2017.02.25-26 | Tokyo, Japan | [ScalaMatsuri](http://2017.scalamatsuri.org/index_en.html) | [here](http://2017.scalamatsuri.org/en/cfp/) | Scala |
 | 2016.11.18 | 2017.02.23 | Switzerland, Zürich | [Voxxed Days Zürich 2017](https://voxxeddays.com/zurich/) | [here](https://cfp-vdz.exteso.com/) | JVM, BigData, Mobile, ...|
