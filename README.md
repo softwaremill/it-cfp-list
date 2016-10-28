@@ -6,6 +6,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| ??? | 2017.03.??? | Poland, Kraków | [ScalaSphere DevTools Summit](https://scalasphere.org/) | [here](https://goo.gl/forms/8qXYfayvNbg9LKQ23) | Scala DevTools |
 | ??? | 2017.01.07-08 | India, New Delhi | [GR8Conf IN](http://gr8conf.in/) | [here](http://gr8conf.in/#/cfp) | Groovy, Grails, Gradle |
 | ??? | 2016.11.28-12.01 | USA, Fort Lauderdale | [G3 Summit](https://g3summit.com) | [here](https://g3summit.com/home/speaker_request) | Groovy, Grails, Gradle |
 | ??? | 2016.11.26 | Poland, Warsaw | [GDG DevFest Poland](https://devfest.pl/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSfEGOW-ozP2xebZIYLOZ1vanPwalJLMGpx4YJgAuqs2-BvxGw/viewform) | Android, Design, UX |
