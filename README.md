@@ -18,6 +18,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.01.01 |  2017.02.09-10 | Poland, Kraków | [Lambda Days](http://www.lambdadays.org/lambdadays2017) | [here](http://www.lambdadays.org/lambdadays2017#call-for-talks) | functional programming, web, reactive, ...|
 | 2016.12.15 | 2017.05.11-12 | Romania, Bucharest | [I T.A.K.E. Unconference](http://itakeunconf.com/) | [here](http://itakeunconf.com/call-for-speakers/) | DevOps, Architecture, Big Data, Mobile, FP, ... |
 | 2016.12.15 | 2017.03.10 | Romania, Bucharest | [Voxxed Days Bucharest 2017](https://voxxeddays.com/bucharest/) | [here](https://voxxeddays.com/bucharest/cfp-2017/) | JVM, BigData, Mobile, ...|
+| 2016.12.15 | 2017.03.16-17 | Austria, Vienna | [Voxxed Days Vienna 2017](https://voxxeddays.com/vienna/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdqyFBuGx4Is_XUrHu-cvzLZkE_66SPrzpk2klDURUJX782Cw/viewform) | JVM, BigData, Mobile, ...|
 | 2016.12.01 | 2017.05.17-19 | Lithuania, Vilnius | [DevDays Vilnius](http://devdays.lt/) | [here](https://goo.gl/QUqXZA) | Languages, Agile, Devops, Big data, ... |
 | 2016.11.25 | 2017.04.28 | UK, London | [ProgSCon London](http://2017.progscon.co.uk/) | [here](http://2017.progscon.co.uk/talk-submission/) | Programming, Practices, Languages |
 | 2016.11.20 | 2017.02.25-26 | Tokyo, Japan | [ScalaMatsuri](http://2017.scalamatsuri.org/index_en.html) | [here](http://2017.scalamatsuri.org/en/cfp/) | Scala |
