@@ -12,6 +12,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | ??? | 2016.11.26 | Poland, Warsaw | [GDG DevFest Poland](https://devfest.pl/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSfEGOW-ozP2xebZIYLOZ1vanPwalJLMGpx4YJgAuqs2-BvxGw/viewform) | Android, Design, UX |
 | ??? | 2016.11.21-22 | Poland, Warsaw | [ngPoland](http://www.ng-poland.pl/) | [here](https://goo.gl/jhe6H5) | AngularJS |
 | ??? | 2016.11.07-11 | United States, San Francisco | [QCon San Francisco](https://qconsf.com) | [here](https://qconsf.com/talk-submissions-qcon-sf-2016) | Deep Learning, Big Data, Chatbots... , Trends |
+| 2017.03.01 | 2017.05.02-03 | Norway, Oslo | [flatMap(Oslo)](http://2017.flatmap.no/) | [here](http://2017.flatmap.no/cfp/) | Scala, JVM |
 | 2017.02.28 | 2017.06.21-23 | Poland, Kraków | [Devoxx Poland](http://devoxx.pl/) | [here](http://cfp.devoxx.pl/) | Java, Big Data, Mobile, Web, ...|
 | 2017.01.31 | 2017.04.07-08 | Poland, Warsaw | [Scalar](http://scalar-conf.com) | [here](https://docs.google.com/forms/d/e/1FAIpQLScTnyaCZq6WaeDFI_GUWFsV2dfNMLqIE4vRtFh7m1R6wh4JTg/viewform?c=0&w=1) | Scala, Spark, functional programming, reactive, ... |
 | 2017.01.16 | 2017.05.11-12 | UK, London | [Devoxx UK](http://www.devoxx.co.uk/) | [here](http://cfp.devoxx.co.uk/) | JVM, BigData, IoT, ...|
