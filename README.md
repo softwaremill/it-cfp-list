@@ -6,6 +6,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| ??? | 2017.05.13 | Italy, Rome | [Scala Italy](http://2017.scala-italy.it/) | [here](https://scalaitaly.typeform.com/to/iJyXpo) | Scala |
 | ??? | 2017.03.??? | Poland, Kraków | [ScalaSphere DevTools Summit](https://scalasphere.org/) | [here](https://goo.gl/forms/8qXYfayvNbg9LKQ23) | Scala DevTools |
 | ??? | 2017.01.07-08 | India, New Delhi | [GR8Conf IN](http://gr8conf.in/) | [here](http://gr8conf.in/#/cfp) | Groovy, Grails, Gradle |
 | ??? | 2016.11.28-12.01 | USA, Fort Lauderdale | [G3 Summit](https://g3summit.com) | [here](https://g3summit.com/home/speaker_request) | Groovy, Grails, Gradle |
