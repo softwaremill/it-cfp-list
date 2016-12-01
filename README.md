@@ -16,6 +16,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.02.28 | 2017.06.21-23 | Poland, Kraków | [Devoxx Poland](http://devoxx.pl/) | [here](http://cfp.devoxx.pl/) | Java, Big Data, Mobile, Web, ...|
 | 2017.01.31 | 2017.04.07-08 | Poland, Warsaw | [Scalar](http://scalar-conf.com) | [here](https://docs.google.com/forms/d/e/1FAIpQLScTnyaCZq6WaeDFI_GUWFsV2dfNMLqIE4vRtFh7m1R6wh4JTg/viewform?c=0&w=1) | Scala, Spark, functional programming, reactive, ... |
 | 2017.01.16 | 2017.05.11-12 | UK, London | [Devoxx UK](http://www.devoxx.co.uk/) | [here](http://cfp.devoxx.co.uk/) | JVM, BigData, IoT, ...|
+| 2017.01.08 | 2017.04.05-07 | France, Paris | [Devoxx France](http://www.devoxx.fr/) | [here](https://cfp.devoxx.fr/) | JVM, BigData, ... |
 | 2017.01.01 |  2017.02.09-10 | Poland, Kraków | [Lambda Days](http://www.lambdadays.org/lambdadays2017) | [here](http://www.lambdadays.org/lambdadays2017#call-for-talks) | functional programming, web, reactive, ...|
 | 2016.12.15 | 2017.05.11-12 | Romania, Bucharest | [I T.A.K.E. Unconference](http://itakeunconf.com/) | [here](http://itakeunconf.com/call-for-speakers/) | DevOps, Architecture, Big Data, Mobile, FP, ... |
 | 2016.12.15 | 2017.03.10 | Romania, Bucharest | [Voxxed Days Bucharest 2017](https://voxxeddays.com/bucharest/) | [here](https://voxxeddays.com/bucharest/cfp-2017/) | JVM, BigData, Mobile, ...|
