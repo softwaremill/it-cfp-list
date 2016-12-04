@@ -7,9 +7,9 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
 | ??? | 2017.05.13 | Italy, Rome | [Scala Italy](http://2017.scala-italy.it/) | [here](https://scalaitaly.typeform.com/to/iJyXpo) | Scala |
-| ??? | 2017.01.07-08 | India, New Delhi | [GR8Conf IN](http://gr8conf.in/) | [here](http://gr8conf.in/#/cfp) | Groovy, Grails, Gradle |
 | 2017.03.01 | 2017.05.02-03 | Norway, Oslo | [flatMap(Oslo)](http://2017.flatmap.no/) | [here](http://2017.flatmap.no/cfp/) | Scala, JVM |
 | 2017.02.28 | 2017.06.21-23 | Poland, Kraków | [Devoxx Poland](http://devoxx.pl/) | [here](http://cfp.devoxx.pl/) | Java, Big Data, Mobile, Web, ...|
+| 2017.01.31 | 2017.05.31-06.02 | Denmark, Copenhagen | [GR8Conf EU](http://gr8conf.eu/) | [here](http://gr8conf.eu/#/cfp) | Groovy, Grails, Gradle |
 | 2017.01.31 | 2017.04.07-08 | Poland, Warsaw | [Scalar](http://scalar-conf.com) | [here](https://docs.google.com/forms/d/e/1FAIpQLScTnyaCZq6WaeDFI_GUWFsV2dfNMLqIE4vRtFh7m1R6wh4JTg/viewform?c=0&w=1) | Scala, Spark, functional programming, reactive, ... |
 | 2017.01.16 | 2017.05.11-12 | UK, London | [Devoxx UK](http://www.devoxx.co.uk/) | [here](http://cfp.devoxx.co.uk/) | JVM, BigData, IoT, ...|
 | 2017.01.15 | 2017.05.30-06.02 | Denmark, Copenhagen | [Scala Days Copenhagen](http://event.scaladays.org/scaladays-cph-2017) | [here](https://docs.google.com/forms/d/e/1FAIpQLSfwk4qi7K3gORGJp-PUEFj6KGDltZz7YQXHLV31Lro9YmAWLA/viewform) | Scala, Bid Data, IoT, Functional, ... |
@@ -42,6 +42,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2016.11.15 | 2017.02.09 | Poland, Warsaw | [Big Data Tech Warsaw](http://bigdatatechwarsaw.eu/) | [here](http://bigdatatechwarsaw.eu/cfp/) | Big Data, ...|
 | 2016.11.11 | 2017.01.27-29 | Czech Republic, Brno | [DevConf.cz](https://devconf.cz/) | [here](https://devconfcz.typeform.com/to/SB4LW3) | BigData, DevOps, JVM, Java EE, JBoss, Tets, Mobile, ... |
 | 2016.11.01 | 2017.02.20-22 | USA, Atlanta | [DevNexus](https://devnexus.com) | [here](https://devnexus.com/s/cfp) | Java, Java EE, Spring, JavaScript, JVM, UX, Cloud, Mobile, ... |
+| 2016.10.31 | 2017.01.07-08 | India, New Delhi | [GR8Conf IN](http://gr8conf.in/) | [here](http://gr8conf.in/#/cfp) | Groovy, Grails, Gradle |
 | 2016.10.25 | 2017.05.10-11 | USA, Austin | [OSCON](http://conferences.oreilly.com/oscon/oscon-tx) |  [here](http://conferences.oreilly.com/oscon/oscon-tx/public/cfp/502?cmp=tw-prog-confpro-lp-ostx16_cfp) | Open Source, Big Data, Security, ... |
 | 2016.10.11 | 2017.03.21-23 | USA, San Jose | [Devoxx United States](https://devoxx.us/) | [here](http://cfp.devoxx.us/) | JVM, Big Data, Web, Mobile |
 | 2016.09.30 | 2017.03.13-16 | USA, San Jose | [Strata + Hadoop World](http://conferences.oreilly.com/strata/strata-ca) | [here](http://conferences.oreilly.com/strata/strata-ca/public/cfp/495) | Hadoop, Big Data, Data science, Spark, IoT |
