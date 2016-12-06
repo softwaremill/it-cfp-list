@@ -18,6 +18,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.01.08 | 2017.04.05-07 | France, Paris | [Devoxx France](http://www.devoxx.fr/) | [here](https://cfp.devoxx.fr/) | JVM, BigData, ... |
 | 2017.01.01 |  2017.02.09-10 | Poland, Kraków | [Lambda Days](http://www.lambdadays.org/lambdadays2017) | [here](http://www.lambdadays.org/lambdadays2017#call-for-talks) | functional programming, web, reactive, ...|
 | 2016.12.31 | 2017.03.29-30  | Israel, Tel Aviv | [Codemotion Tel Aviv](http://telaviv2016.codemotionworld.com/) | [here](http://speaker.codemotionworld.com/c4p.php) | Big Data, DevOps, IoT, CI, Frontend, Backend | 
+| 2016.12.16 | 2017.05.02-04  | USA, Boston | [Red Hat Summit](https://www.redhat.com/en/summit/2017) | [here](http://redhat.slides.com/events/2017-red-hat-summit-submission-guide) | Big Data, DevOps, IoT, ... | 
 | 2016.12.15 | 2017.05.11-12 | Romania, Bucharest | [I T.A.K.E. Unconference](http://itakeunconf.com/) | [here](http://itakeunconf.com/call-for-speakers/) | DevOps, Architecture, Big Data, Mobile, FP, ... |
 | 2016.12.15 | 2017.03.10 | Romania, Bucharest | [Voxxed Days Bucharest 2017](https://voxxeddays.com/bucharest/) | [here](https://voxxeddays.com/bucharest/cfp-2017/) | JVM, BigData, Mobile, ...|
 | 2016.12.15 | 2017.03.16-17 | Austria, Vienna | [Voxxed Days Vienna 2017](https://voxxeddays.com/vienna/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdqyFBuGx4Is_XUrHu-cvzLZkE_66SPrzpk2klDURUJX782Cw/viewform) | JVM, BigData, Mobile, ...|
