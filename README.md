@@ -7,6 +7,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
 | ??? | 2017.05.13 | Italy, Rome | [Scala Italy](http://2017.scala-italy.it/) | [here](https://scalaitaly.typeform.com/to/iJyXpo) | Scala |
+| 2017.04.01 | 2017.05.03 | Israel, Tel Aviv | [flatMap(Oslo)](http://www.scalapeno.org.il) | [here](https://docs.google.com/document/d/1tBDTWWVkUUPinwp6KTROGbndDWweZRHcqonJK0PGFU4/preview) | Scala |
 | 2017.03.01 | 2017.05.02-03 | Norway, Oslo | [flatMap(Oslo)](http://2017.flatmap.no/) | [here](http://2017.flatmap.no/cfp/) | Scala, JVM |
 | 2017.02.28 | 2017.06.21-23 | Poland, Kraków | [Devoxx Poland](http://devoxx.pl/) | [here](http://cfp.devoxx.pl/) | Java, Big Data, Mobile, Web, ...|
 | 2017.02.15 | 2017.06.12-16 |  Norway, Oslo | [NDC Oslo](http://ndcoslo.com/) | [here](http://ndcoslo.com/page/call-for-papers/) | .NET, JavaScript, C++, IoT, Big Data |
