@@ -12,6 +12,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.02.28 | 2017.06.21-23 | Poland, Kraków | [Devoxx Poland](http://devoxx.pl/) | [here](http://cfp.devoxx.pl/) | Java, Big Data, Mobile, Web, ...|
 | 2017.02.15 | 2017.06.12-16 |  Norway, Oslo | [NDC Oslo](http://ndcoslo.com/) | [here](http://ndcoslo.com/page/call-for-papers/) | .NET, JavaScript, C++, IoT, Big Data |
 | 2017.01.31 | 2017.05.31-06.02 | Denmark, Copenhagen | [GR8Conf EU](http://gr8conf.eu/) | [here](http://gr8conf.eu/#/cfp) | Groovy, Grails, Gradle |
+| 2017.01.31 | 2017.05.25-27 | USA, Boulder | [LambdaConf](http://lambdaconf.us/#events#lcusc) | [here](https://www.surveymonkey.com/r/lambdaconf-2017-cfp) | Functional programming, ... |
 | 2017.01.31 | 2017.04.07-08 | Poland, Warsaw | [Scalar](http://scalar-conf.com) | [here](https://docs.google.com/forms/d/e/1FAIpQLScTnyaCZq6WaeDFI_GUWFsV2dfNMLqIE4vRtFh7m1R6wh4JTg/viewform?c=0&w=1) | Scala, Spark, functional programming, reactive, ... |
 | 2017.01.16 | 2017.05.11-12 | UK, London | [Devoxx UK](http://www.devoxx.co.uk/) | [here](http://cfp.devoxx.co.uk/) | JVM, BigData, IoT, ...|
 | 2017.01.15 | 2017.05.30-06.02 | Denmark, Copenhagen | [Scala Days Copenhagen](http://event.scaladays.org/scaladays-cph-2017) | [here](https://docs.google.com/forms/d/e/1FAIpQLSfwk4qi7K3gORGJp-PUEFj6KGDltZz7YQXHLV31Lro9YmAWLA/viewform) | Scala, Bid Data, IoT, Functional, ... |
