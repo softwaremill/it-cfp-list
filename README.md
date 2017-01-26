@@ -15,6 +15,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.02.24 | 2017.05.17-19 | Poland, Kraków | [GeeCON](https://2017.geecon.org/) | [here](https://cfp.geecon.org) | JVM, Big Data, Languages, ... |
 | 2017.02.15 | 2017.06.12-16 |  Norway, Oslo | [NDC Oslo](http://ndcoslo.com/) | [here](http://ndcoslo.com/page/call-for-papers/) | .NET, JavaScript, C++, IoT, Big Data |
 | ~2017.02.15 | 2017.05.11-12 | France, Sophia Antipolis | [Riviera DEV](http://www.rivieradev.fr/) | [here](http://www.rivieradev.fr/cfp) | JVM, JavaScript, Big Data ... |
+| 2017.02.06 | 2017.06.05-07 | USA, San Francisco | [Spark Summit](https://spark-summit.org/2017) | [here](https://spark-summit.org/2017/call-for-presentations) | Spark, ML |
 | 2017.01.31 | 2017.05.31-06.02 | Denmark, Copenhagen | [GR8Conf EU](http://gr8conf.eu/) | [here](http://gr8conf.eu/#/cfp) | Groovy, Grails, Gradle |
 | 2017.01.31 | 2017.05.25-27 | USA, Boulder | [LambdaConf](http://lambdaconf.us/#events#lcusc) | [here](https://www.surveymonkey.com/r/lambdaconf-2017-cfp) | Functional programming, ... |
 | 2017.01.31 | 2017.04.07-08 | Poland, Warsaw | [Scalar](http://scalar-conf.com) | [here](https://docs.google.com/forms/d/e/1FAIpQLScTnyaCZq6WaeDFI_GUWFsV2dfNMLqIE4vRtFh7m1R6wh4JTg/viewform?c=0&w=1) | Scala, Spark, functional programming, reactive, ... |
