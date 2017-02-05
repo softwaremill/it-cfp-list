@@ -13,6 +13,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.03.01 | 2017.05.02-03 | Norway, Oslo | [flatMap(Oslo)](http://2017.flatmap.no/) | [here](http://2017.flatmap.no/cfp/) | Scala, JVM |
 | 2017.02.28 | 2017.06.21-23 | Poland, Kraków | [Devoxx Poland](http://devoxx.pl/) | [here](http://cfp.devoxx.pl/) | Java, Big Data, Mobile, Web, ...|
 | 2017.02.24 | 2017.05.17-19 | Poland, Kraków | [GeeCON](https://2017.geecon.org/) | [here](https://cfp.geecon.org) | JVM, Big Data, Languages, ... |
+| 2017.02.17 | 2017.09.25-26 | UK, Swansea | [SwanseaCon](http://swanseacon.co.uk/) | [here](http://swanseacon.co.uk/speaker-info) | agile, craftsmanship |
 | 2017.02.15 | 2017.06.12-16 |  Norway, Oslo | [NDC Oslo](http://ndcoslo.com/) | [here](http://ndcoslo.com/page/call-for-papers/) | .NET, JavaScript, C++, IoT, Big Data |
 | ~2017.02.15 | 2017.05.11-12 | France, Sophia Antipolis | [Riviera DEV](http://www.rivieradev.fr/) | [here](http://www.rivieradev.fr/cfp) | JVM, JavaScript, Big Data ... |
 | 2017.02.14 | 2017.06.11-12 | Germany, Berlin | [Berlin Buzzwords](https://berlinbuzzwords.de/17/) | [here](https://berlinbuzzwords.de/17/call-submissions) | Search, IR, NoSQL, data processing |
