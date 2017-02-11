@@ -7,6 +7,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
 | 2017.06.30 | 2017.11.09-11 | India, Bangalore | [Functional Conf](http://functionalconf.com/) | [here](http://functionalconf.com/speaker.html) | Functional Programming |
+| 2017.05.17 | 2017.10.20-21 | UAE, Dubai | [Codemotion Dubai](http://dubai2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
 | ??? | 2017.05.13 | Italy, Rome | [Scala Italy](http://2017.scala-italy.it/) | [here](https://scalaitaly.typeform.com/to/iJyXpo) | Scala |
 | 2017.05.01 | 2017.06.19-21 | Spain, Barcelona | [JBCNConf](http://www.jbcnconf.com/2017/) | [here](http://www.jbcnconf.com/2017/#callforpapers) | Java, JVM, Open Source|
 | 2017.04.08 | 2017.06.20-23 | Portugal, Porto | [ScalaSwarm](http://scala-swarm.org/) | [here](http://scala-swarm.org/cfp/1) | Scala |
@@ -16,8 +17,13 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.02.24 | 2017.05.17-19 | Poland, Kraków | [GeeCON](https://2017.geecon.org/) | [here](https://cfp.geecon.org) | JVM, Big Data, Languages, ... |
 | 2017.02.17 | 2017.09.25-26 | UK, Swansea | [SwanseaCon](http://swanseacon.co.uk/) | [here](http://swanseacon.co.uk/speaker-info) | agile, craftsmanship |
 | 2017.02.15 | 2017.06.12-16 |  Norway, Oslo | [NDC Oslo](http://ndcoslo.com/) | [here](http://ndcoslo.com/page/call-for-papers/) | .NET, JavaScript, C++, IoT, Big Data |
-| ~2017.02.15 | 2017.05.11-12 | France, Sophia Antipolis | [Riviera DEV](http://www.rivieradev.fr/) | [here](http://www.rivieradev.fr/cfp) | JVM, JavaScript, Big Data ... |
+| 2017.02.15 | 2017.05.11-12 | France, Sophia Antipolis | [Riviera DEV](http://www.rivieradev.fr/) | [here](http://www.rivieradev.fr/cfp) | JVM, JavaScript, Big Data ... |
 | 2017.02.14 | 2017.06.11-12 | Germany, Berlin | [Berlin Buzzwords](https://berlinbuzzwords.de/17/) | [here](https://berlinbuzzwords.de/17/call-submissions) | Search, IR, NoSQL, data processing |
+
+### Finished
+
+| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
+|---------|-----------------|---------------|------|----------|----------|
 | 2017.02.06 | 2017.06.05-07 | USA, San Francisco | [Spark Summit](https://spark-summit.org/2017) | [here](https://spark-summit.org/2017/call-for-presentations) | Spark, ML |
 | 2017.01.31 | 2017.05.31-06.02 | Denmark, Copenhagen | [GR8Conf EU](http://gr8conf.eu/) | [here](http://gr8conf.eu/#/cfp) | Groovy, Grails, Gradle |
 | 2017.01.31 | 2017.05.25-27 | USA, Boulder | [LambdaConf](http://lambdaconf.us/#events#lcusc) | [here](https://www.surveymonkey.com/r/lambdaconf-2017-cfp) | Functional programming, ... |
@@ -35,12 +41,6 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2016.12.15 | 2017.03.10 | Romania, Bucharest | [Voxxed Days Bucharest 2017](https://voxxeddays.com/bucharest/) | [here](https://voxxeddays.com/bucharest/cfp-2017/) | JVM, BigData, Mobile, ...|
 | 2016.12.15 | 2017.03.16-17 | Austria, Vienna | [Voxxed Days Vienna 2017](https://voxxeddays.com/vienna/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdqyFBuGx4Is_XUrHu-cvzLZkE_66SPrzpk2klDURUJX782Cw/viewform) | JVM, BigData, Mobile, ...|
 | 2016.12.01 | 2017.05.17-19 | Lithuania, Vilnius | [DevDays Vilnius](http://devdays.lt/) | [here](https://goo.gl/QUqXZA) | Languages, Agile, Devops, Big data, ... |
-
-
-### Finished
-
-| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
-|---------|-----------------|---------------|------|----------|----------|
 | ??? | 2016.11.28-12.01 | USA, Fort Lauderdale | [G3 Summit](https://g3summit.com) | [here](https://g3summit.com/home/speaker_request) | Groovy, Grails, Gradle |
 | ??? | 2016.11.26 | Poland, Warsaw | [GDG DevFest Poland](https://devfest.pl/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSfEGOW-ozP2xebZIYLOZ1vanPwalJLMGpx4YJgAuqs2-BvxGw/viewform) | Android, Design, UX |
 | ??? | 2016.11.21-22 | Poland, Warsaw | [ngPoland](http://www.ng-poland.pl/) | [here](https://goo.gl/jhe6H5) | AngularJS |
