@@ -12,6 +12,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | ? | 2017.05.25 | Poland, Warszawa | [Code Europe](https://www.codeeurope.pl/en) | [here](https://www.codeeurope.pl/en) | Backend/Frontend, Mobile, Big Data |
 | ? | 2017.05.23 | Poland, Wrocław | [Code Europe](https://www.codeeurope.pl/en) | [here](https://www.codeeurope.pl/en) | Backend/Frontend, Mobile, Big Data |
 | ? | 2017.04.26 | Poland, Kraków| [Code Europe](https://www.codeeurope.pl/en) | [here](https://www.codeeurope.pl/en) | Backend/Frontend, Mobile, Big Data |
+| 2017.04.24 | 2017.09.13-14 | Norway, Oslo | [JavaZone](https://2017.javazone.no) | [here](https://2017.javazone.no/speakers) | Front-end, Programming, AI, ML, ... |
 | 2017.04.08 | 2017.06.20-23 | Portugal, Porto | [ScalaSwarm](http://scala-swarm.org/) | [here](http://scala-swarm.org/cfp/1) | Scala |
 | 2017.04.01 | 2017.05.03 | Israel, Tel Aviv | [Scalapeño](http://www.scalapeno.org.il) | [here](https://docs.google.com/document/d/1tBDTWWVkUUPinwp6KTROGbndDWweZRHcqonJK0PGFU4/preview) | Scala |
 | 2017.03.05 | 2017.05.13 | Italy, Rome | [Scala Italy](http://2017.scala-italy.it/) | [here](https://scalaitaly.typeform.com/to/iJyXpo) | Scala |
