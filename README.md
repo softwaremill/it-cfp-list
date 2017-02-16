@@ -6,6 +6,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2017.03.24 | 2017.07.21-22 | Vancouver, Canada | [Scala Up North](http://scalaupnorth.com/) | [here](http://scalaupnorth.com/cfp.html) | Scala |
 | 2017.06.30 | 2017.11.09-11 | India, Bangalore | [Functional Conf](http://functionalconf.com/) | [here](http://functionalconf.com/speaker.html) | Functional Programming |
 | 2017.05.17 | 2017.10.20-21 | UAE, Dubai | [Codemotion Dubai](http://dubai2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
 | 2016.05.06 | 2017.09.11-13 | USA, Los Angeles | [Open Source Summit](http://events.linuxfoundation.org/events/open-source-summit-north-america) | [here](http://events.linuxfoundation.org/events/open-source-summit-north-america/program/cfp) | DevOps, IoT, Security, Cloud, ... |
