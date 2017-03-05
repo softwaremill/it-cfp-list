@@ -6,7 +6,6 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
-| 2017.03.24 | 2017.07.21-22 | Vancouver, Canada | [Scala Up North](http://scalaupnorth.com/) | [here](http://scalaupnorth.com/cfp.html) | Scala |
 | 2017.06.30 | 2017.11.09-11 | India, Bangalore | [Functional Conf](http://functionalconf.com/) | [here](http://functionalconf.com/speaker.html) | Functional Programming |
 | 2017.05.17 | 2017.10.20-21 | UAE, Dubai | [Codemotion Dubai](http://dubai2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
 | 2016.05.06 | 2017.09.11-13 | USA, Los Angeles | [Open Source Summit](http://events.linuxfoundation.org/events/open-source-summit-north-america) | [here](http://events.linuxfoundation.org/events/open-source-summit-north-america/program/cfp) | DevOps, IoT, Security, Cloud, ... |
@@ -18,7 +17,9 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.04.13 | 2017.05.17-19 | Poland, Gdańsk | [infoShare](https://infoshare.pl/) | [here](https://infoshare.pl/call-for-papers/) | software development, marketing, technology trends, ...|
 | 2017.04.08 | 2017.06.20-23 | Portugal, Porto | [ScalaSwarm](http://scala-swarm.org/) | [here](http://scala-swarm.org/cfp/1) | Scala |
 | 2017.04.02 | 2017.05.20 | The Netherlands, Eindhoven | [NextBuild](http://nextbuild.nl/) | [here](http://nextbuild.nl/call-for-papers/) | Full Stack |
+| 2017.04.01 | 2017.06.19-20 | Denmark, Copenhagen | [JDK IO 2017](http://jdk.io/) | [here](http://jdk.io/138-jdk-io-2017-call-for-speakers) | Java, JVM, Java EE, Spring |
 | 2017.04.01 | 2017.05.03 | Israel, Tel Aviv | [Scalapeño](http://www.scalapeno.org.il) | [here](https://docs.google.com/document/d/1tBDTWWVkUUPinwp6KTROGbndDWweZRHcqonJK0PGFU4/preview) | Scala |
+| 2017.03.24 | 2017.07.21-22 | Vancouver, Canada | [Scala Up North](http://scalaupnorth.com/) | [here](http://scalaupnorth.com/cfp.html) | Scala |
 | 2017.03.19 | 2017.07.07-09 | France, Paris | [PolyConf 17](https://polyconf.com/) | [here](https://eventil.com/events/polyconf-17/submissions/new) | polyglot approach software development |
 | 2017.03.12 | 2017.04.22 | Poland, Szczecin | [DevCrowd](http://devcrowd.pl/) | [here](http://devcrowd.pl/) | java, it |
 | 2017.03.05 | 2017.05.13 | Italy, Rome | [Scala Italy](http://2017.scala-italy.it/) | [here](https://scalaitaly.typeform.com/to/iJyXpo) | Scala |
