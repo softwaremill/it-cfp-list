@@ -19,6 +19,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.04.14 | 2017.06.18-19 | Spain, Barcelona | [Curry On](http://curry-on.org/2017/) | [here](http://curry-on.org/2017/call-for-presentations.html) | Programming, Programming languages, Big Data, Machine Learning |
 | 2017.04.13 | 2017.05.17-19 | Poland, Gdańsk | [infoShare](https://infoshare.pl/) | [here](https://infoshare.pl/call-for-papers/) | software development, marketing, technology trends, ...|
 | 2017.04.08 | 2017.06.20-23 | Portugal, Porto | [ScalaSwarm](http://scala-swarm.org/) | [here](http://scala-swarm.org/cfp/1) | Scala |
+| 2017.04.02 | 2017.06.03 | Belarus, Minsk | [Java Day Belarus 2017](http://javaday.by/en/) | [here](https://goo.gl/forms/YOkUGYTSlLgnFQrK2) | Java, ...|
 | 2017.04.02 | 2017.05.20 | The Netherlands, Eindhoven | [NextBuild](http://nextbuild.nl/) | [here](http://nextbuild.nl/call-for-papers/) | Full Stack |
 | 2017.04.01 | 2017.06.19-20 | Denmark, Copenhagen | [JDK IO 2017](http://jdk.io/) | [here](http://jdk.io/138-jdk-io-2017-call-for-speakers) | Java, JVM, Java EE, Spring |
 | 2017.04.01 | 2017.05.03 | Israel, Tel Aviv | [Scalapeño](http://www.scalapeno.org.il) | [here](https://docs.google.com/document/d/1tBDTWWVkUUPinwp6KTROGbndDWweZRHcqonJK0PGFU4/preview) | Scala |
