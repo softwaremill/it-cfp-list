@@ -24,6 +24,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.04.02 | 2017.05.20 | The Netherlands, Eindhoven | [NextBuild](http://nextbuild.nl/) | [here](http://nextbuild.nl/call-for-papers/) | Full Stack |
 | 2017.04.01 | 2017.06.19-20 | Denmark, Copenhagen | [JDK IO 2017](http://jdk.io/) | [here](http://jdk.io/138-jdk-io-2017-call-for-speakers) | Java, JVM, Java EE, Spring |
 | 2017.04.01 | 2017.05.03 | Israel, Tel Aviv | [Scalapeño](http://www.scalapeno.org.il) | [here](https://docs.google.com/document/d/1tBDTWWVkUUPinwp6KTROGbndDWweZRHcqonJK0PGFU4/preview) | Scala |
+| 2017.03.31? | 2017.11.06-10 | Sweden, Malmö | [Øredev](http://oredev.org) | [here](http://oredev.org/gen/submit) | Web, Mobile, DevOps, Java, ML, ... |
 | 2017.03.24 | 2017.07.21-22 | Vancouver, Canada | [Scala Up North](http://scalaupnorth.com/) | [here](http://scalaupnorth.com/cfp.html) | Scala |
 | 2017.03.19 | 2017.07.07-09 | France, Paris | [PolyConf 17](https://polyconf.com/) | [here](https://eventil.com/events/polyconf-17/submissions/new) | polyglot approach software development |
 | 2017.03.12 | 2017.04.22 | Poland, Szczecin | [DevCrowd](http://devcrowd.pl/) | [here](http://devcrowd.pl/) | java, it |
