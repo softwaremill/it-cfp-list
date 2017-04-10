@@ -11,6 +11,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2016.05.06 | 2017.09.11-13 | USA, Los Angeles | [Open Source Summit](http://events.linuxfoundation.org/events/open-source-summit-north-america) | [here](http://events.linuxfoundation.org/events/open-source-summit-north-america/program/cfp) | DevOps, IoT, Security, Cloud, ... |
 | 2017.05.31 | 2017.10.19-20 | Belgrade, Serbia | [Voxxed Days Belgrade](https://belgrade.voxxeddays.com/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSeXpSNjd_SpxWxpUdxoF3VfBhzEZ0KzN1BnMSQHriAUsuXYKQ/viewform?c=0&w=1) | Languages + Architecture, Machine Learning + AI, AR + VR, Security |
 | 2017.05.31 | 2017.10.18-20 | USA, Austin | [Reactive Summit](http://www.reactivesummit.org) | [here](https://www.reactivesummit.org/call-for-proposals) | reactive systems, fast data |
+| 2017.05.08 | 2017.12.04-06 | Canada, Vancouver | [ConFoo Vancouver 2017](https://confoo.ca/en/yvr2017) | [here](https://confoo.ca/en/yvr2017/call-for-papers) | ML, Mobile, Programming, DevOps |
 | 2017.05.01 | 2017.06.19-21 | Spain, Barcelona | [JBCNConf](http://www.jbcnconf.com/2017/) | [here](http://www.jbcnconf.com/2017/#callforpapers) | Java, JVM, Open Source|
 | ? | 2017.05.25 | Poland, Warszawa | [Code Europe](https://www.codeeurope.pl/en) | [here](https://www.codeeurope.pl/en) | Backend/Frontend, Mobile, Big Data |
 | ? | 2017.05.23 | Poland, Wrocław | [Code Europe](https://www.codeeurope.pl/en) | [here](https://www.codeeurope.pl/en) | Backend/Frontend, Mobile, Big Data |
