@@ -7,6 +7,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
 | 2017.06.30 | 2017.11.09-11 | India, Bangalore | [Functional Conf](http://functionalconf.com/) | [here](http://functionalconf.com/speaker.html) | Functional Programming |
+| 2017.06.09 | 2017.09.07-09 | UK, Oxford | [CUFP 2017](http://cufp.org/2017/) | [here](http://cufp.org/2017/call-for-presentations.html) | Functional programming |
 | 2017.05.17 | 2017.10.20-21 | UAE, Dubai | [Codemotion Dubai](http://dubai2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
 | 2016.05.06 | 2017.09.11-13 | USA, Los Angeles | [Open Source Summit](http://events.linuxfoundation.org/events/open-source-summit-north-america) | [here](http://events.linuxfoundation.org/events/open-source-summit-north-america/program/cfp) | DevOps, IoT, Security, Cloud, ... |
 | 2017.05.31 | 2017.10.19-20 | Belgrade, Serbia | [Voxxed Days Belgrade](https://belgrade.voxxeddays.com/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSeXpSNjd_SpxWxpUdxoF3VfBhzEZ0KzN1BnMSQHriAUsuXYKQ/viewform?c=0&w=1) | Languages + Architecture, Machine Learning + AI, AR + VR, Security |
