@@ -8,6 +8,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 |---------|-----------------|---------------|------|----------|----------|
 | 2017.06.30 | 2017.11.09-11 | India, Bangalore | [Functional Conf](http://functionalconf.com/) | [here](http://functionalconf.com/speaker.html) | Functional Programming |
 | 2017.06.09 | 2017.09.07-09 | UK, Oxford | [CUFP 2017](http://cufp.org/2017/) | [here](http://cufp.org/2017/call-for-presentations.html) | Functional programming |
+| 2017.05.20 | 2017.10.10-13 | Portugal, Braga | [Mirror Conf](http://www.mirrorconf.com/) | [here](https://www.papercall.io/mirrorconf2017) | Frontend, Design, UI, UX, ... |
 | 2017.05.17 | 2017.10.20-21 | UAE, Dubai | [Codemotion Dubai](http://dubai2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
 | 2016.05.06 | 2017.09.11-13 | USA, Los Angeles | [Open Source Summit](http://events.linuxfoundation.org/events/open-source-summit-north-america) | [here](http://events.linuxfoundation.org/events/open-source-summit-north-america/program/cfp) | DevOps, IoT, Security, Cloud, ... |
 | 2017.05.31 | 2017.10.19-20 | Belgrade, Serbia | [Voxxed Days Belgrade](https://belgrade.voxxeddays.com/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSeXpSNjd_SpxWxpUdxoF3VfBhzEZ0KzN1BnMSQHriAUsuXYKQ/viewform?c=0&w=1) | Languages + Architecture, Machine Learning + AI, AR + VR, Security |
@@ -58,8 +59,8 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.01.13 | 2017.03.02-03 | Poland, Kraków | [ScalaSphere DevTools Summit](https://scalasphere.org/) | [here](https://goo.gl/forms/8qXYfayvNbg9LKQ23) | Scala DevTools |
 | 2017.01.08 | 2017.04.05-07 | France, Paris | [Devoxx France](http://www.devoxx.fr/) | [here](https://cfp.devoxx.fr/) | JVM, BigData, ... |
 | 2017.01.01 |  2017.02.09-10 | Poland, Kraków | [Lambda Days](http://www.lambdadays.org/lambdadays2017) | [here](http://www.lambdadays.org/lambdadays2017#call-for-talks) | functional programming, web, reactive, ...|
-| 2016.12.31 | 2017.03.29-30  | Israel, Tel Aviv | [Codemotion Tel Aviv](http://telaviv2016.codemotionworld.com/) | [here](http://speaker.codemotionworld.com/c4p.php) | Big Data, DevOps, IoT, CI, Frontend, Backend | 
-| 2016.12.16 | 2017.05.02-04  | USA, Boston | [Red Hat Summit](https://www.redhat.com/en/summit/2017) | [here](http://redhat.slides.com/events/2017-red-hat-summit-submission-guide) | Big Data, DevOps, IoT, ... | 
+| 2016.12.31 | 2017.03.29-30  | Israel, Tel Aviv | [Codemotion Tel Aviv](http://telaviv2016.codemotionworld.com/) | [here](http://speaker.codemotionworld.com/c4p.php) | Big Data, DevOps, IoT, CI, Frontend, Backend |
+| 2016.12.16 | 2017.05.02-04  | USA, Boston | [Red Hat Summit](https://www.redhat.com/en/summit/2017) | [here](http://redhat.slides.com/events/2017-red-hat-summit-submission-guide) | Big Data, DevOps, IoT, ... |
 | 2016.12.15 | 2017.05.11-12 | Romania, Bucharest | [I T.A.K.E. Unconference](http://itakeunconf.com/) | [here](http://itakeunconf.com/call-for-speakers/) | DevOps, Architecture, Big Data, Mobile, FP, ... |
 | 2016.12.15 | 2017.03.10 | Romania, Bucharest | [Voxxed Days Bucharest 2017](https://voxxeddays.com/bucharest/) | [here](https://voxxeddays.com/bucharest/cfp-2017/) | JVM, BigData, Mobile, ...|
 | 2016.12.15 | 2017.03.16-17 | Austria, Vienna | [Voxxed Days Vienna 2017](https://voxxeddays.com/vienna/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdqyFBuGx4Is_XUrHu-cvzLZkE_66SPrzpk2klDURUJX782Cw/viewform) | JVM, BigData, Mobile, ...|
@@ -69,9 +70,9 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | ??? | 2016.11.21-22 | Poland, Warsaw | [ngPoland](http://www.ng-poland.pl/) | [here](https://goo.gl/jhe6H5) | AngularJS |
 | ??? | 2016.11.07-11 | United States, San Francisco | [QCon San Francisco](https://qconsf.com) | [here](https://qconsf.com/talk-submissions-qcon-sf-2016) | Deep Learning, Big Data, Chatbots... , Trends |
 | ??? | 2016.10.14 | Lithuania, Vilnius | [High Load Strategy](http://www.highloadstrategy.lt/) | [here](http://www.highloadstrategy.lt/) | Architecture, DevOps, Data Science |
-| ??? | 2016.10.10-12 | Poland, Warsaw | [AgileByExample](http://2016.agilebyexample.com/) | [here](http://2016.agilebyexample.com/c4s/) | Agile | 
+| ??? | 2016.10.10-12 | Poland, Warsaw | [AgileByExample](http://2016.agilebyexample.com/) | [here](http://2016.agilebyexample.com/c4s/) | Agile |
 | ??? | 2016.09.30-10.01 | Spain, Cádiz | [Lambda World](http://www.lambda.world/) | [here](http://www.lambda.world/blog/call-for-papers-2016) | Functional programming |
-| ??? | 2016.09.22-23 | Poland, Kraków | [TWF Conference](http://conference2016.twf.community/) | [here](http://goo.gl/forms/3H87cl20Q7) | Front-end, UI/UX, Programming, IoT | 
+| ??? | 2016.09.22-23 | Poland, Kraków | [TWF Conference](http://conference2016.twf.community/) | [here](http://goo.gl/forms/3H87cl20Q7) | Front-end, UI/UX, Programming, IoT |
 | 2016.11.25 | 2017.04.28 | UK, London | [ProgSCon London](http://2017.progscon.co.uk/) | [here](http://2017.progscon.co.uk/talk-submission/) | Programming, Practices, Languages |
 | 2016.11.20 | 2017.02.25-26 | Tokyo, Japan | [ScalaMatsuri](http://2017.scalamatsuri.org/index_en.html) | [here](http://2017.scalamatsuri.org/en/cfp/) | Scala |
 | 2016.11.18 | 2017.02.23 | Switzerland, Zürich | [Voxxed Days Zürich 2017](https://voxxeddays.com/zurich/) | [here](https://cfp-vdz.exteso.com/) | JVM, BigData, Mobile, ...|
@@ -87,7 +88,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2016.09.26 | 2016.11.17-18 | Spain, Madrid | [Big Data Spain](http://www.bigdataspain.org) | [here](http://www.bigdataspain.org/pdf/Call-for-papers-Big-Data-Spain-2016-edition.pdf) | Big Data |
 | 2016.09.22 | 2016.10.22 | Poland, Łódź | [Mobilization](http://2016.mobilization.pl/) | [here](http://bit.ly/mobilization6-c4p) | Mobile |
 | 2016.09.20 | 2017.03.08-10 | Canada, Montreal | [ConFoo Montreal](https://confoo.ca/en/yul2017) | [here](https://confoo.ca/en/yul2017/call-for-papers) | Web development, DevOps |
-| 2016.09.16 | 2017 spring | Italy, Rome | [Codemotion Rome](http://rome2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com/c4p.php) | Big Data, DevOps, IoT, CI, Frontend, Backend | 
+| 2016.09.16 | 2017 spring | Italy, Rome | [Codemotion Rome](http://rome2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com/c4p.php) | Big Data, DevOps, IoT, CI, Frontend, Backend |
 | 2016.09.15 | 2016.10.20-21 | Czech Republic, Prague | [GeeCON Prague](http://2016.geecon.cz) | [here](http://2016.geecon.cz/cfp/) | Java, Groovy, Ruby |
 | 2016.09.09 | 2016.11.16-18 | Spain, Seville | [ApacheCon 2016](http://events.linuxfoundation.org/events/apachecon-europe) | [here](http://events.linuxfoundation.org/events/apachecon-europe/program/cfp) | Apache related projects & Big Data |
 | 2016.09.04 | 2016.10.27-28 | France, Lyon | [Scala.IO](http://scala.io/) |  [here](http://scala.io/cfp.html) | Scala, Functional Programming, Big Data |
@@ -102,16 +103,16 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2016.07.31 | 2016.10.17-18 | Canada, Toronto | [Full Stack Toronto](http://fsto.co/) | [here](https://fsto.co/speak/) | Frontend, Backend, UX, IoT, DevOps |
 | 2016.07.24 | 2016.11.01-03 | Morocco, Casablanca | [Devoxx Morocco](http://devoxx.ma/) |  [here](http://cfp.devoxx.ma/) | JVM, Big Data, IoT, Cloud, Alternative Languages |
 | 2016.07.18 | 2016.10.10-11 | Poland, Kraków | [JDD](http://16.jdd.org.pl/) | [here](http://16.jdd.org.pl/cfp/form/) | JVM |
-| 2016.07.17 | 2016.09.15-16 | Poland, Warsaw | [Codemotion Warsaw](http://warsaw2016.codemotionworld.com/) | [here](http://warsaw2016.codemotionworld.com/call-for-papers/) | Big Data, DevOps, IoT, CI, Frontend, Backend | 
+| 2016.07.17 | 2016.09.15-16 | Poland, Warsaw | [Codemotion Warsaw](http://warsaw2016.codemotionworld.com/) | [here](http://warsaw2016.codemotionworld.com/call-for-papers/) | Big Data, DevOps, IoT, CI, Frontend, Backend |
 | 2016.07.15 | 2016.10.27-28 | UK, London | [droidcon London 2016](http://uk.droidcon.com) | [here](http://uk.droidcon.com/#get_involved) | Android |
 | 2016.07.15 | 2016.10.15-16 | China, Shanghai | [UI/UX Conference China](http://2016.uiuxconf.com/) | [here](https://skillsmatter.com/conferences/7276-haskell-exchange-2016#get_involved) | UI, UX |
-| 2016.07.07 | 2016.11.25-26 | Italy, Milan | [Codemotion Milan](http://milan2016.codemotionworld.com/) | [here](http://milan2016.codemotionworld.com/call-for-paper/) | Frontend, Backend, Mobile, Devops, Big Data, IoT | 
-| 2016.07.07 |  2016.11.07-08 | UK, London | [µCon 2016: The Microservices Conference](https://skillsmatter.com/conferences/7412-con-2016-the-microservices-conference) | [here](https://skillsmatter.com/conferences/7412-con-2016-the-microservices-conference#get_involved) | Microservices | 
+| 2016.07.07 | 2016.11.25-26 | Italy, Milan | [Codemotion Milan](http://milan2016.codemotionworld.com/) | [here](http://milan2016.codemotionworld.com/call-for-paper/) | Frontend, Backend, Mobile, Devops, Big Data, IoT |
+| 2016.07.07 |  2016.11.07-08 | UK, London | [µCon 2016: The Microservices Conference](https://skillsmatter.com/conferences/7412-con-2016-the-microservices-conference) | [here](https://skillsmatter.com/conferences/7412-con-2016-the-microservices-conference#get_involved) | Microservices |
 | 2016.07.06 | 2016.11.07-11 | Belgium, Antwerp | [Devoxx](https://devoxx.be/) |  [here](http://cfp.devoxx.be/) | JVM, Big Data, Cloud |
-| 2016.07.01 | 2016.10.25-27 | Belgium, Brussels | [Spark Summit Europe](https://spark-summit.org/eu-2016/) | [here](http://www.prevalentdesignevents.com/sparksummit2016/europe/speakers/) | Big Data, Spark | 
+| 2016.07.01 | 2016.10.25-27 | Belgium, Brussels | [Spark Summit Europe](https://spark-summit.org/eu-2016/) | [here](http://www.prevalentdesignevents.com/sparksummit2016/europe/speakers/) | Big Data, Spark |
 | 2016.06.30 | 2016.11.11-13 | USA, San Francisco | [Scala By the Bay](http://scala.bythebay.io/) |  [here](http://scala.bythebay.io/cfp.html) | Scala, Big Data |
 | 2016.06.30 | 2016.10.06-07 | UK, London | [Haskell eXchange 2016](https://skillsmatter.com/conferences/7276-haskell-exchange-2016) | [here](https://skillsmatter.com/conferences/7276-haskell-exchange-2016#get_involved) | Haskell |
 | 2016.06.25 | 2016.09-30-10.02 | Poland, Rawa Mazowiecka |  [PHPCon Poland](http://www.phpcon.pl/2016/pl/) |  [here](https://docs.google.com/forms/d/1ID6ffS9BEhTMhhSrQKCFPBRT0wS1n_WX0ywVvlvlUFw/viewform?c=0&w=1) | PHP |
-| 2016.06.24 | 2016.09.22-24 | Japan, Nara | [CUFP](http://cufp.org/2016/) | [here](http://cufp.org/2016/call-for-presentations.html) | Functional programming | 
+| 2016.06.24 | 2016.09.22-24 | Japan, Nara | [CUFP](http://cufp.org/2016/) | [here](http://cufp.org/2016/call-for-presentations.html) | Functional programming |
 | 2016.06.24 | 2016.09.03 | Poland, Wrocław | [Scalapolis](http://konf.scalapolis.pl) | [here](https://docs.google.com/forms/d/12KGvMTkeSUSCWYsJYmJsGjlbff9nO2FG_nDVI6Uumq8) | Scala |
 | 2016.06.21 | 2016.07.21-23 | Turkey, Konya | [BigData2016](http://sdiwc.net/conferences/bigdata2016/) | [here](http://sdiwc.net/conferences/bigdata2016/paper-submission/) | Data Mining, Internet Computing,  Big Data |
