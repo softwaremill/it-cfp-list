@@ -17,11 +17,16 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.05.31 | 2017.10.18-20 | USA, Austin | [Reactive Summit](http://www.reactivesummit.org) | [here](https://www.reactivesummit.org/call-for-proposals) | reactive systems, fast data |
 | 2017.05.11 | 2017.07.01 | Poland, Warsaw | [Confitura](https://2017.confitura.pl) | [here](https://2017.confitura.pl/login) | Programming, ... |
 | 2017.05.08 | 2017.12.04-06 | Canada, Vancouver | [ConFoo Vancouver 2017](https://confoo.ca/en/yvr2017) | [here](https://confoo.ca/en/yvr2017/call-for-papers) | ML, Mobile, Programming, DevOps |
+| 2017.05.01 | 2017.11.02-03 | USA, San Francisco | [KotlinConf](https://kotlinconf.com/) | [here](https://sessionize.com/kotlinconf/) | Kotlin |
+
+### Finished
+
+| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
+|---------|-----------------|---------------|------|----------|----------|
 | 2017.05.01 | 2017.06.19-21 | Spain, Barcelona | [JBCNConf](http://www.jbcnconf.com/2017/) | [here](http://www.jbcnconf.com/2017/#callforpapers) | Java, JVM, Open Source|
 | ? | 2017.05.25 | Poland, Warszawa | [Code Europe](https://www.codeeurope.pl/en) | [here](https://www.codeeurope.pl/en) | Backend/Frontend, Mobile, Big Data |
 | ? | 2017.05.23 | Poland, Wrocław | [Code Europe](https://www.codeeurope.pl/en) | [here](https://www.codeeurope.pl/en) | Backend/Frontend, Mobile, Big Data |
 | ? | 2017.04.26 | Poland, Kraków| [Code Europe](https://www.codeeurope.pl/en) | [here](https://www.codeeurope.pl/en) | Backend/Frontend, Mobile, Big Data |
-| 2017.05.01 | 2017.11.02-03 | USA, San Francisco | [KotlinConf](https://kotlinconf.com/) | [here](https://sessionize.com/kotlinconf/) | Kotlin |
 | 2017.04.24 | 2017.09.13-14 | Norway, Oslo | [JavaZone](https://2017.javazone.no) | [here](https://2017.javazone.no/speakers) | Front-end, Programming, AI, ML, ... |
 | 2017.04.23 | 2017.10.01-05 | USA, San Francisco | [JavaOne](https://www.oracle.com/javaone/index.html) | [here](https://t.co/NTKFBt99iG) | Java, JVM, Oracle |
 | 2017.04.14 | 2017.06.18-19 | Spain, Barcelona | [Curry On](http://curry-on.org/2017/) | [here](http://curry-on.org/2017/call-for-presentations.html) | Programming, Programming languages, Big Data, Machine Learning |
@@ -45,11 +50,6 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.02.15 | 2017.06.12-16 |  Norway, Oslo | [NDC Oslo](http://ndcoslo.com/) | [here](http://ndcoslo.com/page/call-for-papers/) | .NET, JavaScript, C++, IoT, Big Data |
 | 2017.02.15 | 2017.05.11-12 | France, Sophia Antipolis | [Riviera DEV](http://www.rivieradev.fr/) | [here](http://www.rivieradev.fr/cfp) | JVM, JavaScript, Big Data ... |
 | 2017.02.14 | 2017.06.11-12 | Germany, Berlin | [Berlin Buzzwords](https://berlinbuzzwords.de/17/) | [here](https://berlinbuzzwords.de/17/call-submissions) | Search, IR, NoSQL, data processing |
-
-### Finished
-
-| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
-|---------|-----------------|---------------|------|----------|----------|
 | 2017.02.06 | 2017.06.05-07 | USA, San Francisco | [Spark Summit](https://spark-summit.org/2017) | [here](https://spark-summit.org/2017/call-for-presentations) | Spark, ML |
 | 2017.01.31 | 2017.05.31-06.02 | Denmark, Copenhagen | [GR8Conf EU](http://gr8conf.eu/) | [here](http://gr8conf.eu/#/cfp) | Groovy, Grails, Gradle |
 | 2017.01.31 | 2017.05.25-27 | USA, Boulder | [LambdaConf](http://lambdaconf.us/#events#lcusc) | [here](https://www.surveymonkey.com/r/lambdaconf-2017-cfp) | Functional programming, ... |
