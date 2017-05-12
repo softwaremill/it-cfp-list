@@ -6,6 +6,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2017.08.21 | 2017.10.03-04 | Poland, Kraków | [JDD](https://17.jdd.org.pl) | [here](https://17.jdd.org.pl/form.html) | JVM |
 | 2017.07.07 | 2017.11.06-10 | Antwerp, Belgium | [Devoxx](https://devoxx.be/) | N/A starts end of may | Java, Big Data, Mobile, Web, ...|
 | 2017.06.30 | 2017.11.09-11 | India, Bangalore | [Functional Conf](http://functionalconf.com/) | [here](http://functionalconf.com/speaker.html) | Functional Programming |
 | 2017.06.09 | 2017.09.07-09 | UK, Oxford | [CUFP 2017](http://cufp.org/2017/) | [here](http://cufp.org/2017/call-for-presentations.html) | Functional programming |
