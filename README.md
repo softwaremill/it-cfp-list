@@ -1,30 +1,30 @@
 # IT conferences Call For Papers list
 
-Please file Pull Requests for missing conferences.
+Please file Pull Requests for missing conferences. Commits from this repo automatically lands on [@ItCfpList](https://twitter.com/ItCfpList). Please keep commits names consistent with schema: `<Conference name> (@TwitterHandle #TwitterTag) - <yyyy.mm.dd-dd> - <City>, <Country>`. 
 
 List sorted by CFP end date descending (oldest and probably already finished last).
 
-| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
+| CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
-| 2017.08.21 | 2017.10.03-04 | Poland, Kraków | [JDD](https://17.jdd.org.pl) | [here](https://17.jdd.org.pl/form.html) | JVM |
+| 2017.08.21 | 2017.10.03-04 | Kraków, Poland | [JDD](https://17.jdd.org.pl) | [here](https://17.jdd.org.pl/form.html) | JVM |
 | 2017.07.07 | 2017.11.06-10 | Antwerp, Belgium | [Devoxx](https://devoxx.be/) | [here](https://cfp.devoxx.be/) | Java, Big Data, Mobile, Web, ...|
-| 2017.06.30 | 2017.11.09-11 | India, Bangalore | [Functional Conf](http://functionalconf.com/) | [here](http://functionalconf.com/speaker.html) | Functional Programming |
-| 2017.06.09 | 2017.09.07-09 | UK, Oxford | [CUFP 2017](http://cufp.org/2017/) | [here](http://cufp.org/2017/call-for-presentations.html) | Functional programming |
-| 2017.06.01 | 2017.10.12-13 | Germany, Berlin | [Codemotion Berlin](http://berlin2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
-| 2017.05.21 | 2017.11.24-25 | Spain, Madrid | [Codemotion Madrid](https://www.koliseo.com/codemotion/codemotion-madrid/) | [here](https://www.koliseo.com/codemotion/codemotion-madrid/r4p/5632002325741568#/) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
-| 2017.05.20 | 2017.10.10-13 | Portugal, Braga | [Mirror Conf](http://www.mirrorconf.com/) | [here](https://www.papercall.io/mirrorconf2017) | Frontend, Design, UI, UX, ... |
-| 2017.05.17 | 2017.10.20-21 | UAE, Dubai | [Codemotion Dubai](http://dubai2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
-| 2016.05.06 | 2017.09.11-13 | USA, Los Angeles | [Open Source Summit](http://events.linuxfoundation.org/events/open-source-summit-north-america) | [here](http://events.linuxfoundation.org/events/open-source-summit-north-america/program/cfp) | DevOps, IoT, Security, Cloud, ... |
+| 2017.06.30 | 2017.11.09-11 | Bangalore, India | [Functional Conf](http://functionalconf.com/) | [here](http://functionalconf.com/speaker.html) | Functional Programming |
+| 2017.06.09 | 2017.09.07-09 | Oxford, UK  | [CUFP 2017](http://cufp.org/2017/) | [here](http://cufp.org/2017/call-for-presentations.html) | Functional programming |
+| 2017.06.01 | 2017.10.12-13 | Berlin, Germany | [Codemotion Berlin](http://berlin2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
+| 2017.05.21 | 2017.11.24-25 | Madrid, Spain | [Codemotion Madrid](https://www.koliseo.com/codemotion/codemotion-madrid/) | [here](https://www.koliseo.com/codemotion/codemotion-madrid/r4p/5632002325741568#/) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
+| 2017.05.20 | 2017.10.10-13 | Braga, Portugal | [Mirror Conf](http://www.mirrorconf.com/) | [here](https://www.papercall.io/mirrorconf2017) | Frontend, Design, UI, UX, ... |
+| 2017.05.17 | 2017.10.20-21 | Dubai, UAE | [Codemotion Dubai](http://dubai2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
+| 2016.05.06 | 2017.09.11-13 | Los Angeles, USA | [Open Source Summit](http://events.linuxfoundation.org/events/open-source-summit-north-america) | [here](http://events.linuxfoundation.org/events/open-source-summit-north-america/program/cfp) | DevOps, IoT, Security, Cloud, ... |
 | 2017.05.31 | 2017.10.19-20 | Belgrade, Serbia | [Voxxed Days Belgrade](https://belgrade.voxxeddays.com/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSeXpSNjd_SpxWxpUdxoF3VfBhzEZ0KzN1BnMSQHriAUsuXYKQ/viewform?c=0&w=1) | Languages + Architecture, Machine Learning + AI, AR + VR, Security |
-| 2017.05.31 | 2017.10.18-20 | USA, Austin | [Reactive Summit](http://www.reactivesummit.org) | [here](https://www.reactivesummit.org/call-for-proposals) | reactive systems, fast data |
-| 2017.05.11 | 2017.07.01 | Poland, Warsaw | [Confitura](https://2017.confitura.pl) | [here](https://2017.confitura.pl/login) | Programming, ... |
-| 2017.05.08 | 2017.12.04-06 | Canada, Vancouver | [ConFoo Vancouver 2017](https://confoo.ca/en/yvr2017) | [here](https://confoo.ca/en/yvr2017/call-for-papers) | ML, Mobile, Programming, DevOps |
-| 2017.05.01 | 2017.11.02-03 | USA, San Francisco | [KotlinConf](https://kotlinconf.com/) | [here](https://sessionize.com/kotlinconf/) | Kotlin |
+| 2017.05.31 | 2017.10.18-20 | Austin, USA | [Reactive Summit](http://www.reactivesummit.org) | [here](https://www.reactivesummit.org/call-for-proposals) | reactive systems, fast data |
 
 ### Finished
 
 | CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2017.05.11 | 2017.07.01 | Poland, Warsaw | [Confitura](https://2017.confitura.pl) | [here](https://2017.confitura.pl/login) | Programming, ... |
+| 2017.05.08 | 2017.12.04-06 | Canada, Vancouver | [ConFoo Vancouver 2017](https://confoo.ca/en/yvr2017) | [here](https://confoo.ca/en/yvr2017/call-for-papers) | ML, Mobile, Programming, DevOps |
+| 2017.05.01 | 2017.11.02-03 | USA, San Francisco | [KotlinConf](https://kotlinconf.com/) | [here](https://sessionize.com/kotlinconf/) | Kotlin |
 | 2017.05.01 | 2017.06.19-21 | Spain, Barcelona | [JBCNConf](http://www.jbcnconf.com/2017/) | [here](http://www.jbcnconf.com/2017/#callforpapers) | Java, JVM, Open Source|
 | ? | 2017.05.25 | Poland, Warszawa | [Code Europe](https://www.codeeurope.pl/en) | [here](https://www.codeeurope.pl/en) | Backend/Frontend, Mobile, Big Data |
 | ? | 2017.05.23 | Poland, Wrocław | [Code Europe](https://www.codeeurope.pl/en) | [here](https://www.codeeurope.pl/en) | Backend/Frontend, Mobile, Big Data |
