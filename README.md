@@ -6,6 +6,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2017.09.30 | 2018.02.22-23 | Kraków, Poland | [Lambda Days](https://eventil.com/events/lambda-days-2018) | [here](https://eventil.com/events/lambda-days-2018/submissions/proposal/step1) | Scala, Erlang, Haskell, ... |
 | 2017.09.15 | 2017.10.19-20 | Prague, Czech | [GeeCON Prague](https://2017.geecon.cz/) | [here](https://2017.geecon.cz/cfp/) | JVM, Big Data, Software Engineering, ... |
 | 2017.08.21 | 2017.10.03-04 | Kraków, Poland | [JDD](https://17.jdd.org.pl) | [here](https://17.jdd.org.pl/form.html) | JVM |
 | 2017.08.20 | 2017.11.02 | Ede, Netherlands | [J-Fall 2017](http://www.nljugcfp.nl/) | [here](http://www.nljugcfp.nl/) | JVM, Cloud, Big Data, ML, ... |
