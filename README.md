@@ -11,6 +11,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.08.21 | 2017.10.03-04 | Kraków, Poland | [JDD](https://17.jdd.org.pl) | [here](https://17.jdd.org.pl/form.html) | JVM |
 | 2017.08.20 | 2017.11.02 | Ede, Netherlands | [J-Fall 2017](http://www.nljugcfp.nl/) | [here](http://www.nljugcfp.nl/) | JVM, Cloud, Big Data, ML, ... |
 | 2017.07.17 | 2017.12.04-05 | London, UK | [Clojure eXchange 2017](https://skillsmatter.com/conferences/8783-clojure-exchange-2017) | [here](https://skillsmatter.com/conferences/8783-clojure-exchange-2017#get_involved) | Clojure, FP, ML, AI, ... |
+| 2017.07.16 | 2017.09.28-29 | Hamburg, Germany | [code.talks](https://www.codetalks.de/en) | [here](https://www.codetalks.de/en/2017/call-for-papers) | Java, Big Data, Web, DevOps, ...|
 | 2017.07.07 | 2017.11.06-10 | Antwerp, Belgium | [Devoxx](https://devoxx.be/) | [here](https://cfp.devoxx.be/) | Java, Big Data, Mobile, Web, ...|
 | 2017.06.30 | 2017.11.09-11 | Bangalore, India | [Functional Conf](http://functionalconf.com/) | [here](http://functionalconf.com/speaker.html) | Functional Programming |
 | 2017.06.30 | 2017.10.09-11 | Warsaw, Poland | [AgileByExample](https://agilebyexample.com/) | [here](https://agilebyexample.com/speak-at-abe/) | Agile |
