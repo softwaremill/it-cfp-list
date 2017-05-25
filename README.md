@@ -13,6 +13,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.07.17 | 2017.12.04-05 | London, UK | [Clojure eXchange 2017](https://skillsmatter.com/conferences/8783-clojure-exchange-2017) | [here](https://skillsmatter.com/conferences/8783-clojure-exchange-2017#get_involved) | Clojure, FP, ML, AI, ... |
 | 2017.07.07 | 2017.11.06-10 | Antwerp, Belgium | [Devoxx](https://devoxx.be/) | [here](https://cfp.devoxx.be/) | Java, Big Data, Mobile, Web, ...|
 | 2017.06.30 | 2017.11.09-11 | Bangalore, India | [Functional Conf](http://functionalconf.com/) | [here](http://functionalconf.com/speaker.html) | Functional Programming |
+| 2017.06.30 | 2017.10.09-11 | Warsaw, Poland | [AgileByExample](https://agilebyexample.com/) | [here](https://agilebyexample.com/speak-at-abe/) | Agile |
 | 2017.06.13 | 2017.11.07-09 | London, UK | [Code Mesh](http://www.codemesh.io) | [here](http://www.codemesh.io/#call-for-talks) | Non-mainstream technologies  |
 | 2017.06.13 | 2017.10.16-19 | Copenhagen, Denmark | [DockerCon Copenhagen 2017](https://europe-2017.dockercon.com/) | [here](https://europe-2017.dockercon.com/dockercon-call-for-papers) | Docker, Moby |
 | 2017.06.09 | 2017.09.07-09 | Oxford, UK  | [CUFP 2017](http://cufp.org/2017/) | [here](http://cufp.org/2017/call-for-presentations.html) | Functional programming |
