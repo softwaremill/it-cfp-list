@@ -16,6 +16,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.07.16 | 2017.09.28-29 | Hamburg, Germany | [code.talks](https://www.codetalks.de/en) | [here](https://www.codetalks.de/en/2017/call-for-papers) | Java, Big Data, Web, DevOps, ...|
 | 2017.07.07 | 2017.11.06-10 | Antwerp, Belgium | [Devoxx](https://devoxx.be/) | [here](https://cfp.devoxx.be/) | Java, Big Data, Mobile, Web, ...|
 | 2017.06.30 | 2017.11.09-11 | Bangalore, India | [Functional Conf](http://functionalconf.com/) | [here](http://functionalconf.com/speaker.html) | Functional Programming |
+| 2017.06.30 | 2017.10.20-21 | Budapest, Hungary | [Hacktivity 2017](https://hacktivity.com) | [here](https://hacktivity.com/en/cfp/) | Computer Security, Cyber Security, Hacking, IoT |
 | 2017.06.30 | 2017.10.09-11 | Warsaw, Poland | [AgileByExample](https://agilebyexample.com/) | [here](https://agilebyexample.com/speak-at-abe/) | Agile |
 | 2017.06.13 | 2017.11.07-09 | London, UK | [Code Mesh](http://www.codemesh.io) | [here](http://www.codemesh.io/#call-for-talks) | Non-mainstream technologies  |
 | 2017.06.15 | 2017.10.12-13 | Berlin, Germany | [Codemotion Berlin](http://berlin2017.codemotionworld.com) | [here](http://berlin2017.codemotionworld.com/call-for-papers/) | Backend, Mobile, Big Data, ...|
