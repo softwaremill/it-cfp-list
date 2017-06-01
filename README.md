@@ -6,7 +6,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
-| ?       | 2017.10.26-27 | Cádiz, Spain | Lambda World | [Lambda World](http://www.lambda.world/) |[here](https://47degrees.typeform.com/to/UP92z0)|Scala |
+| ?       | 2017.10.26-27 | Cádiz, Spain | [Lambda World](http://www.lambda.world/) | [here](https://47degrees.typeform.com/to/UP92z0) | Scala |
 | 2017.10.18 | 2018.01.30 | Ede, Netherlands | [JVMCON](http://jvmcon.com/) | [here](https://www.papercall.io/jvmcon) | JVM |
 | 2017.09.30 | 2018.02.22-23 | Kraków, Poland | [Lambda Days](https://eventil.com/events/lambda-days-2018) | [here](https://eventil.com/events/lambda-days-2018/submissions/proposal/step1) | Scala, Erlang, Haskell, ... |
 | 2017.09.15 | 2017.10.19-20 | Prague, Czech | [GeeCON Prague](https://2017.geecon.cz/) | [here](https://2017.geecon.cz/cfp/) | JVM, Big Data, Software Engineering, ... |
