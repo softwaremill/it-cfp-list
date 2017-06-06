@@ -10,6 +10,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.10.18 | 2018.01.30 | Ede, Netherlands | [JVMCON](http://jvmcon.com/) | [here](https://www.papercall.io/jvmcon) | JVM |
 | 2017.09.30 | 2018.02.22-23 | Kraków, Poland | [Lambda Days](https://eventil.com/events/lambda-days-2018) | [here](https://eventil.com/events/lambda-days-2018/submissions/proposal/step1) | Scala, Erlang, Haskell, ... |
 | 2017.09.15 | 2017.10.19-20 | Prague, Czech | [GeeCON Prague](https://2017.geecon.cz/) | [here](https://2017.geecon.cz/cfp/) | JVM, Big Data, Software Engineering, ... |
+| 2017.09.12 | 2017.11.15-17 | Madrid, Spain | [Big Data Spain](https://www.bigdataspain.org/) | [here](https://www.bigdataspain.org/call-for-papers/) | Spark, NoSQL, ML, Cloud |
 | 2017.09.08 | 2017.11.02-03 | Lyon, France | [scala.io](http://scala.io/) | [here](http://scala.io/cfp.html) | Scala, Functional Programming, ... |
 | 2017.08.21 | 2017.10.03-04 | Kraków, Poland | [JDD](https://17.jdd.org.pl) | [here](https://17.jdd.org.pl/form.html) | JVM |
 | 2017.08.20 | 2017.11.02 | Ede, Netherlands | [J-Fall 2017](http://www.nljugcfp.nl/) | [here](http://www.nljugcfp.nl/) | JVM, Cloud, Big Data, ML, ... |
