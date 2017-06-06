@@ -14,6 +14,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.09.08 | 2017.11.02-03 | Lyon, France | [scala.io](http://scala.io/) | [here](http://scala.io/cfp.html) | Scala, Functional Programming, ... |
 | 2017.08.21 | 2017.10.03-04 | Kraków, Poland | [JDD](https://17.jdd.org.pl) | [here](https://17.jdd.org.pl/form.html) | JVM |
 | 2017.08.20 | 2017.11.02 | Ede, Netherlands | [J-Fall 2017](http://www.nljugcfp.nl/) | [here](http://www.nljugcfp.nl/) | JVM, Cloud, Big Data, ML, ... |
+| 2017.07.19 | 2017.11.14-16 | Casablanca, Morocco | [Devoxx Morocco](https://devoxx.ma/) | [here](https://cfp.devoxx.ma/) | Java, Mobile, Web, Cloud, ... |
 | 2017.07.17 | 2017.12.14-15 | London, UK | [Scala eXchange 2017](https://skillsmatter.com/conferences/8784-scala-exchange-2017) | [here](https://skillsmatter.com/conferences/8784-scala-exchange-2017#get_involved) | Scala, Big Data, Testing |
 | 2017.07.17 | 2017.12.04-05 | London, UK | [Clojure eXchange 2017](https://skillsmatter.com/conferences/8783-clojure-exchange-2017) | [here](https://skillsmatter.com/conferences/8783-clojure-exchange-2017#get_involved) | Clojure, FP, ML, AI, ... |
 | 2017.07.16 | 2017.09.28-29 | Hamburg, Germany | [code.talks](https://www.codetalks.de/en) | [here](https://www.codetalks.de/en/2017/call-for-papers) | Java, Big Data, Web, DevOps, ...|
