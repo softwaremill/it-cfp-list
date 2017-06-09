@@ -26,6 +26,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.06.13 | 2017.11.07-09 | London, UK | [Code Mesh](http://www.codemesh.io) | [here](http://www.codemesh.io/#call-for-talks) | Non-mainstream technologies  |
 | 2017.06.15 | 2017.10.12-13 | Berlin, Germany | [Codemotion Berlin](http://berlin2017.codemotionworld.com) | [here](http://berlin2017.codemotionworld.com/call-for-papers/) | Backend, Mobile, Big Data, ...|
 | 2017.06.13 | 2017.10.16-19 | Copenhagen, Denmark | [DockerCon Copenhagen 2017](https://europe-2017.dockercon.com/) | [here](https://europe-2017.dockercon.com/dockercon-call-for-papers) | Docker, Moby |
+| 2017.06.13 | 2017.09.22-23 | Singapore, Singapore | [MonkeyFest 2017](https://www.monkeyfest.io) | [here](https://www.papercall.io/re-evolve) | Mobile, Xamarin |
 | 2017.06.09 | 2017.09.07-09 | Oxford, UK  | [CUFP 2017](http://cufp.org/2017/) | [here](http://cufp.org/2017/call-for-presentations.html) | Functional programming |
 | 2017.06.01 | 2017.10.12-13 | Berlin, Germany | [Codemotion Berlin](http://berlin2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
 | 2017.05.21 | 2017.11.24-25 | Madrid, Spain | [Codemotion Madrid](https://www.koliseo.com/codemotion/codemotion-madrid/) | [here](https://www.koliseo.com/codemotion/codemotion-madrid/r4p/5632002325741568#/) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
