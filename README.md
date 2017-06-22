@@ -19,6 +19,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.07.17 | 2017.12.14-15 | London, UK | [Scala eXchange 2017](https://skillsmatter.com/conferences/8784-scala-exchange-2017) | [here](https://skillsmatter.com/conferences/8784-scala-exchange-2017#get_involved) | Scala, Big Data, Testing |
 | 2017.07.17 | 2017.12.04-05 | London, UK | [Clojure eXchange 2017](https://skillsmatter.com/conferences/8783-clojure-exchange-2017) | [here](https://skillsmatter.com/conferences/8783-clojure-exchange-2017#get_involved) | Clojure, FP, ML, AI, ... |
 | 2017.07.16 | 2017.09.28-29 | Hamburg, Germany | [code.talks](https://www.codetalks.de/en) | [here](https://www.codetalks.de/en/2017/call-for-papers) | Java, Big Data, Web, DevOps, ...|
+| 2017.07.10 | 2017.10.11-13 | Verona, Italy | [#Pragma Conference](http://www.pragmaconference.com) | [here](http://www.pragmaconference.com/#cfp) | iOS, macOS, watchOS, tvOS |
 | 2017.07.07 | 2017.11.06-10 | Antwerp, Belgium | [Devoxx](https://devoxx.be/) | [here](https://cfp.devoxx.be/) | Java, Big Data, Mobile, Web, ...|
 | 2017.06.30 | 2017.11.09-11 | Bangalore, India | [Functional Conf](http://functionalconf.com/) | [here](http://functionalconf.com/speaker.html) | Functional Programming |
 | 2017.06.30 | 2017.10.26-27 | Cádiz, Spain | [Lambda World](http://www.lambda.world/) | [here](https://47degrees.typeform.com/to/UP92z0) | Scala |
