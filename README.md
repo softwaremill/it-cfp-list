@@ -12,6 +12,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.09.15 | 2017.10.19-20 | Prague, Czech | [GeeCON Prague](https://2017.geecon.cz/) | [here](https://2017.geecon.cz/cfp/) | JVM, Big Data, Software Engineering, ... |
 | 2017.09.12 | 2017.11.15-17 | Madrid, Spain | [Big Data Spain](https://www.bigdataspain.org/) | [here](https://www.bigdataspain.org/call-for-papers/) | Spark, NoSQL, ML, Cloud |
 | 2017.09.08 | 2017.11.02-03 | Lyon, France | [scala.io](http://scala.io/) | [here](http://scala.io/cfp.html) | Scala, Functional Programming, ... |
+| 2017.08.31 | 2017.10.26-27 | Cádiz, Spain | [Lambda World](http://www.lambda.world/) | [here](https://47degrees.typeform.com/to/UP92z0) | Scala |
 | 2017.08.31 | 2017.10.21 | Łódź, Poland | [Mobilization](http://2017.mobilization.pl/) | [here](https://bit.ly/mobilization7-c4p) | Mobile |
 | 2017.08.21 | 2017.10.03-04 | Kraków, Poland | [JDD](https://17.jdd.org.pl) | [here](https://17.jdd.org.pl/form.html) | JVM |
 | 2017.08.20 | 2017.11.02 | Ede, Netherlands | [J-Fall 2017](http://www.nljugcfp.nl/) | [here](http://www.nljugcfp.nl/) | JVM, Cloud, Big Data, ML, ... |
@@ -26,7 +27,6 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.07.07 | 2017.11.06-10 | Antwerp, Belgium | [Devoxx](https://devoxx.be/) | [here](https://cfp.devoxx.be/) | Java, Big Data, Mobile, Web, ...|
 | 2017.07.04 | 2017.10.06-07 | Zagreb, Croatia | [WebCamp Zagreb](https://2017.webcampzg.org/) | [here](https://2017.webcampzg.org/cfp) | Development, UX, DB, Mobile, Web |
 | 2017.06.30 | 2017.11.09-11 | Bangalore, India | [Functional Conf](http://functionalconf.com/) | [here](http://functionalconf.com/speaker.html) | Functional Programming |
-| 2017.06.30 | 2017.10.26-27 | Cádiz, Spain | [Lambda World](http://www.lambda.world/) | [here](https://47degrees.typeform.com/to/UP92z0) | Scala |
 | 2017.06.30 | 2017.10.20-21 | Budapest, Hungary | [Hacktivity 2017](https://hacktivity.com) | [here](https://hacktivity.com/en/cfp/) | Computer Security, Cyber Security, Hacking, IoT |
 | 2017.06.30 | 2017.10.09-11 | Warsaw, Poland | [AgileByExample](https://agilebyexample.com/) | [here](https://agilebyexample.com/speak-at-abe/) | Agile |
 | 2017.06.24 | 2017.11.10-11 | Milan, Italy | [Codemotion Milan](http://milan2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com) | Mobile, FP, React Native, Programming |
