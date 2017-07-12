@@ -16,6 +16,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.08.21 | 2017.10.03-04 | Kraków, Poland | [JDD](https://17.jdd.org.pl) | [here](https://17.jdd.org.pl/form.html) | JVM |
 | 2017.08.20 | 2017.11.02 | Ede, Netherlands | [J-Fall 2017](http://www.nljugcfp.nl/) | [here](http://www.nljugcfp.nl/) | JVM, Cloud, Big Data, ML, ... |
 | 2017.08.10 | 2018.03.13-15 | Bruehl, Germany | [JavaLand](https://www.javaland.eu/en/home/) | [here](https://www.javaland.eu/en/speaker/speaker/#c10700) | JVM |
+| 2017.07.31 | 2017.11.22 | Cluj-Napoca, Romania | [Voxxed Days Cluj-Napoca](https://voxxeddays.com/romania/cluj-napoca/2017-11-22/) | [here](https://www.papercall.io/vdclj) | JVM, BigData, Mobile, ... |
 | 2017.07.21 | 2017.10.17-19 | Luxembourg, Luxembourg | [Hack.lu 2017](https://hack.lu/) | [here](https://2017.hack.lu/cfp/) | Computer security, Privacy, Information Technology |
 | 2017.07.19 | 2017.11.14-16 | Casablanca, Morocco | [Devoxx Morocco](https://devoxx.ma/) | [here](https://cfp.devoxx.ma/) | Java, Mobile, Web, Cloud, ... |
 | 2017.07.17 | 2017.12.14-15 | London, UK | [Scala eXchange 2017](https://skillsmatter.com/conferences/8784-scala-exchange-2017) | [here](https://skillsmatter.com/conferences/8784-scala-exchange-2017#get_involved) | Scala, Big Data, Testing |
