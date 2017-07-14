@@ -18,6 +18,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.08.20 | 2017.11.02 | Ede, Netherlands | [J-Fall 2017](http://www.nljugcfp.nl/) | [here](http://www.nljugcfp.nl/) | JVM, Cloud, Big Data, ML, ... |
 | 2017.08.10 | 2018.03.13-15 | Bruehl, Germany | [JavaLand](https://www.javaland.eu/en/home/) | [here](https://www.javaland.eu/en/speaker/speaker/#c10700) | JVM |
 | 2017.07.31 | 2017.11.22 | Cluj-Napoca, Romania | [Voxxed Days Cluj-Napoca](https://voxxeddays.com/romania/cluj-napoca/2017-11-22/) | [here](https://www.papercall.io/vdclj) | JVM, BigData, Mobile, ... |
+| 2017.07.24 | 2017.11.10-11 | Milan, Italy | [Codemotion Milan](http://milan2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com) | Mobile, FP, React Native, Programming |
 | 2017.07.21 | 2017.10.17-19 | Luxembourg, Luxembourg | [Hack.lu 2017](https://hack.lu/) | [here](https://2017.hack.lu/cfp/) | Computer security, Privacy, Information Technology |
 | 2017.07.19 | 2017.11.14-16 | Casablanca, Morocco | [Devoxx Morocco](https://devoxx.ma/) | [here](https://cfp.devoxx.ma/) | Java, Mobile, Web, Cloud, ... |
 | 2017.07.17 | 2017.12.14-15 | London, UK | [Scala eXchange 2017](https://skillsmatter.com/conferences/8784-scala-exchange-2017) | [here](https://skillsmatter.com/conferences/8784-scala-exchange-2017#get_involved) | Scala, Big Data, Testing |
@@ -29,7 +30,6 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.06.30 | 2017.11.09-11 | Bangalore, India | [Functional Conf](http://functionalconf.com/) | [here](http://functionalconf.com/speaker.html) | Functional Programming |
 | 2017.06.30 | 2017.10.20-21 | Budapest, Hungary | [Hacktivity 2017](https://hacktivity.com) | [here](https://hacktivity.com/en/cfp/) | Computer Security, Cyber Security, Hacking, IoT |
 | 2017.06.30 | 2017.10.09-11 | Warsaw, Poland | [AgileByExample](https://agilebyexample.com/) | [here](https://agilebyexample.com/speak-at-abe/) | Agile |
-| 2017.06.24 | 2017.11.10-11 | Milan, Italy | [Codemotion Milan](http://milan2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com) | Mobile, FP, React Native, Programming |
 | 2017.06.13 | 2017.11.07-09 | London, UK | [Code Mesh](http://www.codemesh.io) | [here](http://www.codemesh.io/#call-for-talks) | Non-mainstream technologies  |
 | 2017.06.15 | 2017.10.12-13 | Berlin, Germany | [Codemotion Berlin](http://berlin2017.codemotionworld.com) | [here](http://berlin2017.codemotionworld.com/call-for-papers/) | Backend, Mobile, Big Data, ...|
 | 2017.06.13 | 2017.10.16-19 | Copenhagen, Denmark | [DockerCon Copenhagen 2017](https://europe-2017.dockercon.com/) | [here](https://europe-2017.dockercon.com/dockercon-call-for-papers) | Docker, Moby |
