@@ -11,6 +11,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.09.15 | 2017.10.20 | Luxembourg, Luxembourg | [BSides Luxembourg 2017](http://www.securitybsides.com/w/page/116774919/BSidesLuxembourg) | [here](https://docs.google.com/forms/d/e/1FAIpQLScRuIE4NwLoSgFLPvQ3s9q37-yB65vSPr5SpXhx_Uzsk4dtDg/viewform?usp=sf_link) | Information Security, Privacy, Incident Response, Forensics |
 | 2017.09.15 | 2017.10.19-20 | Prague, Czech | [GeeCON Prague](https://2017.geecon.cz/) | [here](https://2017.geecon.cz/cfp/) | JVM, Big Data, Software Engineering, ... |
 | 2017.09.12 | 2017.11.15-17 | Madrid, Spain | [Big Data Spain](https://www.bigdataspain.org/) | [here](https://www.bigdataspain.org/call-for-papers/) | Spark, NoSQL, ML, Cloud |
+| 2017.09.01 | 2017.11.23-25 | Ljubljana, Slovenia | [BeeScala](https://www.bee-scala.org/) | [here](https://bee-scala.org/docs/1) | Scala, Big Data, FP, JVM |
 | 2017.09.08 | 2017.11.02-03 | Lyon, France | [scala.io](http://scala.io/) | [here](http://scala.io/cfp.html) | Scala, Functional Programming, ... |
 | 2017.08.31 | 2017.10.26-27 | Cádiz, Spain | [Lambda World](http://www.lambda.world/) | [here](https://47degrees.typeform.com/to/UP92z0) | Scala |
 | 2017.08.31 | 2017.10.21 | Łódź, Poland | [Mobilization](http://2017.mobilization.pl/) | [here](https://bit.ly/mobilization7-c4p) | Mobile |
