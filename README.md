@@ -11,6 +11,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.10.18 | 2018.01.30 | Ede, Netherlands | [JVMCON](http://jvmcon.com/) | [here](https://www.papercall.io/jvmcon) | JVM |
 | 2017.10.01 | 2018.02.21-23 | Atlanta, USA | [DevNexus](https://devnexus.com) | [here](https://devnexus.com/cfp-details.html) | Java, JVM, Cloud, Mobile, ... |
 | 2017.09.30 | 2018.02.22-23 | Kraków, Poland | [Lambda Days](https://eventil.com/events/lambda-days-2018) | [here](https://eventil.com/events/lambda-days-2018/submissions/proposal/step1) | Scala, Erlang, Haskell, ... |
+| 2017.09.30 | 2018.02.05-07 | Stockholm, Sweden | [Jfokus](http://www.jfokus.se/) | [here](http://www.jfokus.se/jfokus/proposals.jsp) | JVM, NoSQL, Mobile... |
 | 2017.09.20 | 2018.03.07-09 | Montreal, Canada | [ConFoo Montreal](https://confoo.ca/en/yul2018) | [here](https://confoo.ca/en/yul2018/call-for-papers) | Web development, DevOps, Mobile, ... |
 | 2017.09.15 | 2017.10.20 | Luxembourg, Luxembourg | [BSides Luxembourg 2017](http://www.securitybsides.com/w/page/116774919/BSidesLuxembourg) | [here](https://docs.google.com/forms/d/e/1FAIpQLScRuIE4NwLoSgFLPvQ3s9q37-yB65vSPr5SpXhx_Uzsk4dtDg/viewform?usp=sf_link) | Information Security, Privacy, Incident Response, Forensics |
 | 2017.09.15 | 2017.10.19-20 | Prague, Czech | [GeeCON Prague](https://2017.geecon.cz/) | [here](https://2017.geecon.cz/cfp/) | JVM, Big Data, Software Engineering, ... |
