@@ -6,6 +6,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2017.11.15 | 2018.03.08 | Zürich, Switzerland | [Voxxed Days Zürich](https://voxxeddays.com/zurich/) | [here](https://cfp-vdz.exteso.com/) | JVM, BigData, Mobile, ...|
 | 2017.11.01 | 2018.01.24-27 | Grenoble, France | [SnowCamp.io](http://snowcamp.io) | [here](https://snowcamp.cfp.io/) | Languages & Framework, Web, Mobile, Cloud, DevOps, IoT, ...  |
 | 2017.10.18 | 2018.01.30 | Ede, Netherlands | [JVMCON](http://jvmcon.com/) | [here](https://www.papercall.io/jvmcon) | JVM |
 | 2017.10.01 | 2018.02.21-23 | Atlanta, USA | [DevNexus](https://devnexus.com) | [here](https://devnexus.com/cfp-details.html) | Java, JVM, Cloud, Mobile, ... |
