@@ -11,6 +11,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.11.01 | 2018.01.24-27 | Grenoble, France | [SnowCamp.io](http://snowcamp.io) | [here](https://snowcamp.cfp.io/) | Languages & Framework, Web, Mobile, Cloud, DevOps, IoT, ...  |
 | 2017.10.18 | 2018.01.30 | Ede, Netherlands | [JVMCON](http://jvmcon.com/) | [here](https://www.papercall.io/jvmcon) | JVM |
 | 2017.10.16 | 2018.02.22 | Warsaw, Poland | [Big Data Tech Warsaw](http://bigdatatechwarsaw.eu/) | [here](http://bigdatatechwarsaw.eu/cfp/) | Big Data, ...|
+| 2017.10.15 | 2018.05.08-11 | Budapest, Hungary | [Craft](https://craft-conf.com) | [here](https://docs.google.com/forms/d/e/1FAIpQLSc0fhCL0-FSstoKM_uqSDYEspy7qfCdNWxGbZ52kSR1BbYnhQ/viewform) | Server-less, AI, ML, Practices, ...|
 | 2017.10.15 | 2017.11.18 | Amsterdam, Netherlands | [GDG DevFest, The Netherlands](https://devfest.nl) | [here](https://docs.google.com/forms/d/e/1FAIpQLSeyZVAc11y9VbiVwHWZ41vWG0hj8Gwu5J8T5SJifbtrgOC5zA/viewform) | Android |
 | 2017.10.01 | 2018.03.27/29 | Johannesburg/Cape Town, South Africa | [DevConf](https://www.devconf.co.za/) | [here](https://www.papercall.io/devconf2018) | DevOps, Mobile, Methodologies, Databases, AI, ML |
 | 2017.10.01 | 2018.02.21-23 | Atlanta, USA | [DevNexus](https://devnexus.com) | [here](https://devnexus.com/cfp-details.html) | Java, JVM, Cloud, Mobile, ... |
