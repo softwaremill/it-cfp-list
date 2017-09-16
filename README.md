@@ -7,6 +7,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
 | ??? | 2017.03.22-23 | Bucharest, Romania | [Voxxed Days Bucharest 2018](https://voxxeddays.com/romania/bucharest/) | [here](https://voxxeddays.com/romania/cfp-bucharest/) | JVM, BigData, Mobile, ...|
+| 2017.12.10 | 2018.03.01-02 | Helsinki, Finland | [ngVikings 2018](https://ngvikings.org/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSePYV6ek4ixXuGxmnImQnhBRaQ7g2tmmhdOOo1dBS2_R1iK0Q/viewform) | Angular, Web, Mobile, ...|
 | 2017.12.01 | 2018.03.03 | Salzburg, Austria | [.concat()](https://2018.conc.at/) | [here](https://2018.conc.at/#cfp) | Web, UX, ...|
 | 2017.11.15 | 2018.03.08 | Zürich, Switzerland | [Voxxed Days Zürich](https://voxxeddays.com/zurich/) | [here](https://cfp-vdz.exteso.com/) | JVM, BigData, Mobile, ...|
 | 2017.11.01 | 2018.01.24-27 | Grenoble, France | [SnowCamp.io](http://snowcamp.io) | [here](https://snowcamp.cfp.io/) | Languages & Framework, Web, Mobile, Cloud, DevOps, IoT, ...  |
