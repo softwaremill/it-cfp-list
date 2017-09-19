@@ -11,6 +11,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.12.01 | 2018.03.03 | Salzburg, Austria | [.concat()](https://2018.conc.at/) | [here](https://2018.conc.at/#cfp) | Web, UX, ...|
 | 2017.11.15 | 2018.03.08 | Zürich, Switzerland | [Voxxed Days Zürich](https://voxxeddays.com/zurich/) | [here](https://cfp-vdz.exteso.com/) | JVM, BigData, Mobile, ...|
 | 2017.11.01 | 2018.01.24-27 | Grenoble, France | [SnowCamp.io](http://snowcamp.io) | [here](https://snowcamp.cfp.io/) | Languages & Framework, Web, Mobile, Cloud, DevOps, IoT, ...  |
+| 2017.10.20 | 2018.01.25-26 | Dornbirn, Austria | [Agent Conf](https://www.agent.sh/) | [here](https://www.papercall.io/agent-conf-2018) | Mobile, Web, DevOps... |
 | 2017.10.18 | 2018.01.30 | Ede, Netherlands | [JVMCON](http://jvmcon.com/) | [here](https://www.papercall.io/jvmcon) | JVM |
 | 2017.10.16 | 2018.02.22 | Warsaw, Poland | [Big Data Tech Warsaw](http://bigdatatechwarsaw.eu/) | [here](http://bigdatatechwarsaw.eu/cfp/) | Big Data, ...|
 | 2017.10.15 | 2018.05.08-11 | Budapest, Hungary | [Craft](https://craft-conf.com) | [here](https://docs.google.com/forms/d/e/1FAIpQLSc0fhCL0-FSstoKM_uqSDYEspy7qfCdNWxGbZ52kSR1BbYnhQ/viewform) | Server-less, AI, ML, Practices, ...|
