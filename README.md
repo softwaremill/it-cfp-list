@@ -12,6 +12,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.12.01 | 2018.03.03 | Salzburg, Austria | [.concat()](https://2018.conc.at/) | [here](https://2018.conc.at/#cfp) | Web, UX, ...|
 | 2017.11.15 | 2018.03.08 | Zürich, Switzerland | [Voxxed Days Zürich](https://voxxeddays.com/zurich/) | [here](https://cfp-vdz.exteso.com/) | JVM, BigData, Mobile, ...|
 | 2017.11.01 | 2018.01.24-27 | Grenoble, France | [SnowCamp.io](http://snowcamp.io) | [here](https://snowcamp.cfp.io/) | Languages & Framework, Web, Mobile, Cloud, DevOps, IoT, ...  |
+| 2017.10.30 | 2018.02.22-23 | Kraków, Poland | [Lambda Days](http://www.lambdadays.org) | [here](https://eventil.com/events/lambda-days-2018/submissions/proposal/step1) | Scala, Erlang, Haskell, ... |
 | 2017.10.20 | 2018.01.25-26 | Dornbirn, Austria | [Agent Conf](https://www.agent.sh/) | [here](https://www.papercall.io/agent-conf-2018) | Mobile, Web, DevOps... |
 | 2017.10.18 | 2018.01.30 | Ede, Netherlands | [JVMCON](http://jvmcon.com/) | [here](https://www.papercall.io/jvmcon) | JVM |
 | 2017.10.16 | 2018.02.22 | Warsaw, Poland | [Big Data Tech Warsaw](http://bigdatatechwarsaw.eu/) | [here](http://bigdatatechwarsaw.eu/cfp/) | Big Data, ...|
@@ -20,7 +21,6 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.10.13 | 2018.03.15 | Bristol, UK | [Voxxed Days Bristol](https://voxxeddays.com/bristol/) | [here](https://www.papercall.io/voxxeddaysbristol2018) | Big Data, JVM, Security, ... |
 | 2017.10.01 | 2018.03.27/29 | Johannesburg/Cape Town, South Africa | [DevConf](https://www.devconf.co.za/) | [here](https://www.papercall.io/devconf2018) | DevOps, Mobile, Methodologies, Databases, AI, ML |
 | 2017.10.01 | 2018.02.21-23 | Atlanta, USA | [DevNexus](https://devnexus.com) | [here](https://devnexus.com/cfp-details.html) | Java, JVM, Cloud, Mobile, ... |
-| 2017.09.30 | 2018.02.22-23 | Kraków, Poland | [Lambda Days](https://eventil.com/events/lambda-days-2018) | [here](https://eventil.com/events/lambda-days-2018/submissions/proposal/step1) | Scala, Erlang, Haskell, ... |
 | 2017.09.30 | 2018.02.05-07 | Stockholm, Sweden | [Jfokus](http://www.jfokus.se/) | [here](http://www.jfokus.se/jfokus/proposals.jsp) | JVM, NoSQL, Mobile... |
 | 2017.09.25 | 2017.11.09 | Łódź, Poland | [4Developers Łódź](https://lodz.4developers.org.pl/) | [here](https://lodz.4developers.org.pl/form.html) | DB, JavaScript, JVM, Agile, ...|
 | 2017.09.20 | 2018.03.07-09 | Montreal, Canada | [ConFoo Montreal](https://confoo.ca/en/yul2018) | [here](https://confoo.ca/en/yul2018/call-for-papers) | Web development, DevOps, Mobile, ... |
