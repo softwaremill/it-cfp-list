@@ -14,6 +14,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.11.15 | 2018.03.08 | Zürich, Switzerland | [Voxxed Days Zürich](https://voxxeddays.com/zurich/) | [here](https://cfp-vdz.exteso.com/) | JVM, BigData, Mobile, ...|
 | 2017.11.01 | 2018.01.24-27 | Grenoble, France | [SnowCamp.io](http://snowcamp.io) | [here](https://snowcamp.cfp.io/) | Languages & Framework, Web, Mobile, Cloud, DevOps, IoT, ...  |
 | 2017.10.30 | 2018.02.22-23 | Kraków, Poland | [Lambda Days](http://www.lambdadays.org) | [here](https://eventil.com/events/lambda-days-2018/submissions/proposal/step1) | Scala, Erlang, Haskell, ... |
+| 2017.10.29 | 2018.02.23 | Berlin, Germany | [BOB](http//bobkonf.de/) |[here](http://bobkonf.de/2018/cfp.html) | "whatever's best", FP |
 | 2017.10.20 | 2018.01.25-26 | Dornbirn, Austria | [Agent Conf](https://www.agent.sh/) | [here](https://www.papercall.io/agent-conf-2018) | Mobile, Web, DevOps... |
 | 2017.10.18 | 2018.01.30 | Ede, Netherlands | [JVMCON](http://jvmcon.com/) | [here](https://www.papercall.io/jvmcon) | JVM |
 | 2017.10.16 | 2018.02.22 | Warsaw, Poland | [Big Data Tech Warsaw](http://bigdatatechwarsaw.eu/) | [here](http://bigdatatechwarsaw.eu/cfp/) | Big Data, ...|
