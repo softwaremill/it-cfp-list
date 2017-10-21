@@ -7,7 +7,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
 | 2018.03.01 | 2018.05.29-30 | Sofia, Bulgaria | [jPrime](https://jprime.io/) | [here](https://jprime.io/cfp) | JVM, Mobile, Web, ...|
-| 2017.12.16 | 2017.03.16-18 | Tokyo, Japan | [Scala Matsuri](http://2018.scalamatsuri.org/index_en.html) | [here](http://2018.scalamatsuri.org/en/cfp/) | Scala, ... |
+| 2017.12.16 | 2018.03.16-18 | Tokyo, Japan | [Scala Matsuri](http://2018.scalamatsuri.org/index_en.html) | [here](http://2018.scalamatsuri.org/en/cfp/) | Scala, ... |
 | 2017.12.15 | 2018.03.22-23 | Bucharest, Romania | [Voxxed Days Bucharest 2018](https://voxxeddays.com/romania/bucharest/) | [here](https://voxxeddays.com/romania/cfp-bucharest/) | JVM, BigData, Mobile, ...|
 | 2017.12.10 | 2018.03.01-02 | Helsinki, Finland | [ngVikings 2018](https://ngvikings.org/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSePYV6ek4ixXuGxmnImQnhBRaQ7g2tmmhdOOo1dBS2_R1iK0Q/viewform) | Angular, Web, Mobile, ...|
 | 2017.12.01 | 2018.06.07-08 | Tallinn, Estonia | [GeekOut](https://2018.geekout.ee/) | [here](https://www.papercall.io/geekout2018) | Java, Web, Big Data, Architecture, ...|
