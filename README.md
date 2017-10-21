@@ -27,47 +27,46 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.09.30 | 2018.02.05-07 | Stockholm, Sweden | [Jfokus](http://www.jfokus.se/) | [here](http://www.jfokus.se/jfokus/proposals.jsp) | JVM, NoSQL, Mobile... |
 | 2017.09.25 | 2017.11.09 | Łódź, Poland | [4Developers Łódź](https://lodz.4developers.org.pl/) | [here](https://lodz.4developers.org.pl/form.html) | DB, JavaScript, JVM, Agile, ...|
 | 2017.09.20 | 2018.03.07-09 | Montreal, Canada | [ConFoo Montreal](https://confoo.ca/en/yul2018) | [here](https://confoo.ca/en/yul2018/call-for-papers) | Web development, DevOps, Mobile, ... |
-| 2017.09.15 | 2017.10.20 | Luxembourg, Luxembourg | [BSides Luxembourg 2017](http://www.securitybsides.com/w/page/116774919/BSidesLuxembourg) | [here](https://docs.google.com/forms/d/e/1FAIpQLScRuIE4NwLoSgFLPvQ3s9q37-yB65vSPr5SpXhx_Uzsk4dtDg/viewform?usp=sf_link) | Information Security, Privacy, Incident Response, Forensics |
-| 2017.09.15 | 2017.10.19-20 | Prague, Czech | [GeeCON Prague](https://2017.geecon.cz/) | [here](https://2017.geecon.cz/cfp/) | JVM, Big Data, Software Engineering, ... |
 | 2017.09.12 | 2017.11.15-17 | Madrid, Spain | [Big Data Spain](https://www.bigdataspain.org/) | [here](https://www.bigdataspain.org/call-for-papers/) | Spark, NoSQL, ML, Cloud |
 | 2017.09.01 | 2017.11.23-25 | Ljubljana, Slovenia | [BeeScala](https://www.bee-scala.org/) | [here](https://bee-scala.org/docs/1) | Scala, Big Data, FP, JVM |
 | 2017.09.08 | 2017.11.02-03 | Lyon, France | [scala.io](http://scala.io/) | [here](http://scala.io/cfp.html) | Scala, Functional Programming, ... |
 | 2017.08.31 | 2017.10.26-27 | Cádiz, Spain | [Lambda World](http://www.lambda.world/) | [here](https://47degrees.typeform.com/to/UP92z0) | Scala |
-| 2017.08.31 | 2017.10.21 | Łódź, Poland | [Mobilization](http://2017.mobilization.pl/) | [here](https://bit.ly/mobilization7-c4p) | Mobile |
-| 2017.08.21 | 2017.10.03-04 | Kraków, Poland | [JDD](https://17.jdd.org.pl) | [here](https://17.jdd.org.pl/form.html) | JVM |
 | 2017.08.20 | 2017.11.02 | Ede, Netherlands | [J-Fall 2017](http://www.nljugcfp.nl/) | [here](http://www.nljugcfp.nl/) | JVM, Cloud, Big Data, ML, ... |
 | 2017.08.10 | 2018.03.13-15 | Bruehl, Germany | [JavaLand](https://www.javaland.eu/en/home/) | [here](https://www.javaland.eu/en/speaker/speaker/#c10700) | JVM |
 | 2017.07.31 | 2017.11.22 | Cluj-Napoca, Romania | [Voxxed Days Cluj-Napoca](https://voxxeddays.com/romania/cluj-napoca/2017-11-22/) | [here](https://www.papercall.io/vdclj) | JVM, BigData, Mobile, ... |
 | 2017.07.24 | 2017.11.10-11 | Milan, Italy | [Codemotion Milan](http://milan2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com) | Mobile, FP, React Native, Programming |
-| 2017.07.21 | 2017.10.17-19 | Luxembourg, Luxembourg | [Hack.lu 2017](https://hack.lu/) | [here](https://2017.hack.lu/cfp/) | Computer security, Privacy, Information Technology |
 | 2017.07.19 | 2017.11.14-16 | Casablanca, Morocco | [Devoxx Morocco](https://devoxx.ma/) | [here](https://cfp.devoxx.ma/) | Java, Mobile, Web, Cloud, ... |
 | 2017.07.17 | 2017.12.14-15 | London, UK | [Scala eXchange 2017](https://skillsmatter.com/conferences/8784-scala-exchange-2017) | [here](https://skillsmatter.com/conferences/8784-scala-exchange-2017#get_involved) | Scala, Big Data, Testing |
 | 2017.07.17 | 2017.12.04-05 | London, UK | [Clojure eXchange 2017](https://skillsmatter.com/conferences/8783-clojure-exchange-2017) | [here](https://skillsmatter.com/conferences/8783-clojure-exchange-2017#get_involved) | Clojure, FP, ML, AI, ... |
-| 2017.07.16 | 2017.09.28-29 | Hamburg, Germany | [code.talks](https://www.codetalks.de/en) | [here](https://www.codetalks.de/en/2017/call-for-papers) | Java, Big Data, Web, DevOps, ...|
-| 2017.07.10 | 2017.10.11-13 | Verona, Italy | [#Pragma Conference](http://www.pragmaconference.com) | [here](http://www.pragmaconference.com/#cfp) | iOS, macOS, watchOS, tvOS |
 | 2017.07.07 | 2017.11.06-10 | Antwerp, Belgium | [Devoxx](https://devoxx.be/) | [here](https://cfp.devoxx.be/) | Java, Big Data, Mobile, Web, ...|
-| 2017.07.04 | 2017.10.06-07 | Zagreb, Croatia | [WebCamp Zagreb](https://2017.webcampzg.org/) | [here](https://2017.webcampzg.org/cfp) | Development, UX, DB, Mobile, Web |
 | 2017.06.30 | 2017.11.09-11 | Bangalore, India | [Functional Conf](http://functionalconf.com/) | [here](http://functionalconf.com/speaker.html) | Functional Programming |
-| 2017.06.30 | 2017.10.20-21 | Budapest, Hungary | [Hacktivity 2017](https://hacktivity.com) | [here](https://hacktivity.com/en/cfp/) | Computer Security, Cyber Security, Hacking, IoT |
-| 2017.06.30 | 2017.10.09-11 | Warsaw, Poland | [AgileByExample](https://agilebyexample.com/) | [here](https://agilebyexample.com/speak-at-abe/) | Agile |
 | 2017.06.13 | 2017.11.07-09 | London, UK | [Code Mesh](http://www.codemesh.io) | [here](http://www.codemesh.io/#call-for-talks) | Non-mainstream technologies  |
-| 2017.06.15 | 2017.10.12-13 | Berlin, Germany | [Codemotion Berlin](http://berlin2017.codemotionworld.com) | [here](http://berlin2017.codemotionworld.com/call-for-papers/) | Backend, Mobile, Big Data, ...|
-| 2017.06.13 | 2017.10.16-19 | Copenhagen, Denmark | [DockerCon Copenhagen 2017](https://europe-2017.dockercon.com/) | [here](https://europe-2017.dockercon.com/dockercon-call-for-papers) | Docker, Moby |
-| 2017.06.13 | 2017.09.22-23 | Singapore, Singapore | [MonkeyFest 2017](https://www.monkeyfest.io) | [here](https://www.papercall.io/re-evolve) | Mobile, Xamarin |
 | 2017.06.12 | 2017.11.23-25 | Thessaloniki, Greece  | [Voxxed Thessaloniki 2017](https://voxxeddays.com/thessaloniki/) | [here](https://www.papercall.io/vdthess17) | Languages & Frameworks, Software Craftsmanship, Internet of Things, Web, Mobile Development... |
-| 2017.06.09 | 2017.09.07-09 | Oxford, UK  | [CUFP 2017](http://cufp.org/2017/) | [here](http://cufp.org/2017/call-for-presentations.html) | Functional programming |
-| 2017.06.01 | 2017.10.12-13 | Berlin, Germany | [Codemotion Berlin](http://berlin2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
 | 2017.05.21 | 2017.11.24-25 | Madrid, Spain | [Codemotion Madrid](https://www.koliseo.com/codemotion/codemotion-madrid/) | [here](https://www.koliseo.com/codemotion/codemotion-madrid/r4p/5632002325741568#/) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
-| 2017.05.20 | 2017.10.10-13 | Braga, Portugal | [Mirror Conf](http://www.mirrorconf.com/) | [here](https://www.papercall.io/mirrorconf2017) | Frontend, Design, UI, UX, ... |
-| 2017.05.17 | 2017.10.20-21 | Dubai, UAE | [Codemotion Dubai](http://dubai2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
-| 2016.05.06 | 2017.09.11-13 | Los Angeles, USA | [Open Source Summit](http://events.linuxfoundation.org/events/open-source-summit-north-america) | [here](http://events.linuxfoundation.org/events/open-source-summit-north-america/program/cfp) | DevOps, IoT, Security, Cloud, ... |
-| 2017.05.31 | 2017.10.19-20 | Belgrade, Serbia | [Voxxed Days Belgrade](https://belgrade.voxxeddays.com/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSeXpSNjd_SpxWxpUdxoF3VfBhzEZ0KzN1BnMSQHriAUsuXYKQ/viewform?c=0&w=1) | Languages + Architecture, Machine Learning + AI, AR + VR, Security |
-| 2017.05.31 | 2017.10.18-20 | Austin, USA | [Reactive Summit](http://www.reactivesummit.org) | [here](https://www.reactivesummit.org/call-for-proposals) | reactive systems, fast data |
 
 ### Finished
 
 | CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2017.08.31 | 2017.10.21 | Łódź, Poland | [Mobilization](http://2017.mobilization.pl/) | [here](https://bit.ly/mobilization7-c4p) | Mobile |
+| 2017.05.17 | 2017.10.20-21 | Dubai, UAE | [Codemotion Dubai](http://dubai2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
+| 2017.06.30 | 2017.10.20-21 | Budapest, Hungary | [Hacktivity 2017](https://hacktivity.com) | [here](https://hacktivity.com/en/cfp/) | Computer Security, Cyber Security, Hacking, IoT |
+| 2017.09.15 | 2017.10.20 | Luxembourg, Luxembourg | [BSides Luxembourg 2017](http://www.securitybsides.com/w/page/116774919/BSidesLuxembourg) | [here](https://docs.google.com/forms/d/e/1FAIpQLScRuIE4NwLoSgFLPvQ3s9q37-yB65vSPr5SpXhx_Uzsk4dtDg/viewform?usp=sf_link) | Information Security, Privacy, Incident Response, Forensics |
+| 2017.09.15 | 2017.10.19-20 | Prague, Czech | [GeeCON Prague](https://2017.geecon.cz/) | [here](https://2017.geecon.cz/cfp/) | JVM, Big Data, Software Engineering, ... |
+| 2017.05.31 | 2017.10.19-20 | Belgrade, Serbia | [Voxxed Days Belgrade](https://belgrade.voxxeddays.com/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSeXpSNjd_SpxWxpUdxoF3VfBhzEZ0KzN1BnMSQHriAUsuXYKQ/viewform?c=0&w=1) | Languages + Architecture, Machine Learning + AI, AR + VR, Security |
+| 2017.05.31 | 2017.10.18-20 | Austin, USA | [Reactive Summit](http://www.reactivesummit.org) | [here](https://www.reactivesummit.org/call-for-proposals) | reactive systems, fast data |
+| 2017.07.21 | 2017.10.17-19 | Luxembourg, Luxembourg | [Hack.lu 2017](https://hack.lu/) | [here](https://2017.hack.lu/cfp/) | Computer security, Privacy, Information Technology |
+| 2017.06.13 | 2017.10.16-19 | Copenhagen, Denmark | [DockerCon Copenhagen 2017](https://europe-2017.dockercon.com/) | [here](https://europe-2017.dockercon.com/dockercon-call-for-papers) | Docker, Moby |
+| 2017.06.01 | 2017.10.12-13 | Berlin, Germany | [Codemotion Berlin](http://berlin2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
+| 2017.07.10 | 2017.10.11-13 | Verona, Italy | [#Pragma Conference](http://www.pragmaconference.com) | [here](http://www.pragmaconference.com/#cfp) | iOS, macOS, watchOS, tvOS |
+| 2017.05.20 | 2017.10.10-13 | Braga, Portugal | [Mirror Conf](http://www.mirrorconf.com/) | [here](https://www.papercall.io/mirrorconf2017) | Frontend, Design, UI, UX, ... |
+| 2017.06.30 | 2017.10.09-11 | Warsaw, Poland | [AgileByExample](https://agilebyexample.com/) | [here](https://agilebyexample.com/speak-at-abe/) | Agile |
+| 2017.07.04 | 2017.10.06-07 | Zagreb, Croatia | [WebCamp Zagreb](https://2017.webcampzg.org/) | [here](https://2017.webcampzg.org/cfp) | Development, UX, DB, Mobile, Web |
+| 2017.08.21 | 2017.10.03-04 | Kraków, Poland | [JDD](https://17.jdd.org.pl) | [here](https://17.jdd.org.pl/form.html) | JVM |
+| 2017.07.16 | 2017.09.28-29 | Hamburg, Germany | [code.talks](https://www.codetalks.de/en) | [here](https://www.codetalks.de/en/2017/call-for-papers) | Java, Big Data, Web, DevOps, ...|
+| 2017.06.13 | 2017.09.22-23 | Singapore, Singapore | [MonkeyFest 2017](https://www.monkeyfest.io) | [here](https://www.papercall.io/re-evolve) | Mobile, Xamarin |
+| 2016.05.06 | 2017.09.11-13 | Los Angeles, USA | [Open Source Summit](http://events.linuxfoundation.org/events/open-source-summit-north-america) | [here](http://events.linuxfoundation.org/events/open-source-summit-north-america/program/cfp) | DevOps, IoT, Security, Cloud, ... |
+| 2017.06.09 | 2017.09.07-09 | Oxford, UK  | [CUFP 2017](http://cufp.org/2017/) | [here](http://cufp.org/2017/call-for-presentations.html) | Functional programming |
 | 2017.05.11 | 2017.07.01 | Poland, Warsaw | [Confitura](https://2017.confitura.pl) | [here](https://2017.confitura.pl/login) | Programming, ... |
 | 2017.05.08 | 2017.12.04-06 | Canada, Vancouver | [ConFoo Vancouver 2017](https://confoo.ca/en/yvr2017) | [here](https://confoo.ca/en/yvr2017/call-for-papers) | ML, Mobile, Programming, DevOps |
 | 2017.05.01 | 2017.11.02-03 | USA, San Francisco | [KotlinConf](https://kotlinconf.com/) | [here](https://sessionize.com/kotlinconf/) | Kotlin |
