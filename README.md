@@ -7,6 +7,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
 | 2018.03.01 | 2018.05.29-30 | Sofia, Bulgaria | [jPrime](https://jprime.io/) | [here](https://jprime.io/cfp) | JVM, Mobile, Web, ...|
+| 2018.01.15 | 2018.03.16-17 | Madrid, Spain | [Greach](http://2018.greachconf.com/) | [here](http://2018.greachconf.com/call-for-papers/) | Groovy, Grails, Spock, ... |
 | 2017.12.16 | 2018.03.16-18 | Tokyo, Japan | [Scala Matsuri](http://2018.scalamatsuri.org/index_en.html) | [here](http://2018.scalamatsuri.org/en/cfp/) | Scala, ... |
 | 2017.12.15 | 2018.03.22-23 | Bucharest, Romania | [Voxxed Days Bucharest 2018](https://voxxeddays.com/romania/bucharest/) | [here](https://voxxeddays.com/romania/cfp-bucharest/) | JVM, BigData, Mobile, ...|
 | 2017.12.11 | 2018.05.08-09 | Amsterdam, Netherlands | [Codemotion Amsterdam](https://amsterdam2018.codemotionworld.com/) | [here](https://amsterdam2018.codemotionworld.com/call-for-papers/) | Big Data, IoT, ML, Frontend, ... |
