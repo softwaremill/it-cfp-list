@@ -13,6 +13,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.12.15 | 2018.03.22-23 | Bucharest, Romania | [Voxxed Days Bucharest 2018](https://voxxeddays.com/romania/bucharest/) | [here](https://voxxeddays.com/romania/cfp-bucharest/) | JVM, BigData, Mobile, ...|
 | 2017.12.11 | 2018.05.08-09 | Amsterdam, Netherlands | [Codemotion Amsterdam](https://amsterdam2018.codemotionworld.com/) | [here](https://amsterdam2018.codemotionworld.com/call-for-papers/) | Big Data, IoT, ML, Frontend, ... |
 | 2017.12.10 | 2018.03.01-02 | Helsinki, Finland | [ngVikings 2018](https://ngvikings.org/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSePYV6ek4ixXuGxmnImQnhBRaQ7g2tmmhdOOo1dBS2_R1iK0Q/viewform) | Angular, Web, Mobile, ...|
+| 2017.12.01 | 2018.04.23-24 | London, UK | [Kafka Summit](https://kafka-summit.org) | [here](https://kafka-summit.org/kafka-summit-london-2018/speakers/) | Kafka |
 | 2017.12.01 | 2018.06.07-08 | Tallinn, Estonia | [GeekOut](https://2018.geekout.ee/) | [here](https://www.papercall.io/geekout2018) | Java, Web, Big Data, Architecture, ...|
 | 2017.12.01 | 2018.03.03 | Salzburg, Austria | [.concat()](https://2018.conc.at/) | [here](https://2018.conc.at/#cfp) | Web, UX, ...|
 | 2017.11.15 | 2018.04.24-26 | Mainz, Germany | [Jax 2018](https://jax.de) | [here](https://callforpapers.sandsmedia.com) | Java, JVM languages, Agile, Architecture,..|
