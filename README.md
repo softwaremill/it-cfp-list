@@ -6,6 +6,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2018.03.30 | 2018.05.22-23 | Gdańsk, Poland | [infoShare](https://infoshare.pl) | [here](https://infoshare.pl/call-for-speakers/) | Frontend, jvm, Data Science, ... |
 | 2018.03.01 | 2018.05.29-30 | Sofia, Bulgaria | [jPrime](https://jprime.io/) | [here](https://jprime.io/cfp) | JVM, Mobile, Web, ...|
 | 2018.03.01 | 2018.05.03-04 | Oslo, Norway | [flatMap(Oslo)](https://2018.flatmap.no/) | [here](https://www.papercall.io/flatmap2018) | Scala, functiona programming |
 | 2018.01.31 | 2018.04.06-07 | Poland, Warsaw | [Scalar](http://scalar-conf.com) | [here](https://docs.google.com/forms/d/e/1FAIpQLSce2PUyVbE-XF9ndDZcEvNz3-aLSkZ21c7CnUTL3SROsVCLHQ/viewform) | Scala, Spark, functional programming, reactive, ... |
