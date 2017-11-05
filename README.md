@@ -18,6 +18,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.12.01 | 2018.04.23-24 | London, UK | [Kafka Summit](https://kafka-summit.org) | [here](https://kafka-summit.org/kafka-summit-london-2018/speakers/) | Kafka |
 | 2017.12.01 | 2018.06.07-08 | Tallinn, Estonia | [GeekOut](https://2018.geekout.ee/) | [here](https://www.papercall.io/geekout2018) | Java, Web, Big Data, Architecture, ...|
 | 2017.12.01 | 2018.03.03 | Salzburg, Austria | [.concat()](https://2018.conc.at/) | [here](https://2018.conc.at/#cfp) | Web, UX, ...|
+| 2017.11.17 | 2018.04.11-14 | Kingham, UK | [ACCU 2018](https://conference.accu.org/) | [here](https://cfp.conference.accu.org/) | C, C++, other languages |
 | 2017.11.15 | 2018.04.24-26 | Mainz, Germany | [Jax 2018](https://jax.de) | [here](https://callforpapers.sandsmedia.com) | Java, JVM languages, Agile, Architecture,..|
 | 2017.11.15 | 2018.03.08 | Zürich, Switzerland | [Voxxed Days Zürich](https://voxxeddays.com/zurich/) | [here](https://cfp-vdz.exteso.com/) | JVM, BigData, Mobile, ...|
 | 2017.11.01 | 2018.01.24-27 | Grenoble, France | [SnowCamp.io](http://snowcamp.io) | [here](https://snowcamp.cfp.io/) | Languages & Framework, Web, Mobile, Cloud, DevOps, IoT, ...  |
