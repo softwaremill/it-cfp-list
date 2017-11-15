@@ -12,6 +12,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.03.01 | 2018.05.03-04 | Oslo, Norway | [flatMap(Oslo)](https://2018.flatmap.no/) | [here](https://www.papercall.io/flatmap2018) | Scala, functiona programming |
 | 2018.02.01 | 2018.05.23-25 | Málaga, Spain | [J On The Beach](https://jonthebeach.com/) | [here](https://www.papercall.io/jotb18) | JVM, ML, FP, iOT, Big Data |
 | 2018.01.15 | 2018.04.27-28 | Medellín, Colombia | [ScaleConf Colombia](http://scaleconfco.com/) | [here](https://www.papercall.io/scaleconfco2018) | DevOps, AI, ML, Cloud, ... |
+| 2018.01.15 | 2018.03.08-09 | Cape Town, South Africa | [ScaleConf](http://scaleconf.org/) | [here](https://www.papercall.io/scaleconf2018) |  Scalable systems, web, teams, ... |
 | 2018.01.31 | 2018.04.06-07 | Poland, Warsaw | [Scalar](http://scalar-conf.com) | [here](https://docs.google.com/forms/d/e/1FAIpQLSce2PUyVbE-XF9ndDZcEvNz3-aLSkZ21c7CnUTL3SROsVCLHQ/viewform) | Scala, Spark, functional programming, reactive, ... |
 | 2018.01.15 | 2018.03.16-17 | Madrid, Spain | [Greach](http://2018.greachconf.com/) | [here](http://2018.greachconf.com/call-for-papers/) | Groovy, Grails, Spock, ... |
 | 2017.12.24 | 2018.03.12-13 | Vienna, Austria | [Voxxed Days Vienna](https://voxxeddays.com/vienna/) | [here](https://www.papercall.io/vxv18) | JVM, BigData, Frontend, AI, ... |
