@@ -16,6 +16,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.01.15 | 2018.03.08-09 | Cape Town, South Africa | [ScaleConf](http://scaleconf.org/) | [here](https://www.papercall.io/scaleconf2018) |  Scalable systems, web, teams, ... |
 | 2018.01.31 | 2018.04.06-07 | Poland, Warsaw | [Scalar](http://scalar-conf.com) | [here](https://docs.google.com/forms/d/e/1FAIpQLSce2PUyVbE-XF9ndDZcEvNz3-aLSkZ21c7CnUTL3SROsVCLHQ/viewform) | Scala, Spark, functional programming, reactive, ... |
 | 2018.01.15 | 2018.03.16-17 | Madrid, Spain | [Greach](http://2018.greachconf.com/) | [here](http://2018.greachconf.com/call-for-papers/) | Groovy, Grails, Spock, ... |
+| 2018.01.09 | 2018.05.09-11 | London, UK | [Devoxx UK](https://www.devoxx.co.uk/) | [here](https://cfp.devoxx.co.uk/) | Big Data, JVM, Java, ... |
 | 2017.12.24 | 2018.03.12-13 | Vienna, Austria | [Voxxed Days Vienna](https://voxxeddays.com/vienna/) | [here](https://www.papercall.io/vxv18) | JVM, BigData, Frontend, AI, ... |
 | 2017.12.16 | 2018.03.16-18 | Tokyo, Japan | [Scala Matsuri](http://2018.scalamatsuri.org/index_en.html) | [here](http://2018.scalamatsuri.org/en/cfp/) | Scala, ... |
 | 2017.12.15 | 2018.03.22-23 | Bucharest, Romania | [Voxxed Days Bucharest 2018](https://voxxeddays.com/romania/bucharest/) | [here](https://voxxeddays.com/romania/cfp-bucharest/) | JVM, BigData, Mobile, ...|
