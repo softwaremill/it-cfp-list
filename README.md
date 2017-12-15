@@ -11,6 +11,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.03.01 | 2018.05.29-30 | Sofia, Bulgaria | [jPrime](https://jprime.io/) | [here](https://jprime.io/cfp) | JVM, Mobile, Web, ...|
 | 2018.03.01 | 2018.05.03-04 | Oslo, Norway | [flatMap(Oslo)](https://2018.flatmap.no/) | [here](https://www.papercall.io/flatmap2018) | Scala, functiona programming |
 | 2018.02.01 | 2018.05.23-25 | Málaga, Spain | [J On The Beach](https://jonthebeach.com/) | [here](https://www.papercall.io/jotb18) | JVM, ML, FP, iOT, Big Data |
+| 2018.01.16 | 2018.04.13-14 | Rome, Italy | [Codemotion Rome 2018](https://rome2018.codemotionworld.com/) | [here](https://rome2018.codemotionworld.com/call-for-papers-guidelines/) | Functional Programming, React Native, FAAS/Serverless, ... |
 | 2018.01.15 | 2018.04.27-28 | Medellín, Colombia | [ScaleConf Colombia](http://scaleconfco.com/) | [here](https://www.papercall.io/scaleconfco2018) | DevOps, AI, ML, Cloud, ... |
 | 2018.01.15 | 2018.04.16-17 | Kraków, Poland | [ScalaSphere Scala Dev Tools](http://scala.sphere.it) | [here](http://scala.sphere.it/#call-for-presentations) | Scala Dev Tools |
 | 2018.01.15 | 2018.03.08-09 | Cape Town, South Africa | [ScaleConf](http://scaleconf.org/) | [here](https://www.papercall.io/scaleconf2018) |  Scalable systems, web, teams, ... |
