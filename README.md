@@ -16,7 +16,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.01.27 | 2018.03.17 | Montreal, Canada | [Women Techmakers Montreal](http://wtmmontreal.com/) | [here](https://www.papercall.io/wtmmontreal2018) | Women in Tech, Web, Mobile, Big Data, AI, Cloud, Empowering, ...|  
 | 2018.01.16 | 2018.04.13-14 | Rome, Italy | [Codemotion Rome 2018](https://rome2018.codemotionworld.com/) | [here](https://rome2018.codemotionworld.com/call-for-papers-guidelines/) | Functional Programming, React Native, FAAS/Serverless, ... |
 | 2018.01.15 | 2018.04.27-28 | Medellín, Colombia | [ScaleConf Colombia](http://scaleconfco.com/) | [here](https://www.papercall.io/scaleconfco2018) | DevOps, AI, ML, Cloud, ... |
-| 2018.01.15 | 2018.04.16-17 | Kraków, Poland | [ScalaSphere Scala Dev Tools](http://scala.sphere.it) | [here](http://scala.sphere.it/#call-for-presentations) | Scala Dev Tools |
+| 2018.01.15 | 2018.04.16-17 | Kraków, Poland | [ScalaSphere Scala Dev Tools](http://scala.sphere.it) | [here](http://scala.sphere.it/#callforpapers) | Scala developer tools, frameworks, build infrastructure, compiler |
 | 2018.01.15 | 2018.03.08-09 | Cape Town, South Africa | [ScaleConf](http://scaleconf.org/) | [here](https://www.papercall.io/scaleconf2018) |  Scalable systems, web, teams, ... |
 | 2018.01.31 | 2018.04.06-07 | Poland, Warsaw | [Scalar](http://scalar-conf.com) | [here](https://docs.google.com/forms/d/e/1FAIpQLSce2PUyVbE-XF9ndDZcEvNz3-aLSkZ21c7CnUTL3SROsVCLHQ/viewform) | Scala, Spark, functional programming, reactive, ... |
 | 2018.01.15 | 2018.03.16-17 | Madrid, Spain | [Greach](http://2018.greachconf.com/) | [here](http://2018.greachconf.com/call-for-papers/) | Groovy, Grails, Spock, ... |
