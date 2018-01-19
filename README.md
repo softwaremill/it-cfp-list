@@ -14,6 +14,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.03.01 | 2018.05.03-04 | Oslo, Norway | [flatMap(Oslo)](https://2018.flatmap.no/) | [here](https://www.papercall.io/flatmap2018) | Scala, functiona programming |
 | 2018.02.26 | 2018.05.09-11 | Krakow, Poland | [GeeCON](https://2018.geecon.org/) | [here](https://cfp.geecon.org) | Java, Scala, Big Data, IOT, functional programming |
 | 2018.02.17 | 2018.07.02-04 | London, UK | [SPA: Software in Practice](https://www.spaconference.org/spa2018/) | [here](https://www.spaconference.org/spa2018/lead-a-session.html) | Programming, Workshops, Architecture, Soft Skills |
+| 2018.02.16 | 2018.04.09 | Warsaw, Poland | [4Developers](https://2018.4developers.org.pl) | [here](https://2018.4developers.org.pl/form.html) | Programming |
 | 2018.02.15 | 2018.04.12 | Berlin, Germany | [TechSummit Berlin](http://www.techsummit.io/berlin/) | [here](http://www.techsummit.io/cfp/) | DevOps, Monitoring, Performance, Scalability, Containers | 
 | 2018.02.05 | 2018.04.16-17 | Kraków, Poland | [ReactSphere](http://react.sphere.it) | [here](http://react.sphere.it/#callforpapers) | Reactive System Design, Microservice Architectures, actors, Messaging Systems, ... |
 | 2018.02.05 | 2018.04.16-17 | Kraków, Poland | [ScalaSphere Scala Dev Tools](http://scala.sphere.it) | [here](http://scala.sphere.it/#callforpapers) | Scala developer tools, frameworks, build infrastructure, compiler |
