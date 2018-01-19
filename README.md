@@ -8,6 +8,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 |---------|-----------------|---------------|------|----------|----------|
 | 2018.03.31 | 2018.04.22 | Suzhou, China | [DevRelCon China](http://www.devrel.cn/) | [here](https://www.papercall.io/devrelcon-china) | Developer relations, experience, marketing |
 | 2018.03.30 | 2018.05.22-23 | Gdańsk, Poland | [infoShare](https://infoshare.pl) | [here](https://infoshare.pl/call-for-speakers/) | Frontend, jvm, Data Science, ... |
+| 2018.03.26 | 2018.05.26 | Minsk, Belarus | [Voxxed Days Minsk](https://voxxeddays.com/minsk/) | [here](https://www.papercall.io/voxxed-days-minsk) | JVM, Methodologies, Cloud, NoSQL, Big Data |
 | 2018.03.01 | 2018.05.29-30 | Sofia, Bulgaria | [jPrime](https://jprime.io/) | [here](https://jprime.io/cfp) | JVM, Mobile, Web, ...|
 | 2018.03.01 | 2018.05.03-04 | Oslo, Norway | [flatMap(Oslo)](https://2018.flatmap.no/) | [here](https://www.papercall.io/flatmap2018) | Scala, functiona programming |
 | 2018.02.26 | 2018.05.09-11 | Krakow, Poland | [GeeCON](https://2018.geecon.org/) | [here](https://cfp.geecon.org) | Java, Scala, Big Data, IOT, functional programming |
