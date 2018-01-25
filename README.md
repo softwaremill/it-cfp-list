@@ -74,7 +74,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.06.13 | 2017.11.07-09 | London, UK | [Code Mesh](http://www.codemesh.io) | [here](http://www.codemesh.io/#call-for-talks) | Non-mainstream technologies  |
 | 2017.06.12 | 2017.11.23-25 | Thessaloniki, Greece  | [Voxxed Thessaloniki 2017](https://voxxeddays.com/thessaloniki/) | [here](https://www.papercall.io/vdthess17) | Languages & Frameworks, Software Craftsmanship, Internet of Things, Web, Mobile Development... |
 | 2017.05.21 | 2017.11.24-25 | Madrid, Spain | [Codemotion Madrid](https://www.koliseo.com/codemotion/codemotion-madrid/) | [here](https://www.koliseo.com/codemotion/codemotion-madrid/r4p/5632002325741568#/) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
-
+| 2018.02.14 | 2018.05.17-18 | Saint-Petersburg, Russia | [Heisenbug Piter](https://heisenbug-piter.ru/) | [CFP Form](https://heisenbug-piter.ru/callforpapers/) | Quality Assurance, Test Automation, Testing, Formal Verification, Model-Based Testing |
 ### Finished
 
 | CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
