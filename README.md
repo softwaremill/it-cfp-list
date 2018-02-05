@@ -19,6 +19,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.02.26 | 2018.05.09-11 | Krakow, Poland | [GeeCON](https://2018.geecon.org/) | [here](https://cfp.geecon.org) | Java, Scala, Big Data, IOT, functional programming |
 | 2018.02.17 | 2018.07.02-04 | London, UK | [SPA: Software in Practice](https://www.spaconference.org/spa2018/) | [here](https://www.spaconference.org/spa2018/lead-a-session.html) | Programming, Workshops, Architecture, Soft Skills |
 | 2018.02.16 | 2018.04.09 | Warsaw, Poland | [4Developers](https://2018.4developers.org.pl) | [here](https://2018.4developers.org.pl/form.html) | Programming |
+| 2018.02.15 | 2018.04.20-21 | Kiev, Ukraine | [ScalaUA](https://www.scalaua.com) | [here](https://www.scalaua.com/call-for-speakers/) | Scala |
 | 2018.02.15 | 2018.04.12 | Berlin, Germany | [TechSummit Berlin](http://www.techsummit.io/berlin/) | [here](http://www.techsummit.io/cfp/) | DevOps, Monitoring, Performance, Scalability, Containers | 
 | 2018.02.14 | 2018.05.17-18 | Saint-Petersburg, Russia | [Heisenbug Piter](https://heisenbug-piter.ru/) | [here](https://heisenbug-piter.ru/callforpapers/) | Quality Assurance, Test Automation, Testing, Formal Verification, Model-Based Testing |
 | 2018.02.06 | 2018.05.29-31 | Riga, Latvia | [RigaDevDays](https://rigadevdays.lv/) | [here](http://cfp.rigadevdays.lv/#/) | JVM, Microservices, .NET, Oracle, PostgreSQL, ... |
