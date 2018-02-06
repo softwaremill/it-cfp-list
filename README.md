@@ -16,6 +16,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.03.12 | 2018.06.01 | Singapore | [Voxxed Days Singapore](https://voxxeddays.com/singapore/) | [here](https://www.papercall.io/cfp-sgvoxxeddays) | Languages, Big Data, ML, Cloud, ...|
 | 2018.03.01 | 2018.05.29-30 | Sofia, Bulgaria | [jPrime](https://jprime.io/) | [here](https://jprime.io/cfp) | JVM, Mobile, Web, ...|
 | 2018.03.01 | 2018.05.03-04 | Oslo, Norway | [flatMap(Oslo)](https://2018.flatmap.no/) | [here](https://www.papercall.io/flatmap2018) | Scala, functiona programming |
+| 2018.02.28 | 2018.06.20-22 | Krakow, Poland | [Devoxx PL](http://devoxx.pl/) | [here](https://cfp.devoxx.pl/) | Web, JVM, Big Data, ... |
 | 2018.02.26 | 2018.05.09-11 | Krakow, Poland | [GeeCON](https://2018.geecon.org/) | [here](https://cfp.geecon.org) | Java, Scala, Big Data, IOT, functional programming |
 | 2018.02.17 | 2018.07.02-04 | London, UK | [SPA: Software in Practice](https://www.spaconference.org/spa2018/) | [here](https://www.spaconference.org/spa2018/lead-a-session.html) | Programming, Workshops, Architecture, Soft Skills |
 | 2018.02.16 | 2018.04.09 | Warsaw, Poland | [4Developers](https://2018.4developers.org.pl) | [here](https://2018.4developers.org.pl/form.html) | Programming |
