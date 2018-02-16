@@ -13,6 +13,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.04.08 | 2018.09.12-13 | Oslo, Norway | [JavaZone](https://2018.javazone.no/) | [here](https://2018.javazone.no/speakers) | Front-end, Machine Learning, AI, JVM, ... |
 | 2018.04.03 | 2018.08.17-19 | Boston, USA | [DevConf.us](https://devconf.cz/us/) | [here](http://bit.ly/devconfus-18-cfp) | IT, open source|
 | 2018.03.31 | 2018.04.22 | Suzhou, China | [DevRelCon China](http://www.devrel.cn/) | [here](https://www.papercall.io/devrelcon-china) | Developer relations, experience, marketing |
+| 2018.03.31 | 2018.09.27-28 | Kraków, Poland | [DevConf PL](http://devconf.pl/) | [here](https://www.papercall.io/devconf-2018) | Software craftsmanship, War-stories, Architecture, Javascript, C#, Java, Ruby, Python, Functional programming... |
 | 2018.03.30 | 2018.05.22-23 | Gdańsk, Poland | [infoShare](https://infoshare.pl) | [here](https://infoshare.pl/call-for-speakers/) | Frontend, jvm, Data Science, ... |
 | 2018.03.26 | 2018.05.26 | Minsk, Belarus | [Voxxed Days Minsk](https://voxxeddays.com/minsk/) | [here](https://www.papercall.io/voxxed-days-minsk) | JVM, Methodologies, Cloud, NoSQL, Big Data |
 | 2018.03.12 | 2018.06.01 | Singapore | [Voxxed Days Singapore](https://voxxeddays.com/singapore/) | [here](https://www.papercall.io/cfp-sgvoxxeddays) | Languages, Big Data, ML, Cloud, ...|
