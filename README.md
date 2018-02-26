@@ -12,6 +12,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.04.20 | 2018.10.04-05 | Amsterdam, Netherlands | [KotlinConf](https://kotlinconf.com/) | [here](https://sessionize.com/kotlinconf) | Kotlin, Android, JVM, Web |
 | 2018.04.08 | 2018.09.12-13 | Oslo, Norway | [JavaZone](https://2018.javazone.no/) | [here](https://2018.javazone.no/speakers) | Front-end, Machine Learning, AI, JVM, ... |
 | 2018.04.03 | 2018.08.17-19 | Boston, USA | [DevConf.us](https://devconf.cz/us/) | [here](http://bit.ly/devconfus-18-cfp) | IT, open source|
+| 2018.04.01 | 2018.07.02 | Beer Sheva, Israel | [Scalapeño](https://www.scalapeno2018.com/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdG__usIvUxXzuSO7qGtmF97ktPzRRR9mx6Me-0XiHWE0XMCQ/viewform) | Scala |
 | 2018.03.31 | 2018.05.19 | Zielona Góra, Poland | [Greenfield](http://greenfieldconf.pl/) | [here](http://greenfieldconf.pl/cfp.html) | Programming, Architecture, Soft skills, ... |
 | 2018.03.31 | 2018.04.22 | Suzhou, China | [DevRelCon China](http://www.devrel.cn/) | [here](https://www.papercall.io/devrelcon-china) | Developer relations, experience, marketing |
 | 2018.03.31 | 2018.09.27-28 | Kraków, Poland | [DevConf PL](http://devconf.pl/) | [here](https://www.papercall.io/devconf-2018) | Software craftsmanship, War-stories, Architecture, Javascript, C#, Java, Ruby, Python, Functional programming... |
