@@ -22,6 +22,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.03.31 | 2018.09.27-28 | Kraków, Poland | [DevConf PL](http://devconf.pl/) | [here](https://www.papercall.io/devconf-2018) | Software craftsmanship, War-stories, Architecture, Javascript, C#, Java, Ruby, Python, Functional programming... |
 | 2018.03.30 | 2018.05.22-23 | Gdańsk, Poland | [infoShare](https://infoshare.pl) | [here](https://infoshare.pl/call-for-speakers/) | Frontend, jvm, Data Science, ... |
 | 2018.03.26 | 2018.05.26 | Minsk, Belarus | [Voxxed Days Minsk](https://voxxeddays.com/minsk/) | [here](https://www.papercall.io/voxxed-days-minsk) | JVM, Methodologies, Cloud, NoSQL, Big Data |
+| 2018.03.16 | 2018.05.31-06.01 | Split, Croatia | [Shift](https://shiftconf.co) | [here](https://sessionize.com/shift/) | |
 | 2018.03.15 | 2018.05.19-20 | Tirana, Albania | [OSCAL](https://oscal.openlabs.cc/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSfNZN8DtwBKu-Va38q7KqYZbkVv7GrxpSctcIB1FIiE_iurVg/viewform) | OpenSource |
 | 2018.03.12 | 2018.06.01 | Singapore | [Voxxed Days Singapore](https://voxxeddays.com/singapore/) | [here](https://www.papercall.io/cfp-sgvoxxeddays) | Languages, Big Data, ML, Cloud, ...|
 | 2018.03.01 | 2018.05.29-30 | Sofia, Bulgaria | [jPrime](https://jprime.io/) | [here](https://jprime.io/cfp) | JVM, Mobile, Web, ...|
