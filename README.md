@@ -11,6 +11,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.06.01 | 2018.11.14-18 | Vilnius, Lithuania | [Build Stuff Lithuania](https://www.buildstuff.lt/) | [here](https://www.buildstuff.lt/blog/call-for-papers-is-open-now) | Software, trends, ... |
 | 2018.06.01 | 2018.09.14-15 | Florence, Italy | [Scala Italy](http://www.scala-italy.it/) | [here](https://www.papercall.io/scala-italy2018) | Scala, Functional Programming, Akka, Reactive Systems, Microservices... |
 | 2018.05.31 | 2018.10.17-19 | Belgrade, Serbia | [Heapcon](http://heapcon.io/) | [here](http://heapcon.io/) | |
+| 2018.05.13 | 2018.09.03-07 | Barcelona, Spain | [Full Stack Fest](https://2018.fullstackfest.com/) | [here](https://www.papercall.io/full-stack-fest-2018) | Front end, backend |
 | 2018.05.01 | 2018.06.11-13 | Barcelona, Spain | [JBCNConf](http://www.jbcnconf.com/2018/) | [here](http://www.jbcnconf.com/2018/callForPapers.html) | JVM, ML, Cloud, ... |
 | 2018.04.27 | 2018.06.18 | Warsaw, Poland | [Atmosphere](https://atmosphere-conference.com) | [here](https://atmosphere-conference.com/form.html) | DevOps, PaaS, ... |
 | 2018.04.20 | 2018.10.04-05 | Amsterdam, Netherlands | [KotlinConf](https://kotlinconf.com/) | [here](https://sessionize.com/kotlinconf) | Kotlin, Android, JVM, Web |
