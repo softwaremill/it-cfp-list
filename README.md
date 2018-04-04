@@ -11,6 +11,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.06.14 | 2018.12.13-14 | London, UK | [Scala eXchange](https://skillsmatter.com/conferences/10488-scala-exchange-2018) | [here](https://skillsmatter.com/conferences/10488-scala-exchange-2018#get_involved) | Scala |
 | 2018.06.01 | 2018.11.14-18 | Vilnius, Lithuania | [Build Stuff Lithuania](https://www.buildstuff.lt/) | [here](https://www.buildstuff.lt/blog/call-for-papers-is-open-now) | Software, trends, ... |
 | 2018.06.01 | 2018.09.14-15 | Florence, Italy | [Scala Italy](http://www.scala-italy.it/) | [here](https://www.papercall.io/scala-italy2018) | Scala, Functional Programming, Akka, Reactive Systems, Microservices... |
+| 2018.05.31 | 2018.10.25-27 | Fez, Morocco | [EMENA-ISTL 2018](https://www.emena.org) | [here](https://www.emena.org/page/cfp.html) | Information systems Technologies, Big Data Analytics and Applications, Intelligent Data Systems, and Machine Learning;, Artificial Intelligence, High Performance Computing, ... |
 | 2018.05.31 | 2018.10.17-19 | Belgrade, Serbia | [Heapcon](http://heapcon.io/) | [here](http://heapcon.io/) | |
 | 2018.05.21 | 2018.10.25-26 | Cádiz, Spain | [Lambda World Cádiz](http://cadiz.lambda.world/) | [here](http://www.lambda.world/call-for-papers-2018/) | Functional Programming |
 | 2018.05.21 | 2018.09.17-18 | Seattle, USA | [Lambda World Seattle](http://seattle.lambda.world/) | [here](http://www.lambda.world/call-for-papers-2018/) | Functional Programming |
