@@ -16,6 +16,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.05.21 | 2018.10.25-26 | Cádiz, Spain | [Lambda World Cádiz](http://cadiz.lambda.world/) | [here](http://www.lambda.world/call-for-papers-2018/) | Functional Programming |
 | 2018.05.21 | 2018.09.17-18 | Seattle, USA | [Lambda World Seattle](http://seattle.lambda.world/) | [here](http://www.lambda.world/call-for-papers-2018/) | Functional Programming |
 | 2018.05.13 | 2018.09.03-07 | Barcelona, Spain | [Full Stack Fest](https://2018.fullstackfest.com/) | [here](https://www.papercall.io/full-stack-fest-2018) | Front end, backend |
+| 2018.05.05 | 2018.09.28-29 | Toronto, Canada | [Scala Up North](http://scalaupnorth.com) | [here](http://scalaupnorth.com/cfp.html) | Scala |
 | 2018.05.01 | 2018.06.11-13 | Barcelona, Spain | [JBCNConf](http://www.jbcnconf.com/2018/) | [here](http://www.jbcnconf.com/2018/callForPapers.html) | JVM, ML, Cloud, ... |
 | 2018.04.27 | 2018.06.18 | Warsaw, Poland | [Atmosphere](https://atmosphere-conference.com) | [here](https://atmosphere-conference.com/form.html) | DevOps, PaaS, ... |
 | 2018.04.20 | 2018.10.04-05 | Amsterdam, Netherlands | [KotlinConf](https://kotlinconf.com/) | [here](https://sessionize.com/kotlinconf) | Kotlin, Android, JVM, Web |
