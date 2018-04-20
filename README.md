@@ -1,22 +1,66 @@
 # IT conferences Call For Papers list
 
-Please file Pull Requests for missing conferences. Commits from this repo automatically lands on [@ItCfpList](https://twitter.com/ItCfpList). Please keep commits names consistent with schema: `<Conference name> (@TwitterHandle #TwitterTag) - <yyyy.mm.dd-dd> - <City>, <Country>`. 
+Please file Pull Requests for missing conferences. Commits from this repo automatically lands on [@ItCfpList](https://twitter.com/ItCfpList). Please keep commits names consistent with schema: `<Conference name> (@TwitterHandle #TwitterTag) - <yyyy.mm.dd-dd> - <City>, <Country>`.
 
 List sorted by CFP end date descending (oldest and probably already finished last).
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| ??? | 2018.10.19-20 | Saint Petersburg, Russia | [Joker](https://jokerconf.com/en/) | [here](https://jokerconf.com/en/cfp/) | JVM, Microservices, Big Data, ... |
+| ??? | 2018.06.30 | Warsaw, Poland | [Confitura](https://2018.confitura.pl/) | [here](https://2018.confitura.pl/login) | Java, ... |
+| 2018.06.14 | 2018.12.13-14 | London, UK | [Scala eXchange](https://skillsmatter.com/conferences/10488-scala-exchange-2018) | [here](https://skillsmatter.com/conferences/10488-scala-exchange-2018#get_involved) | Scala |
+| 2018.06.01 | 2018.11.14-18 | Vilnius, Lithuania | [Build Stuff Lithuania](https://www.buildstuff.lt/) | [here](https://www.buildstuff.lt/blog/call-for-papers-is-open-now) | Software, trends, ... |
+| 2018.06.01 | 2018.09.14-15 | Florence, Italy | [Scala Italy](http://www.scala-italy.it/) | [here](https://www.papercall.io/scala-italy2018) | Scala, Functional Programming, Akka, Reactive Systems, Microservices... |
+| 2018.05.31 | 2018.10.25-27 | Fez, Morocco | [EMENA-ISTL 2018](https://www.emena.org) | [here](https://www.emena.org/page/cfp.html) | Information systems Technologies, Big Data Analytics and Applications, Intelligent Data Systems, and Machine Learning;, Artificial Intelligence, High Performance Computing, ... |
+| 2018.05.31 | 2018.10.17-19 | Belgrade, Serbia | [Heapcon](http://heapcon.io/) | [here](http://heapcon.io/) | |
+| 2018.05.21 | 2018.10.25-26 | Cádiz, Spain | [Lambda World Cádiz](http://cadiz.lambda.world/) | [here](http://www.lambda.world/call-for-papers-2018/) | Functional Programming |
+| 2018.05.21 | 2018.09.17-18 | Seattle, USA | [Lambda World Seattle](http://seattle.lambda.world/) | [here](http://www.lambda.world/call-for-papers-2018/) | Functional Programming |
+| 2018.05.13 | 2018.09.03-07 | Barcelona, Spain | [Full Stack Fest](https://2018.fullstackfest.com/) | [here](https://www.papercall.io/full-stack-fest-2018) | Front end, backend |
+| 2018.05.05 | 2018.09.28-29 | Toronto, Canada | [Scala Up North](http://scalaupnorth.com) | [here](http://scalaupnorth.com/cfp.html) | Scala |
+| 2018.05.01 | 2018.06.11-13 | Barcelona, Spain | [JBCNConf](http://www.jbcnconf.com/2018/) | [here](http://www.jbcnconf.com/2018/callForPapers.html) | JVM, ML, Cloud, ... |
+| 2018.04.27 | 2018.06.18 | Warsaw, Poland | [Atmosphere](https://atmosphere-conference.com) | [here](https://atmosphere-conference.com/form.html) | DevOps, PaaS, ... |
+| 2018.04.20 | 2018.10.04-05 | Amsterdam, Netherlands | [KotlinConf](https://kotlinconf.com/) | [here](https://sessionize.com/kotlinconf) | Kotlin, Android, JVM, Web |
+| 2018.04.08 | 2018.09.12-13 | Oslo, Norway | [JavaZone](https://2018.javazone.no/) | [here](https://2018.javazone.no/speakers) | Front-end, Machine Learning, AI, JVM, ... |
+| 2018.04.03 | 2018.08.17-19 | Boston, USA | [DevConf.us](https://devconf.info/us/) | [here](http://bit.ly/devconfus-18-cfp) | IT, open source|
+| 2018.04.01 | 2018.07.02 | Beer Sheva, Israel | [Scalapeño](https://www.scalapeno2018.com/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdG__usIvUxXzuSO7qGtmF97ktPzRRR9mx6Me-0XiHWE0XMCQ/viewform) | Scala |
+| 2018.03.31 | 2018.05.19 | Zielona Góra, Poland | [Greenfield](http://greenfieldconf.pl/) | [here](http://greenfieldconf.pl/cfp.html) | Programming, Architecture, Soft skills, ... |
 | 2018.03.31 | 2018.04.22 | Suzhou, China | [DevRelCon China](http://www.devrel.cn/) | [here](https://www.papercall.io/devrelcon-china) | Developer relations, experience, marketing |
+| 2018.03.31 | 2018.09.27-28 | Kraków, Poland | [DevConf PL](http://devconf.pl/) | [here](https://www.papercall.io/devconf-2018) | Software craftsmanship, War-stories, Architecture, Javascript, C#, Java, Ruby, Python, Functional programming... |
 | 2018.03.30 | 2018.05.22-23 | Gdańsk, Poland | [infoShare](https://infoshare.pl) | [here](https://infoshare.pl/call-for-speakers/) | Frontend, jvm, Data Science, ... |
+| 2018.03.26 | 2018.05.26 | Minsk, Belarus | [Voxxed Days Minsk](https://voxxeddays.com/minsk/) | [here](https://www.papercall.io/voxxed-days-minsk) | JVM, Methodologies, Cloud, NoSQL, Big Data |
+| 2018.03.16 | 2018.05.31-06.01 | Split, Croatia | [Shift](https://shiftconf.co) | [here](https://sessionize.com/shift/) | |
+| 2018.03.15 | 2018.05.19-20 | Tirana, Albania | [OSCAL](https://oscal.openlabs.cc/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSfNZN8DtwBKu-Va38q7KqYZbkVv7GrxpSctcIB1FIiE_iurVg/viewform) | OpenSource |
+| 2018.03.12 | 2018.06.01 | Singapore | [Voxxed Days Singapore](https://voxxeddays.com/singapore/) | [here](https://www.papercall.io/cfp-sgvoxxeddays) | Languages, Big Data, ML, Cloud, ...|
 | 2018.03.01 | 2018.05.29-30 | Sofia, Bulgaria | [jPrime](https://jprime.io/) | [here](https://jprime.io/cfp) | JVM, Mobile, Web, ...|
 | 2018.03.01 | 2018.05.03-04 | Oslo, Norway | [flatMap(Oslo)](https://2018.flatmap.no/) | [here](https://www.papercall.io/flatmap2018) | Scala, functiona programming |
+| 2018.02.28 | 2018.06.20-22 | Krakow, Poland | [Devoxx PL](http://devoxx.pl/) | [here](https://cfp.devoxx.pl/) | Web, JVM, Big Data, ... |
+| 2018.02.26 | 2018.05.09-11 | Krakow, Poland | [GeeCON](https://2018.geecon.org/) | [here](https://cfp.geecon.org) | Java, Scala, Big Data, IOT, functional programming |
+| 2018.02.17 | 2018.07.02-04 | London, UK | [SPA: Software in Practice](https://www.spaconference.org/spa2018/) | [here](https://www.spaconference.org/spa2018/lead-a-session.html) | Programming, Workshops, Architecture, Soft Skills |
+| 2018.02.16 | 2018.04.09 | Warsaw, Poland | [4Developers](https://2018.4developers.org.pl) | [here](https://2018.4developers.org.pl/form.html) | Programming |
+| 2018.02.15 | 2018.04.20-21 | Kiev, Ukraine | [ScalaUA](https://www.scalaua.com) | [here](https://www.scalaua.com/call-for-speakers/) | Scala |
+| 2018.02.15 | 2018.04.12 | Berlin, Germany | [TechSummit Berlin](http://www.techsummit.io/berlin/) | [here](http://www.techsummit.io/cfp/) | DevOps, Monitoring, Performance, Scalability, Containers |
+| 2018.02.14 | 2018.05.17-18 | Saint-Petersburg, Russia | [Heisenbug Piter](https://heisenbug-piter.ru/) | [here](https://heisenbug-piter.ru/callforpapers/) | Quality Assurance, Test Automation, Testing, Formal Verification, Model-Based Testing |
+| 2018.02.06 | 2018.05.29-31 | Riga, Latvia | [RigaDevDays](https://rigadevdays.lv/) | [here](http://cfp.rigadevdays.lv/#/) | JVM, Microservices, .NET, Oracle, PostgreSQL, ... |
+| 2018.02.05 | 2018.04.16-17 | Kraków, Poland | [ReactSphere](http://react.sphere.it) | [here](http://react.sphere.it/#callforpapers) | Reactive System Design, Microservice Architectures, actors, Messaging Systems, ... |
+| 2018.02.05 | 2018.04.16-17 | Kraków, Poland | [ScalaSphere Scala Dev Tools](http://scala.sphere.it) | [here](http://scala.sphere.it/#callforpapers) | Scala developer tools, frameworks, build infrastructure, compiler |
 | 2018.02.01 | 2018.05.23-25 | Málaga, Spain | [J On The Beach](https://jonthebeach.com/) | [here](https://www.papercall.io/jotb18) | JVM, ML, FP, iOT, Big Data |
+| 2018.02.01 | 2018.03.19 | Cambridge, US | [Northeast Scala Symposium](http://nescala.org/) | [here](https://www.papercall.io/nescala-boston-2018) | Scala |
+| 2018.01.29 | 2018.06.01-02 | Athens, Greece | [Voxxed Days Athens](http://athens.voxxeddays.com/) | [here](https://www.papercall.io/vdathens18) | Languages, IoT, Web, Cloud, ... |
+| 2018.01.27 | 2018.03.17 | Montreal, Canada | [Women Techmakers Montreal](http://wtmmontreal.com/) | [here](https://www.papercall.io/wtmmontreal2018) | Women in Tech, Web, Mobile, Big Data, AI, Cloud, Empowering, ...|
+| 2018.01.16 | 2018.04.13-14 | Rome, Italy | [Codemotion Rome 2018](https://rome2018.codemotionworld.com/) | [here](https://rome2018.codemotionworld.com/call-for-papers-guidelines/) | Functional Programming, React Native, FAAS/Serverless, ... |
 | 2018.01.15 | 2018.04.27-28 | Medellín, Colombia | [ScaleConf Colombia](http://scaleconfco.com/) | [here](https://www.papercall.io/scaleconfco2018) | DevOps, AI, ML, Cloud, ... |
-| 2018.01.15 | 2018.04.16-17 | Kraków, Poland | [ScalaSphere Scala Dev Tools](http://scala.sphere.it) | [here](http://scala.sphere.it/#call-for-presentations) | Scala Dev Tools |
+| 2018.01.15 | 2018.04.16-17 | Kraków, Poland | [DataSphere](http://data.sphere.it) | [here](http://data.sphere.it/#callforpapers) | data science & engineering, big data, data mining, ... |
 | 2018.01.15 | 2018.03.08-09 | Cape Town, South Africa | [ScaleConf](http://scaleconf.org/) | [here](https://www.papercall.io/scaleconf2018) |  Scalable systems, web, teams, ... |
 | 2018.01.31 | 2018.04.06-07 | Poland, Warsaw | [Scalar](http://scalar-conf.com) | [here](https://docs.google.com/forms/d/e/1FAIpQLSce2PUyVbE-XF9ndDZcEvNz3-aLSkZ21c7CnUTL3SROsVCLHQ/viewform) | Scala, Spark, functional programming, reactive, ... |
 | 2018.01.15 | 2018.03.16-17 | Madrid, Spain | [Greach](http://2018.greachconf.com/) | [here](http://2018.greachconf.com/call-for-papers/) | Groovy, Grails, Spock, ... |
+
+### Finished
+
+| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
+|---------|-----------------|---------------|------|----------|----------|
 | 2018.01.09 | 2018.05.09-11 | London, UK | [Devoxx UK](https://www.devoxx.co.uk/) | [here](https://cfp.devoxx.co.uk/) | Big Data, JVM, Java, ... |
+| 2018.01.07 | 2018.06.19-21 | New York, USA | [Scala Days North America](http://na.scaladays.org/) | [here](https://cfp.scaladays.org/events/scaladays) | Scala |
+| 2018.01.07 | 2018.05.14-17 | Berlin, Germany | [Scala Days Europe](https://eu.scaladays.org/) | [here](https://cfp.scaladays.org/events/scaladays) | Scala |
 | 2017.12.24 | 2018.03.12-13 | Vienna, Austria | [Voxxed Days Vienna](https://voxxeddays.com/vienna/) | [here](https://www.papercall.io/vxv18) | JVM, BigData, Frontend, AI, ... |
 | 2017.12.16 | 2018.03.16-18 | Tokyo, Japan | [Scala Matsuri](http://2018.scalamatsuri.org/index_en.html) | [here](http://2018.scalamatsuri.org/en/cfp/) | Scala, ... |
 | 2017.12.15 | 2018.03.22-23 | Bucharest, Romania | [Voxxed Days Bucharest 2018](https://voxxeddays.com/romania/bucharest/) | [here](https://voxxeddays.com/romania/cfp-bucharest/) | JVM, BigData, Mobile, ...|
@@ -59,11 +103,6 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.06.13 | 2017.11.07-09 | London, UK | [Code Mesh](http://www.codemesh.io) | [here](http://www.codemesh.io/#call-for-talks) | Non-mainstream technologies  |
 | 2017.06.12 | 2017.11.23-25 | Thessaloniki, Greece  | [Voxxed Thessaloniki 2017](https://voxxeddays.com/thessaloniki/) | [here](https://www.papercall.io/vdthess17) | Languages & Frameworks, Software Craftsmanship, Internet of Things, Web, Mobile Development... |
 | 2017.05.21 | 2017.11.24-25 | Madrid, Spain | [Codemotion Madrid](https://www.koliseo.com/codemotion/codemotion-madrid/) | [here](https://www.koliseo.com/codemotion/codemotion-madrid/r4p/5632002325741568#/) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
-
-### Finished
-
-| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
-|---------|-----------------|---------------|------|----------|----------|
 | 2017.08.31 | 2017.10.21 | Łódź, Poland | [Mobilization](http://2017.mobilization.pl/) | [here](https://bit.ly/mobilization7-c4p) | Mobile |
 | 2017.05.17 | 2017.10.20-21 | Dubai, UAE | [Codemotion Dubai](http://dubai2017.codemotionworld.com/) | [here](http://speaker.codemotionworld.com) | Big Data, DevOps, IoT, CI, Frontend, Backend, ... |
 | 2017.06.30 | 2017.10.20-21 | Budapest, Hungary | [Hacktivity 2017](https://hacktivity.com) | [here](https://hacktivity.com/en/cfp/) | Computer Security, Cyber Security, Hacking, IoT |
