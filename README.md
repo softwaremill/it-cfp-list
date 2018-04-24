@@ -7,7 +7,6 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
 | ??? | 2018.10.19-20 | Saint Petersburg, Russia | [Joker](https://jokerconf.com/en/) | [here](https://jokerconf.com/en/cfp/) | JVM, Microservices, Big Data, ... |
-| ??? | 2018.06.30 | Warsaw, Poland | [Confitura](https://2018.confitura.pl/) | [here](https://2018.confitura.pl/login) | Java, ... |
 | 2018.08.31 | 2018.10.19 | Luxembourg, Luxembourg | [BSides Luxembourg 2018](https://bsideslux.lu) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdhUch9uQ3bI7F1q9t4YQRJjzdLvV_QmPGT3A3-fyZ452nZmg/viewform) | Information Security, Privacy, Incident Response, Forensics |
 | 2018.06.15 | 2018.10.22-24 | Montreal, Canada | [Reactive Summit](https://www.reactivesummit.org/) | [here](https://www.reactivesummit.org/call-for-proposals) | reactive systems |
 | 2018.06.14 | 2018.12.13-14 | London, UK | [Scala eXchange](https://skillsmatter.com/conferences/10488-scala-exchange-2018) | [here](https://skillsmatter.com/conferences/10488-scala-exchange-2018#get_involved) | Scala |
@@ -24,6 +23,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.04.27 | 2018.06.18 | Warsaw, Poland | [Atmosphere](https://atmosphere-conference.com) | [here](https://atmosphere-conference.com/form.html) | DevOps, PaaS, ... |
 | 2018.04.20 | 2018.10.04-05 | Amsterdam, Netherlands | [KotlinConf](https://kotlinconf.com/) | [here](https://sessionize.com/kotlinconf) | Kotlin, Android, JVM, Web |
 | 2018.04.08 | 2018.09.12-13 | Oslo, Norway | [JavaZone](https://2018.javazone.no/) | [here](https://2018.javazone.no/speakers) | Front-end, Machine Learning, AI, JVM, ... |
+| 2018.04.04 | 2018.06.30 | Warsaw, Poland | [Confitura](https://2018.confitura.pl/) | [here](https://2018.confitura.pl/login) | Java, ... |
 | 2018.04.03 | 2018.08.17-19 | Boston, USA | [DevConf.us](https://devconf.info/us/) | [here](http://bit.ly/devconfus-18-cfp) | IT, open source|
 | 2018.04.01 | 2018.07.02 | Beer Sheva, Israel | [Scalapeño](https://www.scalapeno2018.com/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdG__usIvUxXzuSO7qGtmF97ktPzRRR9mx6Me-0XiHWE0XMCQ/viewform) | Scala |
 | 2018.03.31 | 2018.05.19 | Zielona Góra, Poland | [Greenfield](http://greenfieldconf.pl/) | [here](http://greenfieldconf.pl/cfp.html) | Programming, Architecture, Soft skills, ... |
