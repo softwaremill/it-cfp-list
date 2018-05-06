@@ -6,6 +6,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2018.07.01 | 2018.11.08 | Toulouse, France | [DevFest Toulouse](https://devfesttoulouse.fr) | [here](https://devfest-toulouse.cfp.io/) | Mobile, Web, Big Data, DevOps, UX, IoT, Cloud ... |
 | ??? | 2018.10.19-20 | Saint Petersburg, Russia | [Joker](https://jokerconf.com/en/) | [here](https://jokerconf.com/en/cfp/) | JVM, Microservices, Big Data, ... |
 | 2018.08.31 | 2018.10.19 | Luxembourg, Luxembourg | [BSides Luxembourg 2018](https://bsideslux.lu) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdhUch9uQ3bI7F1q9t4YQRJjzdLvV_QmPGT3A3-fyZ452nZmg/viewform) | Information Security, Privacy, Incident Response, Forensics |
 | 2018.06.15 | 2018.10.22-24 | Montreal, Canada | [Reactive Summit](https://www.reactivesummit.org/) | [here](https://www.reactivesummit.org/call-for-proposals) | reactive systems |
