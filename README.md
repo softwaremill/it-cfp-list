@@ -19,6 +19,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.05.31 | 2018.10.17-19 | Belgrade, Serbia | [Heapcon](http://heapcon.io/) | [here](http://heapcon.io/) | |
 | 2018.05.21 | 2018.10.25-26 | Cádiz, Spain | [Lambda World Cádiz](http://cadiz.lambda.world/) | [here](http://www.lambda.world/call-for-papers-2018/) | Functional Programming |
 | 2018.05.21 | 2018.09.17-18 | Seattle, USA | [Lambda World Seattle](http://seattle.lambda.world/) | [here](http://www.lambda.world/call-for-papers-2018/) | Functional Programming |
+| 2018.05.18 | 2018.06.05 | Auckland, New Zealand | [ServerlessDays AKL](https://serverless.org.nz/) | [here](https://www.papercall.io/serverlessdaysakl) | serverless, lambda, azure, aws, gcp |
 | 2018.05.13 | 2018.09.03-07 | Barcelona, Spain | [Full Stack Fest](https://2018.fullstackfest.com/) | [here](https://www.papercall.io/full-stack-fest-2018) | Front end, backend |
 | 2018.05.07 | 2018.07.06 | London, England | [Serverless Days London](https://london.serverlessdays.io/) | [here](https://papercall.io/serverlessldn) | Serverless, Cloud |
 | 2018.05.05 | 2018.09.28-29 | Toronto, Canada | [Scala Up North](http://scalaupnorth.com) | [here](http://scalaupnorth.com/cfp.html) | Scala |
