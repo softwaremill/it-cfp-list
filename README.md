@@ -22,6 +22,11 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.05.21 | 2018.10.25-26 | Cádiz, Spain | [Lambda World Cádiz](http://cadiz.lambda.world/) | [here](http://www.lambda.world/call-for-papers-2018/) | Functional Programming |
 | 2018.05.21 | 2018.09.17-18 | Seattle, USA | [Lambda World Seattle](http://seattle.lambda.world/) | [here](http://www.lambda.world/call-for-papers-2018/) | Functional Programming |
 | 2018.05.18 | 2018.06.05 | Auckland, New Zealand | [ServerlessDays AKL](https://serverless.org.nz/) | [here](https://www.papercall.io/serverlessdaysakl) | serverless, lambda, azure, aws, gcp |
+
+### Finished
+
+| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
+|---------|-----------------|---------------|------|----------|----------|
 | 2018.05.13 | 2018.09.03-07 | Barcelona, Spain | [Full Stack Fest](https://2018.fullstackfest.com/) | [here](https://www.papercall.io/full-stack-fest-2018) | Front end, backend |
 | 2018.05.07 | 2018.07.06 | London, England | [Serverless Days London](https://london.serverlessdays.io/) | [here](https://papercall.io/serverlessldn) | Serverless, Cloud |
 | 2018.05.05 | 2018.09.28-29 | Toronto, Canada | [Scala Up North](http://scalaupnorth.com) | [here](http://scalaupnorth.com/cfp.html) | Scala |
@@ -62,11 +67,6 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.01.15 | 2018.03.08-09 | Cape Town, South Africa | [ScaleConf](http://scaleconf.org/) | [here](https://www.papercall.io/scaleconf2018) |  Scalable systems, web, teams, ... |
 | 2018.01.31 | 2018.04.06-07 | Poland, Warsaw | [Scalar](http://scalar-conf.com) | [here](https://docs.google.com/forms/d/e/1FAIpQLSce2PUyVbE-XF9ndDZcEvNz3-aLSkZ21c7CnUTL3SROsVCLHQ/viewform) | Scala, Spark, functional programming, reactive, ... |
 | 2018.01.15 | 2018.03.16-17 | Madrid, Spain | [Greach](http://2018.greachconf.com/) | [here](http://2018.greachconf.com/call-for-papers/) | Groovy, Grails, Spock, ... |
-
-### Finished
-
-| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
-|---------|-----------------|---------------|------|----------|----------|
 | 2018.01.09 | 2018.05.09-11 | London, UK | [Devoxx UK](https://www.devoxx.co.uk/) | [here](https://cfp.devoxx.co.uk/) | Big Data, JVM, Java, ... |
 | 2018.01.07 | 2018.06.19-21 | New York, USA | [Scala Days North America](http://na.scaladays.org/) | [here](https://cfp.scaladays.org/events/scaladays) | Scala |
 | 2018.01.07 | 2018.05.14-17 | Berlin, Germany | [Scala Days Europe](https://eu.scaladays.org/) | [here](https://cfp.scaladays.org/events/scaladays) | Scala |
