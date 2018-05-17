@@ -9,6 +9,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | ??? | 2018.10.19-20 | Saint Petersburg, Russia | [Joker](https://jokerconf.com/en/) | [here](https://jokerconf.com/en/cfp/) | JVM, Microservices, Big Data, ... |
 | 2018.08.31 | 2018.10.19 | Luxembourg, Luxembourg | [BSides Luxembourg 2018](https://bsideslux.lu) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdhUch9uQ3bI7F1q9t4YQRJjzdLvV_QmPGT3A3-fyZ452nZmg/viewform) | Information Security, Privacy, Incident Response, Forensics |
 | 2018.07.15 | 2018.10.12-13 | Budapest, Hungary | [Hacktivity](https://www.hacktivity.com) | [here](https://www.hacktivity.com/call-for-papers) | Computer Security, Cyber Security, Hacking, IoT |
+| 2018.07.03 | 2018.11.22-23 | Milan, Italy | [Codemotion Milan](https://codemotionworld.com/) | [here](https://speaker.codemotionworld.com/c4p.php) | Big Data, ML, IoT, Devops, FP, ... |
 | 2018.07.03 | 2018.11.20-21 | Berlin, Germany | [Codemotion Berlin](https://berlin2018.codemotionworld.com/) | [here](https://speaker.codemotionworld.com/c4p.php) | Big Data, ML, IoT, Devops, FP, ... |
 | 2018.07.01 | 2018.11.08 | Toulouse, France | [DevFest Toulouse](https://devfesttoulouse.fr) | [here](https://devfest-toulouse.cfp.io/) | Mobile, Web, Big Data, DevOps, UX, IoT, Cloud ... |
 | 2018.06.30 | 2018.10.08-09 | Cracow, Poland | [JDD](https://jdd.org.pl/index.html) | [here](https://jdd.org.pl/cfp.html) | Java, JVM |
