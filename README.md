@@ -31,6 +31,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.05.21 | 2018.10.25-26 | Cádiz, Spain | [Lambda World Cádiz](http://cadiz.lambda.world/) | [here](http://www.lambda.world/call-for-papers-2018/) | Functional Programming |
 | 2018.05.21 | 2018.09.17-18 | Seattle, USA | [Lambda World Seattle](http://seattle.lambda.world/) | [here](http://www.lambda.world/call-for-papers-2018/) | Functional Programming |
 | 2018.05.18 | 2018.06.05 | Auckland, New Zealand | [ServerlessDays AKL](https://serverless.org.nz/) | [here](https://www.papercall.io/serverlessdaysakl) | serverless, lambda, azure, aws, gcp |
+| 2018.06.30 | 2018.11.24-25 | Vienna, Austria | [DevFest Vienna](http://www.devfest.at/) | [here](https://devfest.at/call/) | Java, Android, Web, Functional, Cloud |
 
 ### Finished
 
