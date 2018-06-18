@@ -17,6 +17,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.07.03 | 2018.11.20-21 | Berlin, Germany | [Codemotion Berlin](https://berlin2018.codemotionworld.com/) | [here](https://speaker.codemotionworld.com/c4p.php) | Big Data, ML, IoT, Devops, FP, ... |
 | 2018.07.01 | 2018.11.08 | Toulouse, France | [DevFest Toulouse](https://devfesttoulouse.fr) | [here](https://devfest-toulouse.cfp.io/) | Mobile, Web, Big Data, DevOps, UX, IoT, Cloud ... |
 | 2018.07.01 | 2018.10.12-13 | Lviv, Ukraine | [GDG DevFest Ukraine](https://devfest.gdg.org.ua/) | [here](https://devfest.gdg.org.ua/blog/posts/call-for-speakers/) | Android, Web, Google Cloud, AI, ML |
+| 2018.06.30 | 2018.11.24-25 | Vienna, Austria | [DevFest Vienna](http://www.devfest.at/) | [here](https://devfest.at/call/) | Java, Android, Web, Functional, Cloud |
 | 2018.06.30 | 2018.10.26-27 | Banff, Canada | [Voxxed Days Banff](https://voxxeddays.com/banff/) | [here](https://banff2018.confinabox.com/) | Architecture, Trends, Languanges, Cloud |
 | 2018.06.30 | 2018.10.08-09 | Cracow, Poland | [JDD](https://jdd.org.pl/index.html) | [here](https://jdd.org.pl/cfp.html) | Java, JVM |
 | 2018.06.24 | 2018.10.05-06 | Zagreb, Croatia | [WebCamp Zagreb 2018](https://2018.webcampzg.org/) | [here](https://2018.webcampzg.org/cfp/) | web development design |
@@ -31,7 +32,6 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.05.21 | 2018.10.25-26 | Cádiz, Spain | [Lambda World Cádiz](http://cadiz.lambda.world/) | [here](http://www.lambda.world/call-for-papers-2018/) | Functional Programming |
 | 2018.05.21 | 2018.09.17-18 | Seattle, USA | [Lambda World Seattle](http://seattle.lambda.world/) | [here](http://www.lambda.world/call-for-papers-2018/) | Functional Programming |
 | 2018.05.18 | 2018.06.05 | Auckland, New Zealand | [ServerlessDays AKL](https://serverless.org.nz/) | [here](https://www.papercall.io/serverlessdaysakl) | serverless, lambda, azure, aws, gcp |
-| 2018.06.30 | 2018.11.24-25 | Vienna, Austria | [DevFest Vienna](http://www.devfest.at/) | [here](https://devfest.at/call/) | Java, Android, Web, Functional, Cloud |
 
 ### Finished
 
