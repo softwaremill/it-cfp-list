@@ -20,6 +20,11 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.06.30 | 2018.11.24-25 | Vienna, Austria | [DevFest Vienna](http://www.devfest.at/) | [here](https://devfest.at/call/) | Java, Android, Web, Functional, Cloud |
 | 2018.06.30 | 2018.10.26-27 | Banff, Canada | [Voxxed Days Banff](https://voxxeddays.com/banff/) | [here](https://banff2018.confinabox.com/) | Architecture, Trends, Languanges, Cloud |
 | 2018.06.30 | 2018.10.08-09 | Cracow, Poland | [JDD](https://jdd.org.pl/index.html) | [here](https://jdd.org.pl/cfp.html) | Java, JVM |
+
+### Finished
+
+| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
+|---------|-----------------|---------------|------|----------|----------|
 | 2018.06.24 | 2018.10.05-06 | Zagreb, Croatia | [WebCamp Zagreb 2018](https://2018.webcampzg.org/) | [here](https://2018.webcampzg.org/cfp/) | web development design |
 | 2018.06.15 | 2018.10.22-24 | Montreal, Canada | [Reactive Summit](https://www.reactivesummit.org/) | [here](https://www.reactivesummit.org/call-for-proposals) | reactive systems |
 | 2018.06.14 | 2018.12.13-14 | London, UK | [Scala eXchange](https://skillsmatter.com/conferences/10488-scala-exchange-2018) | [here](https://skillsmatter.com/conferences/10488-scala-exchange-2018#get_involved) | Scala |
@@ -32,11 +37,6 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.05.21 | 2018.10.25-26 | Cádiz, Spain | [Lambda World Cádiz](http://cadiz.lambda.world/) | [here](http://www.lambda.world/call-for-papers-2018/) | Functional Programming |
 | 2018.05.21 | 2018.09.17-18 | Seattle, USA | [Lambda World Seattle](http://seattle.lambda.world/) | [here](http://www.lambda.world/call-for-papers-2018/) | Functional Programming |
 | 2018.05.18 | 2018.06.05 | Auckland, New Zealand | [ServerlessDays AKL](https://serverless.org.nz/) | [here](https://www.papercall.io/serverlessdaysakl) | serverless, lambda, azure, aws, gcp |
-
-### Finished
-
-| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
-|---------|-----------------|---------------|------|----------|----------|
 | 2018.05.13 | 2018.09.03-07 | Barcelona, Spain | [Full Stack Fest](https://2018.fullstackfest.com/) | [here](https://www.papercall.io/full-stack-fest-2018) | Front end, backend |
 | 2018.05.07 | 2018.07.06 | London, England | [Serverless Days London](https://london.serverlessdays.io/) | [here](https://papercall.io/serverlessldn) | Serverless, Cloud |
 | 2018.05.05 | 2018.09.28-29 | Toronto, Canada | [Scala Up North](http://scalaupnorth.com) | [here](http://scalaupnorth.com/cfp.html) | Scala |
