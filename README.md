@@ -27,11 +27,6 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
 | 2018.06.24 | 2018.10.05-06 | Zagreb, Croatia | [WebCamp Zagreb 2018](https://2018.webcampzg.org/) | [here](https://2018.webcampzg.org/cfp/) | web development design |
-
-### Finished
-
-| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
-|---------|-----------------|---------------|------|----------|----------|
 | 2018.06.15 | 2018.10.22-24 | Montreal, Canada | [Reactive Summit](https://www.reactivesummit.org/) | [here](https://www.reactivesummit.org/call-for-proposals) | reactive systems |
 | 2018.06.14 | 2018.12.13-14 | London, UK | [Scala eXchange](https://skillsmatter.com/conferences/10488-scala-exchange-2018) | [here](https://skillsmatter.com/conferences/10488-scala-exchange-2018#get_involved) | Scala |
 | 2018.06.01 | 2018.11.14-18 | Vilnius, Lithuania | [Build Stuff Lithuania](https://www.buildstuff.lt/) | [here](https://www.buildstuff.lt/blog/call-for-papers-is-open-now) | Software, trends, ... |
