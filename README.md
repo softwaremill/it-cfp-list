@@ -21,6 +21,11 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.06.30 | 2018.11.24-25 | Vienna, Austria | [DevFest Vienna](http://www.devfest.at/) | [here](https://devfest.at/call/) | Java, Android, Web, Functional, Cloud |
 | 2018.06.30 | 2018.10.26-27 | Banff, Canada | [Voxxed Days Banff](https://voxxeddays.com/banff/) | [here](https://banff2018.confinabox.com/) | Architecture, Trends, Languanges, Cloud |
 | 2018.06.30 | 2018.10.08-09 | Cracow, Poland | [JDD](https://jdd.org.pl/index.html) | [here](https://jdd.org.pl/cfp.html) | Java, JVM |
+
+### Finished
+
+| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
+|---------|-----------------|---------------|------|----------|----------|
 | 2018.06.24 | 2018.10.05-06 | Zagreb, Croatia | [WebCamp Zagreb 2018](https://2018.webcampzg.org/) | [here](https://2018.webcampzg.org/cfp/) | web development design |
 
 ### Finished
