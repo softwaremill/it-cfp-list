@@ -6,10 +6,10 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
-| ??? | 2018.10.19-20 | Saint Petersburg, Russia | [Joker](https://jokerconf.com/en/) | [here](https://jokerconf.com/en/cfp/) | JVM, Microservices, Big Data, ... |
 | 2018.09.03 | 2018.11.23-24 | Kiev, Ukraine | [Devoxx Ukraine](https://devoxx.org.ua/) | [here](https://dvua18.confinabox.com/) | Cloud, Web, JVM, Big Data, Mobile |
 | 2018.08.31 | 2018.10.19 | Luxembourg, Luxembourg | [BSides Luxembourg 2018](https://bsideslux.lu) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdhUch9uQ3bI7F1q9t4YQRJjzdLvV_QmPGT3A3-fyZ452nZmg/viewform) | Information Security, Privacy, Incident Response, Forensics |
 | 2018.08.01 | 2018.11.22 | Cluj-Napoca, Romania | [Voxxed Days Cluj-Napoca](https://romania.voxxeddays.com/cluj-napoca/2018-11-22/) | [here](https://www.papercall.io/vdcluj2018) | JVM, BigData, Mobile, ... |
+| 2018.07.30 | 2018.10.19-20 | Saint Petersburg, Russia | [Joker](https://jokerconf.com/en/) | [here](https://jokerconf.com/en/cfp/) | JVM, Microservices, Big Data, ... |
 | 2018.07.20 | 2018.11.27-29 | Casablanca, Morocco | [Devoxx Morocco](https://devoxx.ma/) | [here](https://cfp.devoxx.ma/) | Java, Mobile, Web, Cloud, ... |
 | 2018.07.15 | 2018.10.12-13 | Budapest, Hungary | [Hacktivity](https://www.hacktivity.com) | [here](https://www.hacktivity.com/call-for-papers) | Computer Security, Cyber Security, Hacking, IoT |
 | 2018.07.06 | 2018.11.12-16 | Antwerp, Belgium | [Devoxx](https://devoxx.be/) | [here](https://dvbe18.confinabox.com/) | Java, Big Data, Mobile, Web, ... |
