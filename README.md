@@ -6,6 +6,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2018.11.01 | 2018.11.27-28 | Paris, France | [Flowcon](http://flowcon.fr/) | [here](https://www.papercall.io/flowcon) | Agile, Kanban, Software craftsmanship, ... |
 | 2018.09.03 | 2018.11.23-24 | Kiev, Ukraine | [Devoxx Ukraine](https://devoxx.org.ua/) | [here](https://dvua18.confinabox.com/) | Cloud, Web, JVM, Big Data, Mobile |
 | 2018.08.31 | 2018.10.19 | Luxembourg, Luxembourg | [BSides Luxembourg 2018](https://bsideslux.lu) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdhUch9uQ3bI7F1q9t4YQRJjzdLvV_QmPGT3A3-fyZ452nZmg/viewform) | Information Security, Privacy, Incident Response, Forensics |
 | 2018.08.01 | 2018.11.22 | Cluj-Napoca, Romania | [Voxxed Days Cluj-Napoca](https://romania.voxxeddays.com/cluj-napoca/2018-11-22/) | [here](https://www.papercall.io/vdcluj2018) | JVM, BigData, Mobile, ... |
