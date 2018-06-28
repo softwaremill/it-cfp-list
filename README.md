@@ -17,6 +17,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.07.06 | 2018.11.12-16 | Antwerp, Belgium | [Devoxx](https://devoxx.be/) | [here](https://dvbe18.confinabox.com/) | Java, Big Data, Mobile, Web, ... |
 | 2018.07.03 | 2018.11.22-23 | Milan, Italy | [Codemotion Milan](https://codemotionworld.com/) | [here](https://speaker.codemotionworld.com/c4p.php) | Big Data, ML, IoT, Devops, FP, ... |
 | 2018.07.03 | 2018.11.20-21 | Berlin, Germany | [Codemotion Berlin](https://berlin2018.codemotionworld.com/) | [here](https://speaker.codemotionworld.com/c4p.php) | Big Data, ML, IoT, Devops, FP, ... |
+| 2018.07.02 | 2018.11.19-20 | Thessaloniki, Greece | [Voxxed Days Thessaloniki](https://voxxeddays.com/thessaloniki/) | [here](https://vdthess18.confinabox.com/) | Mobile, Big Data, ML, Web, Languanges, ... |
 | 2018.07.01 | 2018.11.08 | Toulouse, France | [DevFest Toulouse](https://devfesttoulouse.fr) | [here](https://devfest-toulouse.cfp.io/) | Mobile, Web, Big Data, DevOps, UX, IoT, Cloud ... |
 | 2018.07.01 | 2018.10.12-13 | Lviv, Ukraine | [GDG DevFest Ukraine](https://devfest.gdg.org.ua/) | [here](https://devfest.gdg.org.ua/blog/posts/call-for-speakers/) | Android, Web, Google Cloud, AI, ML |
 | 2018.06.30 | 2018.11.24-25 | Vienna, Austria | [DevFest Vienna](http://www.devfest.at/) | [here](https://devfest.at/call/) | Java, Android, Web, Functional, Cloud |
