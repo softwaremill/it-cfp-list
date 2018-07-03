@@ -13,6 +13,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.08.01 | 2018.11.22 | Cluj-Napoca, Romania | [Voxxed Days Cluj-Napoca](https://romania.voxxeddays.com/cluj-napoca/2018-11-22/) | [here](https://www.papercall.io/vdcluj2018) | JVM, BigData, Mobile, ... |
 | 2018.07.30 | 2018.10.19-20 | Saint Petersburg, Russia | [Joker](https://jokerconf.com/en/) | [here](https://jokerconf.com/en/cfp/) | JVM, Microservices, Big Data, ... |
 | 2018.07.20 | 2018.11.27-29 | Casablanca, Morocco | [Devoxx Morocco](https://devoxx.ma/) | [here](https://cfp.devoxx.ma/) | Java, Mobile, Web, Cloud, ... |
+| 2018.07.17 | 2018.11.30-12.01 | Madrid, Spain | [Codemotion Madrid](https://madrid2018.codemotionworld.com/) | [here](https://madrid2018.codemotionworld.com/call-for-papers-guidelines/) | Big Data, DevOps, ML, ... |
 | 2018.07.15 | 2018.10.12-13 | Budapest, Hungary | [Hacktivity](https://www.hacktivity.com) | [here](https://www.hacktivity.com/call-for-papers) | Computer Security, Cyber Security, Hacking, IoT |
 | 2018.07.15 | 2018.09.15-16 | Sofia, Bulgaria | [HackConf](https://www.hackconf.bg) | [here](https://docs.google.com/forms/d/e/1FAIpQLSeSSvdseLAQ9Q0GtnZ2atx1DDleM10bbAyHmGXTtyddm2tRXA/viewform?usp=sf_link) | Software Development, Hardware, AI, ... |
 | 2018.07.10 | 2018.10.01 | Prague, Czech Republic | [SANS DFIR Prague Summit](https://www.sans.org/event/dfir-prague-2018) | [here](http://dfir.to/DFIRPragueCFP2018) | Digital Forensics, Incident Response, Information Security |
