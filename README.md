@@ -9,8 +9,8 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.11.01 | 2018.11.27-28 | Paris, France | [Flowcon](http://flowcon.fr/) | [here](https://www.papercall.io/flowcon) | Agile, Kanban, Software craftsmanship, ... |
 | 2018.09.15 | 2018.10.18-19 | Prague, Czech | [GeeCON Prague](http://2018.geecon.cz/) | [here](http://2018.geecon.cz/cfp/) | JVM, agile, Big Data, ML, ... |
 | 2018.09.03 | 2018.11.23-24 | Kiev, Ukraine | [Devoxx Ukraine](https://devoxx.org.ua/) | [here](https://dvua18.confinabox.com/) | Cloud, Web, JVM, Big Data, Mobile |
-| 2018.08.31 | 2018.10.19 | Luxembourg, Luxembourg | [BSides Luxembourg 2018](https://bsideslux.lu) | [here](https://www.nljugcfp.nl) | Information Security, Privacy, Incident Response, Forensics |
-| 2018.08.26 | 2018.11.08 | Ede, Netherlands | [J-Fall 2018](https://jfall.nl) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdhUch9uQ3bI7F1q9t4YQRJjzdLvV_QmPGT3A3-fyZ452nZmg/viewform) | Java, Cloud, Enterprise, Alternative JVM Languages, Methodology & Culture, Web, Mobile, Big Data & Machine Learning, Security |
+| 2018.08.31 | 2018.10.19 | Luxembourg, Luxembourg | [BSides Luxembourg 2018](https://bsideslux.lu) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdhUch9uQ3bI7F1q9t4YQRJjzdLvV_QmPGT3A3-fyZ452nZmg/viewform) | Information Security, Privacy, Incident Response, Forensics |
+| 2018.08.26 | 2018.11.08 | Ede, Netherlands | [J-Fall 2018](https://jfall.nl) | [here](https://www.nljugcfp.nl) | Java, Cloud, Enterprise, Alternative JVM Languages, Methodology & Culture, Web, Mobile, Big Data & Machine Learning, Security |
 | 2018.08.13 | 2019.03.19-21 | Bruehl, Germany | [JavaLand](https://www.javaland.eu/en/home/) | [here](https://www.javaland.eu/en/speaker/speaker/) | JVM |
 | 2018.08.01 | 2018.11.22 | Cluj-Napoca, Romania | [Voxxed Days Cluj-Napoca](https://romania.voxxeddays.com/cluj-napoca/2018-11-22/) | [here](https://www.papercall.io/vdcluj2018) | JVM, BigData, Mobile, ... |
 | 2018.07.30 | 2018.10.19-20 | Saint Petersburg, Russia | [Joker](https://jokerconf.com/en/) | [here](https://jokerconf.com/en/cfp/) | JVM, Microservices, Big Data, ... |
