@@ -19,6 +19,11 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.08.01 | 2018.11.22 | Cluj-Napoca, Romania | [Voxxed Days Cluj-Napoca](https://romania.voxxeddays.com/cluj-napoca/2018-11-22/) | [here](https://www.papercall.io/vdcluj2018) | JVM, BigData, Mobile, ... |
 | 2018.07.31 | 2018.11.16 | Kraków, Poland | [BlockchainFiesta](https://blockchainfiesta.io) | [here](https://blockchainfiesta.io/#!/become-speaker) | Blockchain, ML, AI |
 | 2018.07.30 | 2018.10.19-20 | Saint Petersburg, Russia | [Joker](https://jokerconf.com/en/) | [here](https://jokerconf.com/en/cfp/) | JVM, Microservices, Big Data, ... |
+
+### Window Closed
+
+| CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
+|---------|-----------------|---------------|------|----------|----------|
 | 2018.07.23 | 2018.12.04-05 | Warsaw, Poland | [FRONTEND CON 2018](http://www.frontend-con.io/) | [here](https://goo.gl/forms/cfcFRlH4lzgF8zhd2) | Frontend, Web, HTML, CSS, JavaScript |
 | 2018.07.20 | 2018.11.27-29 | Casablanca, Morocco | [Devoxx Morocco](https://devoxx.ma/) | [here](https://cfp.devoxx.ma/) | Java, Mobile, Web, Cloud, ... |
 | 2018.07.17 | 2018.11.30-12.01 | Madrid, Spain | [Codemotion Madrid](https://madrid2018.codemotionworld.com/) | [here](https://madrid2018.codemotionworld.com/call-for-papers-guidelines/) | Big Data, DevOps, ML, ... |
