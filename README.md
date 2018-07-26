@@ -19,6 +19,11 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.08.01 | 2018.11.22 | Cluj-Napoca, Romania | [Voxxed Days Cluj-Napoca](https://romania.voxxeddays.com/cluj-napoca/2018-11-22/) | [here](https://www.papercall.io/vdcluj2018) | JVM, BigData, Mobile, ... |
 | 2018.07.31 | 2018.11.16 | Kraków, Poland | [BlockchainFiesta](https://blockchainfiesta.io) | [here](https://blockchainfiesta.io/#!/become-speaker) | Blockchain, ML, AI |
 | 2018.07.30 | 2018.10.19-20 | Saint Petersburg, Russia | [Joker](https://jokerconf.com/en/) | [here](https://jokerconf.com/en/cfp/) | JVM, Microservices, Big Data, ... |
+
+### Finished
+
+| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
+|---------|-----------------|---------------|------|----------|----------|
 | 2018.07.23 | 2018.12.04-05 | Warsaw, Poland | [FRONTEND CON 2018](http://www.frontend-con.io/) | [here](https://goo.gl/forms/cfcFRlH4lzgF8zhd2) | Frontend, Web, HTML, CSS, JavaScript |
 | 2018.07.20 | 2018.11.27-29 | Casablanca, Morocco | [Devoxx Morocco](https://devoxx.ma/) | [here](https://cfp.devoxx.ma/) | Java, Mobile, Web, Cloud, ... |
 | 2018.07.17 | 2018.11.30-12.01 | Madrid, Spain | [Codemotion Madrid](https://madrid2018.codemotionworld.com/) | [here](https://madrid2018.codemotionworld.com/call-for-papers-guidelines/) | Big Data, DevOps, ML, ... |
@@ -34,11 +39,6 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.06.30 | 2018.11.24-25 | Vienna, Austria | [DevFest Vienna](http://www.devfest.at/) | [here](https://devfest.at/call/) | Java, Android, Web, Functional, Cloud |
 | 2018.06.30 | 2018.10.26-27 | Banff, Canada | [Voxxed Days Banff](https://voxxeddays.com/banff/) | [here](https://banff2018.confinabox.com/) | Architecture, Trends, Languanges, Cloud |
 | 2018.06.30 | 2018.10.08-09 | Cracow, Poland | [JDD](https://jdd.org.pl/index.html) | [here](https://jdd.org.pl/cfp.html) | Java, JVM |
-
-### Finished
-
-| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
-|---------|-----------------|---------------|------|----------|----------|
 | 2018.06.24 | 2018.10.05-06 | Zagreb, Croatia | [WebCamp Zagreb 2018](https://2018.webcampzg.org/) | [here](https://2018.webcampzg.org/cfp/) | web development design |
 | 2018.06.15 | 2018.10.22-24 | Montreal, Canada | [Reactive Summit](https://www.reactivesummit.org/) | [here](https://www.reactivesummit.org/call-for-proposals) | reactive systems |
 | 2018.06.14 | 2018.12.13-14 | London, UK | [Scala eXchange](https://skillsmatter.com/conferences/10488-scala-exchange-2018) | [here](https://skillsmatter.com/conferences/10488-scala-exchange-2018#get_involved) | Scala |
