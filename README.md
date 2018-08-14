@@ -12,7 +12,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.09.15 | 2018.10.18-19 | Prague, Czech | [GeeCON Prague](http://2018.geecon.cz/) | [here](http://2018.geecon.cz/cfp/) | JVM, agile, Big Data, ML, ... |
 | 2018.09.07 | 2018.10.27 | Rome, Italy | [Linux Day Roma](http://lug.uniroma2.it/ld18/) | [here](http://lug.uniroma2.it/ld18/cfp_ld18roma.pdf) | Linux, WWW, IoT, Security, ... |
 | 2018.09.03 | 2018.11.23-24 | Kiev, Ukraine | [Devoxx Ukraine](https://devoxx.org.ua/) | [here](https://dvua18.confinabox.com/) | Cloud, Web, JVM, Big Data, Mobile |
-| 2018.09.03| 2017.10.29-30 | Lyon, France | [scala.io](http://scala.io/) | [here](https://cfp.scala.io) | Scala, Functional Programming, ... |
+| 2018.09.03| 2018.10.29-30 | Lyon, France | [scala.io](http://scala.io/) | [here](https://cfp.scala.io) | Scala, Functional Programming, ... |
 | 2018.08.31 | 2018.10.19 | Luxembourg, Luxembourg | [BSides Luxembourg 2018](https://bsideslux.lu) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdhUch9uQ3bI7F1q9t4YQRJjzdLvV_QmPGT3A3-fyZ452nZmg/viewform) | Information Security, Privacy, Incident Response, Forensics |
 | 2018.08.26 | 2018.11.08 | Ede, Netherlands | [J-Fall 2018](https://jfall.nl) | [here](https://www.nljugcfp.nl) | Java, Cloud, Enterprise, Alternative JVM Languages, Methodology & Culture, Web, Mobile, Big Data & Machine Learning, Security |
 | 2018.08.18 | 2018.10.13 | Minsk, Belarus | [JFuture](https://jfuture.by/) | [here](https://www.papercall.io/jfuture) | Java, Spring, Kontlin, ... |
