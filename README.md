@@ -8,6 +8,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 |---------|-----------------|---------------|------|----------|----------|
 | 2018.11.01 | 2018.11.27-28 | Paris, France | [Flowcon](http://flowcon.fr/) | [here](https://www.papercall.io/flowcon) | Agile, Kanban, Software craftsmanship, ... |
 | 2018.09.30 | 2018.11.15 | London, England | [Redis Day London](https://www.eventbrite.com/e/redis-day-london-tickets-47448914982) | [here](https://www.papercall.io/redis-day-london-2018) | Redis performance, tuning, production lessons learned, ... |
+| 2018.09.16 | 2018.10.26-27 | Wrocław, Poland | [GDG DevFest Poland](https://wroclaw.devfest.pl/) | [here](https://bit.ly/dfpl2018-call4papers) | Android, Web, Cloud, ... |
 | 2018.09.15 | 2019.03.06-08 | Atlanta, USA | [Devnexus](https://devnexus.com/) | [here](https://devnexus.com/cfp-details) | Java, Web, Cloud, ... |
 | 2018.09.01 | 2018.11.28-30 | Atlanta, USA | [DataSciCon](https://datascicon.tech/) | [here](http://datascicon.tech/cfp.html) | Data Science, Machine Learning, AI, Big Data, Data Analytics |
 | 2018.09.15 | 2018.10.18-19 | Prague, Czech | [GeeCON Prague](http://2018.geecon.cz/) | [here](http://2018.geecon.cz/cfp/) | JVM, agile, Big Data, ML, ... |
