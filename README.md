@@ -8,11 +8,15 @@ List sorted by CFP end date descending (oldest and probably already finished las
 |---------|-----------------|---------------|------|----------|----------|
 | 2018.11.01 | 2018.11.27-28 | Paris, France | [Flowcon](http://flowcon.fr/) | [here](https://www.papercall.io/flowcon) | Agile, Kanban, Software craftsmanship, ... |
 | 2018.09.30 | 2018.11.15 | London, England | [Redis Day London](https://www.eventbrite.com/e/redis-day-london-tickets-47448914982) | [here](https://www.papercall.io/redis-day-london-2018) | Redis performance, tuning, production lessons learned, ... |
+| 2018.09.16 | 2018.10.26-27 | Wrocław, Poland | [GDG DevFest Poland](https://wroclaw.devfest.pl/) | [here](https://bit.ly/dfpl2018-call4papers) | Android, Web, Cloud, ... |
 | 2018.09.15 | 2019.03.06-08 | Atlanta, USA | [Devnexus](https://devnexus.com/) | [here](https://devnexus.com/cfp-details) | Java, Web, Cloud, ... |
+| 2018.09.01 | 2018.11.28-30 | Atlanta, USA | [DataSciCon](https://datascicon.tech/) | [here](http://datascicon.tech/cfp.html) | Data Science, Machine Learning, AI, Big Data, Data Analytics |
 | 2018.09.15 | 2018.10.18-19 | Prague, Czech | [GeeCON Prague](http://2018.geecon.cz/) | [here](http://2018.geecon.cz/cfp/) | JVM, agile, Big Data, ML, ... |
 | 2018.09.07 | 2018.10.27 | Rome, Italy | [Linux Day Roma](http://lug.uniroma2.it/ld18/) | [here](http://lug.uniroma2.it/ld18/cfp_ld18roma.pdf) | Linux, WWW, IoT, Security, ... |
 | 2018.09.03 | 2018.11.23-24 | Kiev, Ukraine | [Devoxx Ukraine](https://devoxx.org.ua/) | [here](https://dvua18.confinabox.com/) | Cloud, Web, JVM, Big Data, Mobile |
+| 2018.09.03| 2018.10.29-30 | Lyon, France | [scala.io](http://scala.io/) | [here](https://cfp.scala.io) | Scala, Functional Programming, ... |
 | 2018.08.31 | 2018.11.22 | Rouen, France | [Codeurs en Seine](https://www.codeursenseine.com/) | [here](https://codeursenseine.cfp.io/) | Agile, Web, Design, Front end, Back End, Data, Ops |
+| 2018.08.31 | 2019.03.26/28 | Johannesburg/Cape Town, South Africa | [DevConf.za](https://www.devconf.co.za/) | [here](https://www.papercall.io/devconf2019) | DevOps, Mobile, Methodologies, Databases, AI, ML |
 | 2018.08.31 | 2018.10.19 | Luxembourg, Luxembourg | [BSides Luxembourg 2018](https://bsideslux.lu) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdhUch9uQ3bI7F1q9t4YQRJjzdLvV_QmPGT3A3-fyZ452nZmg/viewform) | Information Security, Privacy, Incident Response, Forensics |
 | 2018.08.26 | 2018.11.08 | Ede, Netherlands | [J-Fall 2018](https://jfall.nl) | [here](https://www.nljugcfp.nl) | Java, Cloud, Enterprise, Alternative JVM Languages, Methodology & Culture, Web, Mobile, Big Data & Machine Learning, Security |
 | 2018.08.18 | 2018.10.13 | Minsk, Belarus | [JFuture](https://jfuture.by/) | [here](https://www.papercall.io/jfuture) | Java, Spring, Kontlin, ... |
