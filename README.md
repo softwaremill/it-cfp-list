@@ -9,7 +9,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.11.01 | 2018.11.27-28 | Paris, France | [Flowcon](http://flowcon.fr/) | [here](https://www.papercall.io/flowcon) | Agile, Kanban, Software craftsmanship, ... |
 | 2018.09.30 | 2019.02.04-06 | Stockholm, Sweden | [Jfokus](http://www.jfokus.se/) | [here](http://www.jfokus.se/jfokus/proposals.jsp) | JVM, NoSQL, Mobile... |
 | 2018.09.30 | 2018.11.15 | London, England | [Redis Day London](https://www.eventbrite.com/e/redis-day-london-tickets-47448914982) | [here](https://www.papercall.io/redis-day-london-2018) | Redis performance, tuning, production lessons learned, ... |
-| 2018.09.21 | 2018.10.23 | Paris, France | [MDF 2018](http://meilleurdevdefrance.com/) | [here](hhttps://www.papercall.io/mdf2018) | Day to day, experience feedback, basics... |
+| 2018.09.21 | 2018.10.23 | Paris, France | [MDF 2018](http://meilleurdevdefrance.com/) | [here](https://www.papercall.io/mdf2018) | Day to day, experience feedback, basics... |
 | 2018.09.16 | 2018.10.26-27 | Wrocław, Poland | [GDG DevFest Poland](https://wroclaw.devfest.pl/) | [here](https://bit.ly/dfpl2018-call4papers) | Android, Web, Cloud, ... |
 | 2018.09.15 | 2019.03.06-08 | Atlanta, USA | [Devnexus](https://devnexus.com/) | [here](https://devnexus.com/cfp-details) | Java, Web, Cloud, ... |
 | 2018.09.01 | 2018.11.28-30 | Atlanta, USA | [DataSciCon](https://datascicon.tech/) | [here](http://datascicon.tech/cfp.html) | Data Science, Machine Learning, AI, Big Data, Data Analytics |
