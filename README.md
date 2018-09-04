@@ -28,6 +28,12 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.08.31 | 2019.03.26/28 | Johannesburg/Cape Town, South Africa | [DevConf.za](https://www.devconf.co.za/) | [here](https://www.papercall.io/devconf2019) | DevOps, Mobile, Methodologies, Databases, AI, ML |
 | 2018.08.31 | 2018.10.19 | Luxembourg, Luxembourg | [BSides Luxembourg 2018](https://bsideslux.lu) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdhUch9uQ3bI7F1q9t4YQRJjzdLvV_QmPGT3A3-fyZ452nZmg/viewform) | Information Security, Privacy, Incident Response, Forensics |
 | 2018.08.26 | 2018.11.08 | Ede, Netherlands | [J-Fall 2018](https://jfall.nl) | [here](https://www.nljugcfp.nl) | Java, Cloud, Enterprise, Alternative JVM Languages, Methodology & Culture, Web, Mobile, Big Data & Machine Learning, Security |
+
+
+### Finished
+
+| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
+|---------|-----------------|---------------|------|----------|----------|
 | 2018.08.18 | 2018.10.13 | Minsk, Belarus | [JFuture](https://jfuture.by/) | [here](https://www.papercall.io/jfuture) | Java, Spring, Kontlin, ... |
 | 2018.08.13 | 2019.03.19-21 | Bruehl, Germany | [JavaLand](https://www.javaland.eu/en/home/) | [here](https://www.javaland.eu/en/speaker/speaker/) | JVM |
 | 2018.08.05 | 2018.10.19 | Taipei, Taiwan | [JCConf Taiwan](https://jcconf.tw/2018/) | [here](https://twjug.kktix.cc/events/jcconf-2018-cfp) | Java, JVM, Scala, FP, ... |
