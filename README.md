@@ -14,10 +14,15 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.09.21 | 2018.10.23 | Paris, France | [MDF 2018](http://meilleurdevdefrance.com/) | [here](https://www.papercall.io/mdf2018) | Day to day, experience feedback, basics... |
 | 2018.09.16 | 2018.10.26-27 | Wrocław, Poland | [GDG DevFest Poland](https://wroclaw.devfest.pl/) | [here](https://bit.ly/dfpl2018-call4papers) | Android, Web, Cloud, ... |
 | 2018.09.15 | 2019.03.06-08 | Atlanta, USA | [Devnexus](https://devnexus.com/) | [here](https://devnexus.com/cfp-details) | Java, Web, Cloud, ... |
-| 2018.09.01 | 2018.11.28-30 | Atlanta, USA | [DataSciCon](https://datascicon.tech/) | [here](http://datascicon.tech/cfp.html) | Data Science, Machine Learning, AI, Big Data, Data Analytics |
 | 2018.09.15 | 2018.10.18-19 | Prague, Czech | [GeeCON Prague](http://2018.geecon.cz/) | [here](http://2018.geecon.cz/cfp/) | JVM, agile, Big Data, ML, ... |
+| 2018.09.01 | 2018.11.28-30 | Atlanta, USA | [DataSciCon](https://datascicon.tech/) | [here](http://datascicon.tech/cfp.html) | Data Science, Machine Learning, AI, Big Data, Data Analytics |
 | 2018.09.07 | 2018.10.27 | Rome, Italy | [Linux Day Roma](http://lug.uniroma2.it/ld18/) | [here](http://lug.uniroma2.it/ld18/cfp_ld18roma.pdf) | Linux, WWW, IoT, Security, ... |
-| 2018.09.03 | 2018.11.23-24 | Kiev, Ukraine | [Devoxx Ukraine](https://devoxx.org.ua/) | [here](https://dvua18.confinabox.com/) | Cloud, Web, JVM, Big Data, Mobile |
+| 2018.09.04 | 2018.11.23-24 | Kiev, Ukraine | [Devoxx Ukraine](https://devoxx.org.ua/) | [here](https://dvua18.confinabox.com/) | Cloud, Web, JVM, Big Data, Mobile |
+
+### Finished
+
+| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
+|---------|-----------------|---------------|------|----------|----------|
 | 2018.09.03| 2018.10.29-30 | Lyon, France | [scala.io](http://scala.io/) | [here](https://cfp.scala.io) | Scala, Functional Programming, ... |
 | 2018.08.31 | 2018.11.22 | Rouen, France | [Codeurs en Seine](https://www.codeursenseine.com/) | [here](https://codeursenseine.cfp.io/) | Agile, Web, Design, Front end, Back End, Data, Ops |
 | 2018.08.31 | 2019.03.26/28 | Johannesburg/Cape Town, South Africa | [DevConf.za](https://www.devconf.co.za/) | [here](https://www.papercall.io/devconf2019) | DevOps, Mobile, Methodologies, Databases, AI, ML |
@@ -29,11 +34,6 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.08.01 | 2018.11.22 | Cluj-Napoca, Romania | [Voxxed Days Cluj-Napoca](https://romania.voxxeddays.com/cluj-napoca/2018-11-22/) | [here](https://www.papercall.io/vdcluj2018) | JVM, BigData, Mobile, ... |
 | 2018.07.31 | 2018.11.16 | Kraków, Poland | [BlockchainFiesta](https://blockchainfiesta.io) | [here](https://blockchainfiesta.io/#!/become-speaker) | Blockchain, ML, AI |
 | 2018.07.30 | 2018.10.19-20 | Saint Petersburg, Russia | [Joker](https://jokerconf.com/en/) | [here](https://jokerconf.com/en/cfp/) | JVM, Microservices, Big Data, ... |
-
-### Finished
-
-| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
-|---------|-----------------|---------------|------|----------|----------|
 | 2018.07.23 | 2018.12.04-05 | Warsaw, Poland | [FRONTEND CON 2018](http://www.frontend-con.io/) | [here](https://goo.gl/forms/cfcFRlH4lzgF8zhd2) | Frontend, Web, HTML, CSS, JavaScript |
 | 2018.07.20 | 2018.11.27-29 | Casablanca, Morocco | [Devoxx Morocco](https://devoxx.ma/) | [here](https://cfp.devoxx.ma/) | Java, Mobile, Web, Cloud, ... |
 | 2018.07.17 | 2018.11.30-12.01 | Madrid, Spain | [Codemotion Madrid](https://madrid2018.codemotionworld.com/) | [here](https://madrid2018.codemotionworld.com/call-for-papers-guidelines/) | Big Data, DevOps, ML, ... |
