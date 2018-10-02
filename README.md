@@ -6,6 +6,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2018.12.01 | 2019.04.11-12 | Cluj-Napoca, Romania | [JSHeroes](https://jsheroes.io/) | [here](https://jsheroes-form.typeform.com/to/IHohur) | JavaScript, Frontend, Node.js, Community, CSS, Design, Accessability, Performance, Security, Open Source, Mental Health
 | 2018.11.04 | 2019.01.23-26 | Grenoble, France | [SnowCamp](https://snowcamp.io/en/) | [here](https://www.papercall.io/snowcamp-2019) | Java, Mobile, Cloud, Web, ... |
 | 2018.11.01 | 2018.11.27-28 | Paris, France | [Flowcon](http://flowcon.fr/) | [here](https://www.papercall.io/flowcon) | Agile, Kanban, Software craftsmanship, ... |
 | 2018.10.31 | 2019.04.01-04 | Chester, UK | [CodeMobile](http://www.codemobile.co.uk/) | [here](http://www.codemobile.co.uk/call-for-speakers/) | iOS, Android, Mobile | 
