@@ -9,6 +9,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.11.04 | 2019.01.23-26 | Grenoble, France | [SnowCamp](https://snowcamp.io/en/) | [here](https://www.papercall.io/snowcamp-2019) | Java, Mobile, Cloud, Web, ... |
 | 2018.11.01 | 2018.11.27-28 | Paris, France | [Flowcon](http://flowcon.fr/) | [here](https://www.papercall.io/flowcon) | Agile, Kanban, Software craftsmanship, ... |
 | 2018.10.10 | 2018.11.09-11 | Ustroń, Poland | [Jesień Linuksowa](https://jesien.org/) | [here](https://jesien.org/2018/news/przyjmujemy-zgloszenia-propozycji-do-agendy/) | GNU/Linux, FOSS, DevOps... |
+| 2018.10.10 | 2018.10.29 | Warsaw, Poland | [ConFrontJS 2018](https://confrontjs.com/) | [here](https://eventil.com/events/confrontjs-2018/cfp) | JavaScript, Front-end, Node.js, Web, ... |
 | 2018.09.30 | 2019.02.04-06 | Stockholm, Sweden | [Jfokus](http://www.jfokus.se/) | [here](http://www.jfokus.se/jfokus/proposals.jsp) | JVM, NoSQL, Mobile... |
 | 2018.09.30 | 2018.11.15 | London, England | [Redis Day London](https://www.eventbrite.com/e/redis-day-london-tickets-47448914982) | [here](https://www.papercall.io/redis-day-london-2018) | Redis performance, tuning, production lessons learned, ... |
 | 2018.09.24 | 2019.03.13-15 | Montreal, Canada | [ConFoo Montreal](https://confoo.ca/en/yul2019) | [here](https://confoo.ca/en/yul2019/call-for-papers) | Web development, DevOps, Mobile, ... |
