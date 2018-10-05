@@ -10,6 +10,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.12.01 | 2019.04.11-12 | Cluj-Napoca, Romania | [JSHeroes](https://jsheroes.io/) | [here](https://jsheroes-form.typeform.com/to/IHohur) | JavaScript, Frontend, Node.js, Community, CSS, Design, Accessability, Performance, Security, Open Source, Mental Health
 | 2018.11.30 | 2019.02.21-22 | Kraków, Poland | [Lambda Days](http://www.lambdadays.org/lambdadays2019) | [here](https://eventil.com/events/lambda-days-2019/cfp) | Scala, Erlang, Haskell, ... |
 | 2018.11.04 | 2019.01.23-26 | Grenoble, France | [SnowCamp](https://snowcamp.io/en/) | [here](https://www.papercall.io/snowcamp-2019) | Java, Mobile, Cloud, Web, ... |
+| 2018.11.01 | 2019.02.28-03.01 | Porto, Portugal | [NDC Porto](https://ndcporto.com/) | [here](https://sessionize.com/ndcporto2019) | Front-end, server-side, agile, .NET, AI, programming languages |
 | 2018.11.01 | 2018.11.27-28 | Paris, France | [Flowcon](http://flowcon.fr/) | [here](https://www.papercall.io/flowcon) | Agile, Kanban, Software craftsmanship, ... |
 | 2018.10.31 | 2019.04.01-04 | Chester, UK | [CodeMobile](http://www.codemobile.co.uk/) | [here](http://www.codemobile.co.uk/call-for-speakers/) | iOS, Android, Mobile |
 | 2018.10.12 | 2018.11.17 | New York City, USA | [Swift Cloud Workshop](https://www.swiftcloudwork.shop/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSc8JXEgpGxCfMct6Xfcqa8tIa-2yDmbcy5yNSE3K5BWv1iUjQ/viewform) | Cloud, Swift |
