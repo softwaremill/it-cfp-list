@@ -13,6 +13,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.11.01 | 2019.02.28-03.01 | Porto, Portugal | [NDC Porto](https://ndcporto.com/) | [here](https://sessionize.com/ndcporto2019) | Front-end, server-side, agile, .NET, AI, programming languages |
 | 2018.11.01 | 2018.11.27-28 | Paris, France | [Flowcon](http://flowcon.fr/) | [here](https://www.papercall.io/flowcon) | Agile, Kanban, Software craftsmanship, ... |
 | 2018.10.31 | 2019.04.01-04 | Chester, UK | [CodeMobile](http://www.codemobile.co.uk/) | [here](http://www.codemobile.co.uk/call-for-speakers/) | iOS, Android, Mobile |
+| 2018.10.26 | 2019.01.25-27 | Brno, Czech Republic | [DevConf.CZ](https://devconf.info/cz/2019) | [here](https://devconf.info/cfp) | Linux, Middleware, Virtualization, Storage, Cloud and mobile |
 | 2018.10.12 | 2018.11.17 | New York City, USA | [Swift Cloud Workshop](https://www.swiftcloudwork.shop/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSc8JXEgpGxCfMct6Xfcqa8tIa-2yDmbcy5yNSE3K5BWv1iUjQ/viewform) | Cloud, Swift |
 | 2018.10.10 | 2018.11.09-11 | Ustroń, Poland | [Jesień Linuksowa](https://jesien.org/) | [here](https://jesien.org/2018/news/przyjmujemy-zgloszenia-propozycji-do-agendy/) | GNU/Linux, FOSS, DevOps... |
 | 2018.10.10 | 2018.10.29 | Warsaw, Poland | [ConFrontJS 2018](https://confrontjs.com/) | [here](https://eventil.com/events/confrontjs-2018/cfp) | JavaScript, Front-end, Node.js, Web, ... |
