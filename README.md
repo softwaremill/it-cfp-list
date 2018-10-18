@@ -15,6 +15,12 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.11.01 | 2018.11.27-28 | Paris, France | [Flowcon](http://flowcon.fr/) | [here](https://www.papercall.io/flowcon) | Agile, Kanban, Software craftsmanship, ... |
 | 2018.10.31 | 2019.04.01-04 | Chester, UK | [CodeMobile](http://www.codemobile.co.uk/) | [here](http://www.codemobile.co.uk/call-for-speakers/) | iOS, Android, Mobile |
 | 2018.10.26 | 2019.01.25-27 | Brno, Czech Republic | [DevConf.CZ](https://devconf.info/cz/2019) | [here](https://devconf.info/cfp) | Linux, Middleware, Virtualization, Storage, Cloud and mobile |
+
+
+### Finished
+
+| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
+|---------|-----------------|---------------|------|----------|----------|
 | 2018.10.12 | 2018.11.17 | New York City, USA | [Swift Cloud Workshop](https://www.swiftcloudwork.shop/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSc8JXEgpGxCfMct6Xfcqa8tIa-2yDmbcy5yNSE3K5BWv1iUjQ/viewform) | Cloud, Swift |
 | 2018.10.10 | 2018.11.09-11 | Ustroń, Poland | [Jesień Linuksowa](https://jesien.org/) | [here](https://jesien.org/2018/news/przyjmujemy-zgloszenia-propozycji-do-agendy/) | GNU/Linux, FOSS, DevOps... |
 | 2018.10.10 | 2018.10.29 | Warsaw, Poland | [ConFrontJS 2018](https://confrontjs.com/) | [here](https://eventil.com/events/confrontjs-2018/cfp) | JavaScript, Front-end, Node.js, Web, ... |
@@ -28,11 +34,6 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.09.01 | 2018.11.28-30 | Atlanta, USA | [DataSciCon](https://datascicon.tech/) | [here](http://datascicon.tech/cfp.html) | Data Science, Machine Learning, AI, Big Data, Data Analytics |
 | 2018.09.07 | 2018.10.27 | Rome, Italy | [Linux Day Roma](http://lug.uniroma2.it/ld18/) | [here](http://lug.uniroma2.it/ld18/cfp_ld18roma.pdf) | Linux, WWW, IoT, Security, ... |
 | 2018.09.04 | 2018.11.23-24 | Kiev, Ukraine | [Devoxx Ukraine](https://devoxx.org.ua/) | [here](https://dvua18.confinabox.com/) | Cloud, Web, JVM, Big Data, Mobile |
-
-### Finished
-
-| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
-|---------|-----------------|---------------|------|----------|----------|
 | 2018.09.03| 2018.10.29-30 | Lyon, France | [scala.io](http://scala.io/) | [here](https://cfp.scala.io) | Scala, Functional Programming, ... |
 | 2018.08.31 | 2018.11.22 | Rouen, France | [Codeurs en Seine](https://www.codeursenseine.com/) | [here](https://codeursenseine.cfp.io/) | Agile, Web, Design, Front end, Back End, Data, Ops |
 | 2018.08.31 | 2019.03.26/28 | Johannesburg/Cape Town, South Africa | [DevConf.za](https://www.devconf.co.za/) | [here](https://www.papercall.io/devconf2019) | DevOps, Mobile, Methodologies, Databases, AI, ML |
