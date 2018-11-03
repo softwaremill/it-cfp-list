@@ -9,6 +9,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2019.02.02 | 2019.06.27-29 | Tokyo, Japan | [Scala Matsuri](https://2019.scalamatsuri.org) | [here](https://2019.scalamatsuri.org/en/cfp/) | Scala, ... |
 | 2019.02.04 | 2019.05.15-17 | Marbella, Spain | [J On The Beach](https://jonthebeach.com/) | [here](https://www.papercall.io/jotb19) | JVM, ML, FP, iOT, Big Data |
 | 2019.02.01 | 2019.05.08-09 | Oslo, Norway | [flatMap(Oslo)](https://2019.flatmap.no/) | [here](https://www.papercall.io/flatmap2019) | Scala, functional programming |
+| 2019.01.13 | 2019.04.13 | Milano, Italy | [Voxxed Days Milano](https://voxxeddays.com/milan/) | [here](https://vxdmilan2019.confinabox.com/) | Mobile, Big Data, ML, Web, ... |
 | 2019.01.11 | 2019.05.16-17 | Sydney, Australia | [Voxxed Days Sydney](https://australia.voxxeddays.com) | [here](https://vxdsydney2019.confinabox.com/) | Devops, AI, ML, Web, ... |
 | 2019.01.11 | 2019.05.13-14 | Melbourne, Australia | [Voxxed Days Melbourne](https://australia.voxxeddays.com) | [here](https://vxdmelbourne2019.confinabox.com/) | Devops, AI, ML, Web, ... |
 | 2018.12.21 | 2019.03.20-21 | Bucharest, Romania | [Voxxed Days Bucharest](https://voxxeddays.com/romania/bucharest/next) | [here](https://www.papercall.io/vdbuh2019) | JVM, Big Data, DevOps, ... |
