@@ -11,6 +11,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2019.02.04 | 2019.05.15-17 | Marbella, Spain | [J On The Beach](https://jonthebeach.com/) | [here](https://www.papercall.io/jotb19) | JVM, ML, FP, iOT, Big Data |
 | 2019.02.01 | 2019.05.08-09 | Oslo, Norway | [flatMap(Oslo)](https://2019.flatmap.no/) | [here](https://www.papercall.io/flatmap2019) | Scala, functional programming |
 | 2019.01.27 | 2019.05.30-31 | Singapore, Singapore | [Voxxed Days Singapore](https://voxxeddays.com/singapore/) | [here](https://vxdsingapore2019.confinabox.com/) | Big Data, ML, Mobile, Web, ... |
+| 2019.01.17 | 2019.04.05-06 | Moscow, Russia | [jPoint](https://jpoint.ru/en/) | [here](https://jpoint.ru/en/callforpapers/) | JVM, DevOps, Big Data, AI, ... |
 | 2019.01.13 | 2019.04.13 | Milano, Italy | [Voxxed Days Milano](https://voxxeddays.com/milan/) | [here](https://vxdmilan2019.confinabox.com/) | Mobile, Big Data, ML, Web, ... |
 | 2019.01.11 | 2019.05.16-17 | Sydney, Australia | [Voxxed Days Sydney](https://australia.voxxeddays.com) | [here](https://vxdsydney2019.confinabox.com/) | Devops, AI, ML, Web, ... |
 | 2019.01.11 | 2019.05.13-14 | Melbourne, Australia | [Voxxed Days Melbourne](https://australia.voxxeddays.com) | [here](https://vxdmelbourne2019.confinabox.com/) | Devops, AI, ML, Web, ... |
