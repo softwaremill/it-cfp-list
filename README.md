@@ -7,6 +7,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
 | 2019.02.15 | 2019.05.27-29 | Sofia, Bulgaria | [jPrime](https://jprime.io/) | [here](https://jprime.io/cfp) | JVM, Mobile, Web, ...|
+| 2019.02.15 | 2019.04.05-06 | Warsaw, Poland | [Scalar](http://scalar-conf.com/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSd7yCKQep-FfqtACtl5sTYsh213uDkahdwUvFEU1-P_CzaLoA/viewform) | Scala, FP |
 | 2019.02.02 | 2019.06.27-29 | Tokyo, Japan | [Scala Matsuri](https://2019.scalamatsuri.org) | [here](https://2019.scalamatsuri.org/en/cfp/) | Scala, ... |
 | 2019.02.04 | 2019.05.15-17 | Marbella, Spain | [J On The Beach](https://jonthebeach.com/) | [here](https://www.papercall.io/jotb19) | JVM, ML, FP, iOT, Big Data |
 | 2019.02.01 | 2019.05.08-09 | Oslo, Norway | [flatMap(Oslo)](https://2019.flatmap.no/) | [here](https://www.papercall.io/flatmap2019) | Scala, functional programming |
