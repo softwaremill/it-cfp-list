@@ -13,6 +13,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2019.01.27 | 2019.05.30-31 | Singapore, Singapore | [Voxxed Days Singapore](https://voxxeddays.com/singapore/) | [here](https://vxdsingapore2019.confinabox.com/) | Big Data, ML, Mobile, Web, ... |
 | 2019.01.23 | 2019.06.03-05 | Karlsruhe, Germany | [Entwicklertag](https://entwicklertag.de/karlsruhe/2019) | [here](https://entwicklertag.de/karlsruhe/2019/call-for-contributions) | Java, Web, programming languages, ...|
 | 2019.01.17 | 2019.04.05-06 | Moscow, Russia | [jPoint](https://jpoint.ru/en/) | [here](https://jpoint.ru/en/callforpapers/) | JVM, DevOps, Big Data, AI, ... |
+| 2019.01.15 | 2019.03.28 | Budapest, Hungary | [BSides Budapest 2019](https://2019.bsidesbud.com/) | [here](https://2019.bsidesbud.com/call-for-paper/) | Computer Security, Cyber Security, Hacking, IoT |
 | 2019.01.13 | 2019.04.13 | Milano, Italy | [Voxxed Days Milano](https://voxxeddays.com/milan/) | [here](https://vxdmilan2019.confinabox.com/) | Mobile, Big Data, ML, Web, ... |
 | 2019.01.11 | 2019.05.16-17 | Sydney, Australia | [Voxxed Days Sydney](https://australia.voxxeddays.com) | [here](https://vxdsydney2019.confinabox.com/) | Devops, AI, ML, Web, ... |
 | 2019.01.11 | 2019.05.13-14 | Melbourne, Australia | [Voxxed Days Melbourne](https://australia.voxxeddays.com) | [here](https://vxdmelbourne2019.confinabox.com/) | Devops, AI, ML, Web, ... |
