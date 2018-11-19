@@ -17,6 +17,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2019.01.13 | 2019.04.13 | Milano, Italy | [Voxxed Days Milano](https://voxxeddays.com/milan/) | [here](https://vxdmilan2019.confinabox.com/) | Mobile, Big Data, ML, Web, ... |
 | 2019.01.11 | 2019.05.16-17 | Sydney, Australia | [Voxxed Days Sydney](https://australia.voxxeddays.com) | [here](https://vxdsydney2019.confinabox.com/) | Devops, AI, ML, Web, ... |
 | 2019.01.11 | 2019.05.13-14 | Melbourne, Australia | [Voxxed Days Melbourne](https://australia.voxxeddays.com) | [here](https://vxdmelbourne2019.confinabox.com/) | Devops, AI, ML, Web, ... |
+| 2019.01.11 | 2019.05.08-10 | London, UK | [Devoxx UK](https://www.devoxx.co.uk/) | [here](https://devoxxuk19.confinabox.com/) | JVM, Security, Big Data, Web, ... |
 | 2018.12.21 | 2019.03.20-21 | Bucharest, Romania | [Voxxed Days Bucharest](https://voxxeddays.com/romania/bucharest/next) | [here](https://www.papercall.io/vdbuh2019) | JVM, Big Data, DevOps, ... |
 | 2018.12.10 | 2019.05.29-31 | Riga, Latvia | [RigaDevDays](https://rigadevdays.lv/) | [here](https://www.papercall.io/rdd19) | JVM, Microservices, .NET, Oracle, PostgreSQL, ... |
 | 2018.12.04 | 2019.03.19 | Zürich, Switzerland | [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | [here](https://cfpvdz19.confinabox.com/) | ML, Java, Frontend, Web, Cloud, ... |
