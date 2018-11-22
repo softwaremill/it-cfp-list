@@ -13,6 +13,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2019.02.01 | 2019.05.08-09 | Oslo, Norway | [flatMap(Oslo)](https://2019.flatmap.no/) | [here](https://www.papercall.io/flatmap2019) | Scala, functional programming |
 | 2019.01.27 | 2019.05.30-31 | Singapore, Singapore | [Voxxed Days Singapore](https://voxxeddays.com/singapore/) | [here](https://vxdsingapore2019.confinabox.com/) | Big Data, ML, Mobile, Web, ... |
 | 2019.01.23 | 2019.06.03-05 | Karlsruhe, Germany | [Entwicklertag](https://entwicklertag.de/karlsruhe/2019) | [here](https://entwicklertag.de/karlsruhe/2019/call-for-contributions) | Java, Web, programming languages, ...|
+| 2019.01.20 | 2019.06.11-13 | Lausanne, Switzerland | [Scala Days](https://scaladays.org/) | [here](https://cfp.scaladays.org/events/scaladays2019) | Scala, ...|
 | 2019.01.17 | 2019.04.05-06 | Moscow, Russia | [jPoint](https://jpoint.ru/en/) | [here](https://jpoint.ru/en/callforpapers/) | JVM, DevOps, Big Data, AI, ... |
 | 2019.01.15 | 2019.03.28 | Budapest, Hungary | [BSides Budapest 2019](https://2019.bsidesbud.com/) | [here](https://2019.bsidesbud.com/call-for-paper/) | Computer Security, Cyber Security, Hacking, IoT |
 | 2019.01.13 | 2019.04.13 | Milano, Italy | [Voxxed Days Milano](https://voxxeddays.com/milan/) | [here](https://vxdmilan2019.confinabox.com/) | Mobile, Big Data, ML, Web, ... |
