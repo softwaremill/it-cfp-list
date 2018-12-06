@@ -24,6 +24,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2019.01.11 | 2019.05.08-10 | London, UK | [Devoxx UK](https://www.devoxx.co.uk/) | [here](https://devoxxuk19.confinabox.com/) | JVM, Security, Big Data, Web, ... |
 | 2018.12.21 | 2019.03.20-21 | Bucharest, Romania | [Voxxed Days Bucharest](https://voxxeddays.com/romania/bucharest/next) | [here](https://www.papercall.io/vdbuh2019) | JVM, Big Data, DevOps, ... |
 | 2018.12.10 | 2019.05.29-31 | Riga, Latvia | [RigaDevDays](https://rigadevdays.lv/) | [here](https://www.papercall.io/rdd19) | JVM, Microservices, .NET, Oracle, PostgreSQL, ... |
+| 2018.12.08 | 2019.01.26 | Minsk, Belarus | [f(by)](https://fby.by/) | [here](https://www.papercall.io/fbybelarus) | Practical & theoretical FP |
 
 ### Finished
 
