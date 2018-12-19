@@ -35,6 +35,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.11.30 | 2019.02.21-22 | Kraków, Poland | [Lambda Days](http://www.lambdadays.org/lambdadays2019) | [here](https://eventil.com/events/lambda-days-2019/cfp) | Scala, Erlang, Haskell, ... |
 | 2018.11.25 | 2018.12.08 | Minsk, Belarus | [f(by)](https://fby.by/) | [here](https://www.papercall.io/fbybelarus) | Practical & theoretical FP |
 | 2018.11.23 | 2019.03.22 | Berlin, Germany | [BOB](http://bobkonf.de/2019/) | [here](https://bobkonf.de/2019/cfc.html) | functional progrmaming, persistent data, types, ... |
+| 2018.11.19 | 2019.05.07-09  | USA, Boston | [Red Hat Summit](https://www.redhat.com/en/summit/2019) | N/A | Big Data, DevOps, IoT, ... |
 | 2018.11.19 | 2019.05.06-10 | Mainz, Germany | [Jax 2019](https://jax.de) | [here](https://callforpapers.sandsmedia.com) | Java, JVM languages, Agile, Architecture,..|
 | 2018.11.04 | 2019.01.23-26 | Grenoble, France | [SnowCamp](https://snowcamp.io/en/) | [here](https://www.papercall.io/snowcamp-2019) | Java, Mobile, Cloud, Web, ... |
 | 2018.11.01 | 2019.02.28-03.01 | Porto, Portugal | [NDC Porto](https://ndcporto.com/) | [here](https://sessionize.com/ndcporto2019) | Front-end, server-side, agile, .NET, AI, programming languages |
