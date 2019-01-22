@@ -144,7 +144,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2017.12.16 | 2018.03.16-18 | Tokyo, Japan | [Scala Matsuri](http://2018.scalamatsuri.org/index_en.html) | [here](http://2018.scalamatsuri.org/en/cfp/) | Scala, ... |
 | 2017.12.15 | 2018.03.22-23 | Bucharest, Romania | [Voxxed Days Bucharest 2018](https://voxxeddays.com/romania/bucharest/) | [here](https://voxxeddays.com/romania/cfp-bucharest/) | JVM, BigData, Mobile, ...|
 | 2017.12.11 | 2018.05.08-09 | Amsterdam, Netherlands | [Codemotion Amsterdam](https://amsterdam2018.codemotionworld.com/) | [here](https://amsterdam2018.codemotionworld.com/call-for-papers/) | Big Data, IoT, ML, Frontend, ... |
-| 2017.12.10 | 2018.03.01-02 | Helsinki, Finland | [ngVikings 2018](https://ngvikings.org/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSePYV6ek4ixXuGxmnImQnhBRaQ7g2tmmhdOOo1dBS2_R1iK0Q/viewform) | Angular, Web, Mobile, ...|
+| 2019.01.31 | 2019.05.26-28 | Copenhagen, Denmark | [ngVikings 2019](https://ngvikings.org/) | [here](https://github.com/ionutVizitiu/it-cfp-list.git) | Angular, Web, Mobile, ...|
 | 2017.12.08 | 2018.02.20-22 | San Francisco, US | [INDEX](https://developer.ibm.com/indexconf/) | [here](https://www-01.ibm.com/events/wwe/indexconf/indexconf18.nsf/Speaker.xsp?) | Cloud, Big Data, IoT, Open-Source, ... |
 | 2017.12.01 | 2018.04.23-24 | London, UK | [Kafka Summit](https://kafka-summit.org) | [here](https://kafka-summit.org/kafka-summit-london-2018/speakers/) | Kafka |
 | 2017.12.01 | 2018.06.07-08 | Tallinn, Estonia | [GeekOut](https://2018.geekout.ee/) | [here](https://www.papercall.io/geekout2018) | Java, Web, Big Data, Architecture, ...|
