@@ -20,6 +20,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2019.02.02 | 2019.06.27-29 | Tokyo, Japan | [Scala Matsuri](https://2019.scalamatsuri.org) | [here](https://2019.scalamatsuri.org/en/cfp/) | Scala, ... |
 | 2019.02.04 | 2019.05.15-17 | Marbella, Spain | [J On The Beach](https://jonthebeach.com/) | [here](https://www.papercall.io/jotb19) | JVM, ML, FP, iOT, Big Data |
 | 2019.02.01 | 2019.05.08-09 | Oslo, Norway | [flatMap(Oslo)](https://2019.flatmap.no/) | [here](https://www.papercall.io/flatmap2019) | Scala, functional programming |
+| 2019.01.31 | 2019.05.26-28 | Copenhagen, Denmark | [ngVikings 2019](https://ngvikings.org/) | [here](https://docs.google.com/forms/d/e/1FAIpQLScRfspKVagbXFKC4OV0z--D9fCdnb0vX-t_cpOHWgbP9qteeA/viewform) | Angular, Web, Mobile, ...|
 | 2019.01.27 | 2019.05.30-31 | Singapore, Singapore | [Voxxed Days Singapore](https://voxxeddays.com/singapore/) | [here](https://vxdsingapore2019.confinabox.com/) | Big Data, ML, Mobile, Web, ... |
 | 2019.01.25 | 2019.05.17-18 | Medellín, Colombia | [ScaleConf Colombia](https://scaleconfco.com/) | [here](https://cfp.scaleconfco.com) | scalability, distsys, ML, security, cloud, DevOps, ... |
 | 2019.01.23 | 2019.06.03-05 | Karlsruhe, Germany | [Entwicklertag](https://entwicklertag.de/karlsruhe/2019) | [here](https://entwicklertag.de/karlsruhe/2019/call-for-contributions) | Java, Web, programming languages, ...|
