@@ -8,6 +8,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2019.06.02 | 2019.09.21 | London, UK | [LambdAle](https://lambdale.org/) | [here](https://www.papercall.io/lambdale-2019) | Functional programming, ... |
 | 2019.04.01 | 2019.05.27-29 | Barcelona, Spain | [JBCNConf](http://www.jbcnconf.com/2019/) | [here](http://www.jbcnconf.com/2019/callForPapers.html) | JVM, ML, Cloud, ... |
 | 2019.03.31 | 2019.09.26-27 | Tallinn, Estonia | [GeekOut](https://2019.geekout.ee/) | [here](https://www.papercall.io/geekout2019) | Java, Web, Big Data, Architecture, ...|
 | 2019.03.31 | 2019.06.08 | Zielona Góra, Poland | [Greenfield](http://greenfieldconf.pl/) | [here](http://greenfieldconf.pl/cfp.html) | Programming, Architecture, Soft skills, ... |
