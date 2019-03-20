@@ -12,6 +12,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2019.03.31 | 2019.09.26-27 | Tallinn, Estonia | [GeekOut](https://2019.geekout.ee/) | [here](https://www.papercall.io/geekout2019) | Java, Web, Big Data, Architecture, ...|
 | 2019.03.31 | 2019.06.08 | Zielona Góra, Poland | [Greenfield](http://greenfieldconf.pl/) | [here](http://greenfieldconf.pl/cfp.html) | Programming, Architecture, Soft skills, ... |
 | 2019.02.28 | 2019.06.26-28 | Seville, Spain | [S-BPM ONE](http://www.s-bpm-one.org/s-bpm-one-2019/) | [here](http://www.s-bpm-one.org/cfp2019/) | Subject-Orientation, BPM, S-BPM, Digital Knowledge Management, ... |
+| 2019.02.28 | 2019.06.18-21 | Poznan, Poland | [Monadic Party](https://monadic.party) | [here](https://docs.google.com/forms/d/1BCYcH0tn78qUQB0MOjueGqm8L1XCVvM32pvE1r1Ur2E/viewform?edit_requested=true) | Haskell |
 | 2019.02.28 | 2019.06.04 | Coimbra, Portugal | [JNation.pt](https://jnation.pt) | [here](https://jnation.pt/call-for-papers/) | JVM, Javascript, Web, Cloud |
 | 2019.02.26 | 2019.05.15-17 | Krakow, Poland | [GeeCON](https://2019.geecon.org/) | [here](https://2019.geecon.org/cfp/) | Java, Scala, Big Data, IOT, functional programming |
 | 2019.02.23 | 2019.05.16-17 | Barcelona, Spain | [Spring I/O](https://2019.springio.net/) | [here](https://www.papercall.io/springio19) | Spring, JVM, Cloud, Microservices, Web, Reactive... |
