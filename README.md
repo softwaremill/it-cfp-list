@@ -8,6 +8,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2019.04.22 | 2019.09.11-12 | Oslo, Norway | [JavaZone](https://2019.javazone.no) | [here](https://2019.javazone.no/speakers) | Front-end, Machine Learning, AI, JVM, ... |
 | 2019.04.01 | 2019.05.27-29 | Barcelona, Spain | [JBCNConf](http://www.jbcnconf.com/2019/) | [here](http://www.jbcnconf.com/2019/callForPapers.html) | JVM, ML, Cloud, ... |
 | 2019.03.31 | 2019.09.26-27 | Tallinn, Estonia | [GeekOut](https://2019.geekout.ee/) | [here](https://www.papercall.io/geekout2019) | Java, Web, Big Data, Architecture, ...|
 | 2019.03.31 | 2019.06.08 | Zielona Góra, Poland | [Greenfield](http://greenfieldconf.pl/) | [here](http://greenfieldconf.pl/cfp.html) | Programming, Architecture, Soft skills, ... |
