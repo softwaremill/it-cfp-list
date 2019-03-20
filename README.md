@@ -12,6 +12,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2019.03.31 | 2019.09.26-27 | Tallinn, Estonia | [GeekOut](https://2019.geekout.ee/) | [here](https://www.papercall.io/geekout2019) | Java, Web, Big Data, Architecture, ...|
 | 2019.03.31 | 2019.06.08 | Zielona Góra, Poland | [Greenfield](http://greenfieldconf.pl/) | [here](http://greenfieldconf.pl/cfp.html) | Programming, Architecture, Soft skills, ... |
 | 2019.03.16 | 2019.04.01-03 | Philadelphia, USA | [Northeast Scala Symposium](https://nescala.io) | [here](https://www.papercall.io/ne-scala-2019) | Scala |
+| 2019.03.15 | 2019.06.24-27 | Krakow, Poland | [Devoxx Poland](http://devoxx.pl) | [here](https://cfp.devoxx.pl) | Java, Web, Big Data, Architecture, ...|
 | 2019.03.02 | 2019.05.08-09 | Oslo, Norway | [flatMap(Oslo)](https://2019.flatmap.no/) | [here](https://www.papercall.io/flatmap2019) | Scala, functional programming |
 | 2019.02.28 | 2019.06.26-28 | Seville, Spain | [S-BPM ONE](http://www.s-bpm-one.org/s-bpm-one-2019/) | [here](http://www.s-bpm-one.org/cfp2019/) | Subject-Orientation, BPM, S-BPM, Digital Knowledge Management, ... |
 | 2019.02.28 | 2019.06.18-21 | Poznan, Poland | [Monadic Party](https://monadic.party) | [here](https://docs.google.com/forms/d/1BCYcH0tn78qUQB0MOjueGqm8L1XCVvM32pvE1r1Ur2E/viewform?edit_requested=true) | Haskell |
