@@ -1,6 +1,6 @@
 # IT conferences Call For Papers list
 
-Please file Pull Requests for missing conferences. Commits from this repo automatically lands on [@ItCfpList](https://twitter.com/ItCfpList) and in public [Google Calendar](https://calendar.google.com/calendar?cid=c29mdHdhcmVtaWxsLnBsX3Y4azM0anZoc25jdm5mNjdhdmFyajI4Z3Q4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+Please file Pull Requests for missing conferences. Commits from this repo automatically lands on [@ItCfpList](https://twitter.com/ItCfpList) and in public [Google Calendar](https://calendar.google.com/calendar?cid=c29mdHdhcmVtaWxsLnBsX3Y4azM0anZoc25jdm5mNjdhdmFyajI4Z3Q4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). 
 
 Please keep commits names consistent with schema: `<Conference name> (@TwitterHandle #TwitterTag) - <yyyy.mm.dd-dd> - <City>, <Country>`.
 
@@ -8,33 +8,19 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
-| 2019.09.01 | 2019.11.21-23 | Ljubljana, Slovenia | [BeeScala](https://www.bee-scala.org/) | [here](https://bee-scala.org/forms/1) | Scala, Big Data, FP, JVM |
-| 2019.06.03 | 2019.09.21 | London, UK | [LambdAle](https://lambdale.org) | [here](https://www.papercall.io/lambdale-2019) | Clojure, Elm, Erlang, F#, Haskell, Java, JavaScript, Kotlin, Python, PureScript, Scala, Scheme, functional programming |
-| 2019.06.01 | 2019.10.17-18 | Cádiz, Spain | [Lambda World Cádiz](http://cadiz.lambda.world) | [here](https://cfp.lambda.world/events/lambda-world-cadiz) | Scala, Kotlin, Haskell, Java, Clojure, F# |
-| 2019.05.07 | 2019.06.18 | London, UK | [Code Elixir LDN](https://www.codesync.global/conferences/code-elixir-ldn-2019/) | [here](https://www.codesync.global/conferences/code-elixir-ldn-2019/#call-for-talks) | Elixir |
-| 2019.05.05 | 2018.09.20-21 | Bologna, Italy | [Scala Italy](http://2019.scala-italy.it) | [here](https://www.papercall.io/scala-italy-2019) | Scala, Functional Programming, Akka, Reactive Systems, Microservices... |
-| 2019.04.22 | 2019.09.11-12 | Oslo, Norway | [JavaZone](https://2019.javazone.no) | [here](https://2019.javazone.no/speakers) | Front-end, Machine Learning, AI, JVM, ... |
 | 2019.04.01 | 2019.05.27-29 | Barcelona, Spain | [JBCNConf](http://www.jbcnconf.com/2019/) | [here](http://www.jbcnconf.com/2019/callForPapers.html) | JVM, ML, Cloud, ... |
 | 2019.03.31 | 2019.09.26-27 | Tallinn, Estonia | [GeekOut](https://2019.geekout.ee/) | [here](https://www.papercall.io/geekout2019) | Java, Web, Big Data, Architecture, ...|
 | 2019.03.31 | 2019.06.08 | Zielona Góra, Poland | [Greenfield](http://greenfieldconf.pl/) | [here](http://greenfieldconf.pl/cfp.html) | Programming, Architecture, Soft skills, ... |
-| 2019.03.15 | 2019.06.24-27 | Krakow, Poland | [Devoxx Poland](http://devoxx.pl) | [here](https://cfp.devoxx.pl) | Java, Web, Big Data, Architecture, ...|
-| 2019.03.14 | 2019.04.1-3 | Philadelphia, US | [Northeast Scala Symposium](https://nescala.io) | [here](https://www.papercall.io/ne-scala-2019) | Scala |
-| 2019.03.01 | 2019.05.08-09 | Oslo, Norway | [flatMap(Oslo)](https://2019.flatmap.no/) | [here](https://www.papercall.io/flatmap2019) | Scala, functional programming |
-
-### Finished
-
-| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
-|---------|-----------------|---------------|------|----------|----------|
 | 2019.02.28 | 2019.06.26-28 | Seville, Spain | [S-BPM ONE](http://www.s-bpm-one.org/s-bpm-one-2019/) | [here](http://www.s-bpm-one.org/cfp2019/) | Subject-Orientation, BPM, S-BPM, Digital Knowledge Management, ... |
 | 2019.02.28 | 2019.06.04 | Coimbra, Portugal | [JNation.pt](https://jnation.pt) | [here](https://jnation.pt/call-for-papers/) | JVM, Javascript, Web, Cloud |
 | 2019.02.26 | 2019.05.15-17 | Krakow, Poland | [GeeCON](https://2019.geecon.org/) | [here](https://2019.geecon.org/cfp/) | Java, Scala, Big Data, IOT, functional programming |
 | 2019.02.23 | 2019.05.16-17 | Barcelona, Spain | [Spring I/O](https://2019.springio.net/) | [here](https://www.papercall.io/springio19) | Spring, JVM, Cloud, Microservices, Web, Reactive... |
-| 2019.02.20 | 2019.06.18-21 | Poznan, Poland | [Monadic Party] (https://monadic.party) | [here](https://docs.google.com/forms/d/1BCYcH0tn78qUQB0MOjueGqm8L1XCVvM32pvE1r1Ur2E/viewform?edit_requested=true) | Haskell |
 | 2019.02.18 | 2019.06.24-26 | London, UK | [Software in Practice](https://www.spaconference.org) | [here](https://www.spaconference.org/spa2019/lead-a-session.html) | Agile, XP, Software Design, Collaboration, Leadership |
 | 2019.02.15 | 2019.05.27-29 | Sofia, Bulgaria | [jPrime](https://jprime.io/) | [here](https://jprime.io/cfp) | JVM, Mobile, Web, ...|
 | 2019.02.15 | 2019.04.05-06 | Warsaw, Poland | [Scalar](http://scalar-conf.com/) | [here](https://docs.google.com/forms/d/e/1FAIpQLSd7yCKQep-FfqtACtl5sTYsh213uDkahdwUvFEU1-P_CzaLoA/viewform) | Scala, FP |
 | 2019.02.02 | 2019.06.27-29 | Tokyo, Japan | [Scala Matsuri](https://2019.scalamatsuri.org) | [here](https://2019.scalamatsuri.org/en/cfp/) | Scala, ... |
 | 2019.02.04 | 2019.05.15-17 | Marbella, Spain | [J On The Beach](https://jonthebeach.com/) | [here](https://www.papercall.io/jotb19) | JVM, ML, FP, iOT, Big Data |
+| 2019.02.01 | 2019.05.08-09 | Oslo, Norway | [flatMap(Oslo)](https://2019.flatmap.no/) | [here](https://www.papercall.io/flatmap2019) | Scala, functional programming |
 | 2019.01.31 | 2019.05.26-28 | Copenhagen, Denmark | [ngVikings 2019](https://ngvikings.org/) | [here](https://docs.google.com/forms/d/e/1FAIpQLScRfspKVagbXFKC4OV0z--D9fCdnb0vX-t_cpOHWgbP9qteeA/viewform) | Angular, Web, Mobile, ...|
 | 2019.01.27 | 2019.05.30-31 | Singapore, Singapore | [Voxxed Days Singapore](https://voxxeddays.com/singapore/) | [here](https://vxdsingapore2019.confinabox.com/) | Big Data, ML, Mobile, Web, ... |
 | 2019.01.25 | 2019.05.17-18 | Medellín, Colombia | [ScaleConf Colombia](https://scaleconfco.com/) | [here](https://cfp.scaleconfco.com) | scalability, distsys, ML, security, cloud, DevOps, ... |
@@ -50,6 +36,11 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.12.12 | 2019.03.22-23 | Rome, Italy | [Codemotion Rome](https://events.codemotion.com/conferences/rome/2019/) | [here](https://tickets.codemotion.com/rome2019-codemotionworld-com-call-for-papers-guidelines/) | JavaScript, Blockchain, AI, DevOps, GameDev, Backend, Frontend, BigData, Cloud, ... |
 | 2018.12.10 | 2019.05.29-31 | Riga, Latvia | [RigaDevDays](https://rigadevdays.lv/) | [here](https://www.papercall.io/rdd19) | JVM, Microservices, .NET, Oracle, PostgreSQL, ... |
 | 2018.12.08 | 2019.01.26 | Minsk, Belarus | [f(by)](https://fby.by/) | [here](https://www.papercall.io/fbybelarus) | Practical & theoretical FP |
+
+### Finished
+
+| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
+|---------|-----------------|---------------|------|----------|----------|
 | 2018.12.04 | 2019.03.19 | Zürich, Switzerland | [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | [here](https://cfpvdz19.confinabox.com/) | ML, Java, Frontend, Web, Cloud, ... |
 | 2018.12.01 | 2019.04.11-12 | Cluj-Napoca, Romania | [JSHeroes](https://jsheroes.io/) | [here](https://jsheroes-form.typeform.com/to/IHohur) | JavaScript, Frontend, Node.js, Community, CSS, Design, Accessability, Performance, Security, Open Source, Mental Health
 | 2018.11.30 | 2019.02.21-22 | Kraków, Poland | [Lambda Days](http://www.lambdadays.org/lambdadays2019) | [here](https://eventil.com/events/lambda-days-2019/cfp) | Scala, Erlang, Haskell, ... |
