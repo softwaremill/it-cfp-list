@@ -8,6 +8,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2019.06.03 | 2019.09.21 | London, UK | [LambdAle](https://lambdale.org) | [here](https://www.papercall.io/lambdale-2019) | Clojure, Elm, Erlang, F#, Haskell, Java, JavaScript, Kotlin, Python, PureScript, Scala, Scheme, functional programming |
 | 2019.06.01 | 2019.10.17-18 | Cádiz, Spain | [Lambda World Cádiz](http://cadiz.lambda.world) | [here](https://cfp.lambda.world/events/lambda-world-cadiz) | Scala, Kotlin, Haskell, Java, Clojure, F# |
 | 2019.05.07 | 2019.07.18 | London, UK | [Code Elixir LDN](https://www.codesync.global/conferences/code-elixir-ldn-2019/) | [here](https://www.codesync.global/conferences/code-elixir-ldn-2019/#call-for-talks) | Elixir |
 | 2019.05.05 | 2019.09.20-21 | Bologna, Italy | [Scala Italy](http://www.scala-italy.it/) | [here](https://www.papercall.io/scala-italy-2019) | Scala, Functional Programming, Akka, Reactive Systems, Microservices... |
