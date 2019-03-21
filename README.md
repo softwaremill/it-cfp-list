@@ -1,6 +1,6 @@
 # IT conferences Call For Papers list
 
-Please file Pull Requests for missing conferences. Commits from this repo automatically lands on [@ItCfpList](https://twitter.com/ItCfpList) and in public [Google Calendar](https://calendar.google.com/calendar?cid=c29mdHdhcmVtaWxsLnBsX3Y4azM0anZoc25jdm5mNjdhdmFyajI4Z3Q4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). 
+Please file Pull Requests for missing conferences. Commits from this repo automatically lands on [@ItCfpList](https://twitter.com/ItCfpList) and in public [Google Calendar](https://calendar.google.com/calendar?cid=c29mdHdhcmVtaWxsLnBsX3Y4azM0anZoc25jdm5mNjdhdmFyajI4Z3Q4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
 Please keep commits names consistent with schema: `<Conference name> (@TwitterHandle #TwitterTag) - <yyyy.mm.dd-dd> - <City>, <Country>`.
 
@@ -23,6 +23,11 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2019.03.31 | 2019.09.26-27 | Tallinn, Estonia | [GeekOut](https://2019.geekout.ee/) | [here](https://www.papercall.io/geekout2019) | Java, Web, Big Data, Architecture, ...|
 | 2019.03.31 | 2019.06.08 | Zielona Góra, Poland | [Greenfield](http://greenfieldconf.pl/) | [here](http://greenfieldconf.pl/cfp.html) | Programming, Architecture, Soft skills, ... |
 | 2019.03.29 | 2019.09.30 | Prague, Czech Republic | [SANS DFIR Europe Summit 2019](https://www.sans.org/event/dfir-prague-2019) | [here](https://www.surveymonkey.co.uk/r/DFIR19CFP) | Digital Forensics, Incident Response, Information Security |
+
+### Finished
+
+| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
+|---------|-----------------|---------------|------|----------|----------|
 | 2019.03.16 | 2019.04.01-03 | Philadelphia, USA | [Northeast Scala Symposium](https://nescala.io) | [here](https://www.papercall.io/ne-scala-2019) | Scala |
 | 2019.03.15 | 2019.06.24-27 | Krakow, Poland | [Devoxx Poland](http://devoxx.pl) | [here](https://cfp.devoxx.pl) | Java, Web, Big Data, Architecture, ...|
 | 2019.03.13 | 2019.09.15-19 | San Francisco, USA | [Oracle Code One](https://www.oracle.com/code-one/) | [here](https://reg.rainfocus.com/flow/oracle/oow19/codeone19cfp/cfpHome) | Java, JVM, Oracle |
@@ -55,11 +60,6 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2018.12.12 | 2019.03.22-23 | Rome, Italy | [Codemotion Rome](https://events.codemotion.com/conferences/rome/2019/) | [here](https://tickets.codemotion.com/rome2019-codemotionworld-com-call-for-papers-guidelines/) | JavaScript, Blockchain, AI, DevOps, GameDev, Backend, Frontend, BigData, Cloud, ... |
 | 2018.12.10 | 2019.05.29-31 | Riga, Latvia | [RigaDevDays](https://rigadevdays.lv/) | [here](https://www.papercall.io/rdd19) | JVM, Microservices, .NET, Oracle, PostgreSQL, ... |
 | 2018.12.08 | 2019.01.26 | Minsk, Belarus | [f(by)](https://fby.by/) | [here](https://www.papercall.io/fbybelarus) | Practical & theoretical FP |
-
-### Finished
-
-| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
-|---------|-----------------|---------------|------|----------|----------|
 | 2018.12.04 | 2019.03.19 | Zürich, Switzerland | [Voxxed Days Zurich](https://voxxeddays.com/zurich/) | [here](https://cfpvdz19.confinabox.com/) | ML, Java, Frontend, Web, Cloud, ... |
 | 2018.12.01 | 2019.04.11-12 | Cluj-Napoca, Romania | [JSHeroes](https://jsheroes.io/) | [here](https://jsheroes-form.typeform.com/to/IHohur) | JavaScript, Frontend, Node.js, Community, CSS, Design, Accessability, Performance, Security, Open Source, Mental Health
 | 2018.11.30 | 2019.02.21-22 | Kraków, Poland | [Lambda Days](http://www.lambdadays.org/lambdadays2019) | [here](https://eventil.com/events/lambda-days-2019/cfp) | Scala, Erlang, Haskell, ... |
