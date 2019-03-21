@@ -8,11 +8,25 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2019.09.01 | 2019.11.21-23 | Ljubljana, Slovenia | [BeeScala](https://www.bee-scala.org/) | [here](https://bee-scala.org/forms/1) | Scala, Big Data, FP, JVM |
+| 2019.06.03 | 2019.09.21 | London, UK | [LambdAle](https://lambdale.org) | [here](https://www.papercall.io/lambdale-2019) | Clojure, Elm, Erlang, F#, Haskell, Java, JavaScript, Kotlin, Python, PureScript, Scala, Scheme, functional programming |
+| 2019.06.01 | 2019.10.17-18 | Cádiz, Spain | [Lambda World Cádiz](http://cadiz.lambda.world) | [here](https://cfp.lambda.world/events/lambda-world-cadiz) | Scala, Kotlin, Haskell, Java, Clojure, F# |
+| 2019.05.10 | 2019.12.09-12 | Frankfurt, Germany | [IT-Tage 2019](https://www.ittage.informatik-aktuell.de/) | [here](https://www.ittage.informatik-aktuell.de/call-for-papers/) | Software-development & architecture, DevOps, Container, Microservices, Databases, Blockchain, Big Data, DevOps, IoT, Cloud, Security, JavaScript, Java, .NET, AI & Machine Learning, Agile |
+| 2019.05.07 | 2019.07.18 | London, UK | [Code Elixir LDN](https://www.codesync.global/conferences/code-elixir-ldn-2019/) | [here](https://www.codesync.global/conferences/code-elixir-ldn-2019/#call-for-talks) | Elixir |
+| 2019.05.05 | 2019.09.20-21 | Bologna, Italy | [Scala Italy](http://www.scala-italy.it/) | [here](https://www.papercall.io/scala-italy-2019) | Scala, Functional Programming, Akka, Reactive Systems, Microservices... |
+| 2019.04.22 | 2019.09.11-12 | Oslo, Norway | [JavaZone](https://2019.javazone.no) | [here](https://2019.javazone.no/speakers) | Front-end, Machine Learning, AI, JVM, ... |
 | 2019.04.11 | 2019.08.02 | Columbus, Ohio, USA | [JS&FriendsConf](https://www.javascriptandfriends.com/) | [here](https://sessionize.com/javascript-and-friends-conference/) | JavaScript, Web, Vue, Node, Professional Skills ... |
 | 2019.04.01 | 2019.05.27-29 | Barcelona, Spain | [JBCNConf](http://www.jbcnconf.com/2019/) | [here](http://www.jbcnconf.com/2019/callForPapers.html) | JVM, ML, Cloud, ... |
 | 2019.03.31 | 2019.09.26-27 | Tallinn, Estonia | [GeekOut](https://2019.geekout.ee/) | [here](https://www.papercall.io/geekout2019) | Java, Web, Big Data, Architecture, ...|
 | 2019.03.31 | 2019.06.08 | Zielona Góra, Poland | [Greenfield](http://greenfieldconf.pl/) | [here](http://greenfieldconf.pl/cfp.html) | Programming, Architecture, Soft skills, ... |
+| 2019.03.29 | 2019.09.30 | Prague, Czech Republic | [SANS DFIR Europe Summit 2019](https://www.sans.org/event/dfir-prague-2019) | [here](https://www.surveymonkey.co.uk/r/DFIR19CFP) | Digital Forensics, Incident Response, Information Security |
+| 2019.03.16 | 2019.04.01-03 | Philadelphia, USA | [Northeast Scala Symposium](https://nescala.io) | [here](https://www.papercall.io/ne-scala-2019) | Scala |
+| 2019.03.15 | 2019.06.24-27 | Krakow, Poland | [Devoxx Poland](http://devoxx.pl) | [here](https://cfp.devoxx.pl) | Java, Web, Big Data, Architecture, ...|
+| 2019.03.13 | 2019.09.15-19 | San Francisco, USA | [Oracle Code One](https://www.oracle.com/code-one/) | [here](https://reg.rainfocus.com/flow/oracle/oow19/codeone19cfp/cfpHome) | Java, JVM, Oracle |
+| 2019.03.03 | 2019.09.19-23 | Pot Canaveral, USA | [CoderCruise 2019](https://www.codercruise.com/) | [here](https://www.papercall.io/codercruise-2019) | Web, Mobile, Dev, Cloud, ... |
+| 2019.03.02 | 2019.05.08-09 | Oslo, Norway | [flatMap(Oslo)](https://2019.flatmap.no/) | [here](https://www.papercall.io/flatmap2019) | Scala, functional programming |
 | 2019.02.28 | 2019.06.26-28 | Seville, Spain | [S-BPM ONE](http://www.s-bpm-one.org/s-bpm-one-2019/) | [here](http://www.s-bpm-one.org/cfp2019/) | Subject-Orientation, BPM, S-BPM, Digital Knowledge Management, ... |
+| 2019.02.28 | 2019.06.18-21 | Poznan, Poland | [Monadic Party](https://monadic.party) | [here](https://docs.google.com/forms/d/1BCYcH0tn78qUQB0MOjueGqm8L1XCVvM32pvE1r1Ur2E/viewform?edit_requested=true) | Haskell |
 | 2019.02.28 | 2019.06.04 | Coimbra, Portugal | [JNation.pt](https://jnation.pt) | [here](https://jnation.pt/call-for-papers/) | JVM, Javascript, Web, Cloud |
 | 2019.02.26 | 2019.05.15-17 | Krakow, Poland | [GeeCON](https://2019.geecon.org/) | [here](https://2019.geecon.org/cfp/) | Java, Scala, Big Data, IOT, functional programming |
 | 2019.02.23 | 2019.05.16-17 | Barcelona, Spain | [Spring I/O](https://2019.springio.net/) | [here](https://www.papercall.io/springio19) | Spring, JVM, Cloud, Microservices, Web, Reactive... |
