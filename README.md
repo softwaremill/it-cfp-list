@@ -21,6 +21,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2019.03.29 | 2019.09.30 | Prague, Czech Republic | [SANS DFIR Europe Summit 2019](https://www.sans.org/event/dfir-prague-2019) | [here](https://www.surveymonkey.co.uk/r/DFIR19CFP) | Digital Forensics, Incident Response, Information Security |
 | 2019.03.16 | 2019.04.01-03 | Philadelphia, USA | [Northeast Scala Symposium](https://nescala.io) | [here](https://www.papercall.io/ne-scala-2019) | Scala |
 | 2019.03.15 | 2019.06.24-27 | Krakow, Poland | [Devoxx Poland](http://devoxx.pl) | [here](https://cfp.devoxx.pl) | Java, Web, Big Data, Architecture, ...|
+| 2019.03.03 | 2019.09.19-23 | Pot Canaveral, USA | [CoderCruise 2019](https://www.codercruise.com/) | [here](https://www.papercall.io/codercruise-2019) | Web, Mobile, Dev, Cloud, ... |
 | 2019.03.02 | 2019.05.08-09 | Oslo, Norway | [flatMap(Oslo)](https://2019.flatmap.no/) | [here](https://www.papercall.io/flatmap2019) | Scala, functional programming |
 | 2019.02.28 | 2019.06.26-28 | Seville, Spain | [S-BPM ONE](http://www.s-bpm-one.org/s-bpm-one-2019/) | [here](http://www.s-bpm-one.org/cfp2019/) | Subject-Orientation, BPM, S-BPM, Digital Knowledge Management, ... |
 | 2019.02.28 | 2019.06.18-21 | Poznan, Poland | [Monadic Party](https://monadic.party) | [here](https://docs.google.com/forms/d/1BCYcH0tn78qUQB0MOjueGqm8L1XCVvM32pvE1r1Ur2E/viewform?edit_requested=true) | Haskell |
