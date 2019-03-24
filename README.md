@@ -17,6 +17,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2019.05.07 | 2019.07.18 | London, UK | [Code Elixir LDN](https://www.codesync.global/conferences/code-elixir-ldn-2019/) | [here](https://www.codesync.global/conferences/code-elixir-ldn-2019/#call-for-talks) | Elixir |
 | 2019.05.05 | 2019.09.20-21 | Bologna, Italy | [Scala Italy](http://www.scala-italy.it/) | [here](https://www.papercall.io/scala-italy-2019) | Scala, Functional Programming, Akka, Reactive Systems, Microservices... |
 | 2019.04.22 | 2019.09.11-12 | Oslo, Norway | [JavaZone](https://2019.javazone.no) | [here](https://2019.javazone.no/speakers) | Front-end, Machine Learning, AI, JVM, ... |
+| 2019.04.13 | 2019.08.01-02 | Baltimore, MD, USA | [Mid-Atlantic Developer Conference](https://www.middevcon.com/) | [here](https://www.middevcon.com/call-for-speakers/) | Cloud, Mobile, Web, Dev |
 | 2019.04.11 | 2019.08.02 | Columbus, Ohio, USA | [JS&FriendsConf](https://www.javascriptandfriends.com/) | [here](https://sessionize.com/javascript-and-friends-conference/) | JavaScript, Web, Vue, Node, Professional Skills ... |
 | 2019.04.01 | 2019.05.27-29 | Barcelona, Spain | [JBCNConf](http://www.jbcnconf.com/2019/) | [here](http://www.jbcnconf.com/2019/callForPapers.html) | JVM, ML, Cloud, ... |
 | 2019.03.31 | 2019.11.06-08 | Malmö, Sweden | [Øredev](http://oredev.org) | [here](https://admin.oredev.org/submit?invitedby=cfp) | Web, Data Science, Cloud, .NET, IoT, Agile, Mobile, ... |
