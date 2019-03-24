@@ -11,6 +11,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2019.09.01 | 2019.11.21-23 | Ljubljana, Slovenia | [BeeScala](https://www.bee-scala.org/) | [here](https://bee-scala.org/forms/1) | Scala, Big Data, FP, JVM |
 | 2019.06.03 | 2019.09.21 | London, UK | [LambdAle](https://lambdale.org) | [here](https://www.papercall.io/lambdale-2019) | Clojure, Elm, Erlang, F#, Haskell, Java, JavaScript, Kotlin, Python, PureScript, Scala, Scheme, functional programming |
 | 2019.06.01 | 2019.10.17-18 | Cádiz, Spain | [Lambda World Cádiz](http://cadiz.lambda.world) | [here](https://cfp.lambda.world/events/lambda-world-cadiz) | Scala, Kotlin, Haskell, Java, Clojure, F# |
+| 2019.05.30 | 2019.10.24-25 | London, UK | [droidcon London 2019](https://skillsmatter.com/conferences/11785-droidcon-london-2019) | [here](https://docs.google.com/forms/d/e/1FAIpQLSc-f-Qybuk2M-zCl04Tg5c6OwWYI1oi5RdsUFnhFaeQhJ0iRg/viewform) | Android |
 | 2019.05.20 | 2019.12.04-06 | Copenhagen, Denmark | [KotlinConf](https://kotlinconf.com/) | [here](https://sessionize.com/kotlinconf) | Kotlin, Android, JVM, Web |
 | 2019.05.15 | 2019.10.03-04 | Belgrade, Serbia | [Heapcon](http://heapcon.io/) | [here](http://heapcon.io/) | |
 | 2019.05.13 | 2019.09.25-27 | London, UK | [CloudNative](https://skillsmatter.com/conferences/11723-cloudnative-london-2019) | [here](https://docs.google.com/forms/d/e/1FAIpQLSd4AQTJSNtn1hDCvk3iovjgMquAm7uC1ivsd_cbPCu97mUzMw/viewform) | Containers, Schedulers, Kubernetes, DevOps |
