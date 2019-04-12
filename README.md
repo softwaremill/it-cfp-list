@@ -8,6 +8,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2019.05.15 | 2019.11.12-13 | Berlin, Germany | [Codemotion Berlin](https://events.codemotion.com/conferences/berlin/2019) | [here](https://events.codemotion.com/conferences/berlin/2019/call-for-papers-guidelines-2/) | Front-end, Machine Learning, AI, Mobile, Software-development & architecture, DevOps, Container, Microservices, Databases, Blockchain, Big Data, DevOps, IoT, Cloud, Security  ... |
 | 2019.09.01 | 2019.11.21-23 | Ljubljana, Slovenia | [BeeScala](https://www.bee-scala.org/) | [here](https://bee-scala.org/forms/1) | Scala, Big Data, FP, JVM |
 | 2019.06.30 | 2019.10.29-31 | Lyon, France | [scala.io](https://scala.io) | [here](https://www.papercall.io/scalaio-2019) | Scala, Functional Programming, ... |
 | 2019.06.30 | 2019.10.30-11.01 | Prague, Czech Republic | [ReactiveConf](https://reactiveconf.com) | [here](https://www.papercall.io/goreactive) | JavaScript |
