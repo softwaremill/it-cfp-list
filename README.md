@@ -10,6 +10,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 |---------|-----------------|---------------|------|----------|----------|
 | 2019.09.01 | 2019.11.21-23 | Ljubljana, Slovenia | [BeeScala](https://www.bee-scala.org/) | [here](https://bee-scala.org/forms/1) | Scala, Big Data, FP, JVM |
 | 2019.07.15 | 2019.10.25-26 | Budapest, Hungary | [Hacktivity](https://www.hacktivity.com) | [here](https://www.hacktivity.com/call-for-papers) | Computer Security, Cyber Security, Hacking, IoT |
+| 2019.06.30 | 2019.9.28 | Madison, WI, USA | [DevFest WI](https://devfestwi.com) | [here](https://forms.gle/VLzVhZYnA1EWHg6N8) | web development, cloud computing, core skills (communication, empathy, negotiation, organization, etc.), Firebase, accessibility, ML/AI, Android, Flutter/Dart, Material Design, and more |
 | 2019.06.30 | 2019.10.29-31 | Lyon, France | [scala.io](https://scala.io) | [here](https://www.papercall.io/scalaio-2019) | Scala, Functional Programming, ... |
 | 2019.06.30 | 2019.10.30-11.01 | Prague, Czech Republic | [ReactiveConf](https://reactiveconf.com) | [here](https://www.papercall.io/goreactive) | JavaScript |
 | 2019.06.10 | 2019.10.10-11 | London, UK | [Haskell eXchange 2019](https://skillsmatter.com/conferences/11741-haskell-exchange-2019) | [here](https://skillsmatter.com/conferences/11741-haskell-exchange-2019#get_involved) | Haskell |
