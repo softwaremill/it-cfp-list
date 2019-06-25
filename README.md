@@ -13,6 +13,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2019.06.30 | 2019.10.29-31 | Lyon, France | [scala.io](https://scala.io) | [here](https://www.papercall.io/scalaio-2019) | Scala, Functional Programming, ... |
 | 2019.06.30 | 2019.10.30-11.01 | Prague, Czech Republic | [ReactiveConf](https://reactiveconf.com) | [here](https://www.papercall.io/goreactive) | JavaScript |
 | 2019.06.10 | 2019.10.10-11 | London, UK | [Haskell eXchange 2019](https://skillsmatter.com/conferences/11741-haskell-exchange-2019) | [here](https://skillsmatter.com/conferences/11741-haskell-exchange-2019#get_involved) | Haskell |
+| 2019.06.05 | 2019.11.04-08 | Antwerp, Belgium | [Devoxx](https://devoxx.be/) | [here](https://dvbe19.cfp.dev) | Java, JVM |
 | 2019.06.03 | 2019.09.21 | London, UK | [LambdAle](https://lambdale.org) | [here](https://www.papercall.io/lambdale-2019) | Clojure, Elm, Erlang, F#, Haskell, Java, JavaScript, Kotlin, Python, PureScript, Scala, Scheme, functional programming |
 | 2019.06.01 | 2019.10.17-18 | Cádiz, Spain | [Lambda World Cádiz](http://cadiz.lambda.world) | [here](https://cfp.lambda.world/events/lambda-world-cadiz) | Scala, Kotlin, Haskell, Java, Clojure, F# |
 | 2019.05.31 | 2019.10.11-12 | Zagreb, Croatia | [WebCamp Zagreb 2019](https://2019.webcampzg.org/) | [here](https://2019.webcampzg.org/cfp/) | web development design |
