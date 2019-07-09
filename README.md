@@ -8,7 +8,9 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2019.09.14 | 2019.10.17-18 | Prague, Czech | [GeeCON Prague](http://2019.geecon.cz/) | [here](https://cfp.geecon.org) | JVM, agile, Big Data, ML, ... |
 | 2019.09.01 | 2019.11.21-23 | Ljubljana, Slovenia | [BeeScala](https://www.bee-scala.org/) | [here](https://bee-scala.org/forms/1) | Scala, Big Data, FP, JVM |
+| 2019.08.30 | 2019.10.25 | Luxembourg, Luxembourg | [BSides Luxembourg 2019](https://bsideslux.lu) | [here](https://docs.google.com/forms/d/e/1FAIpQLSedV98yYXovhDuWBSBZbZTv89Z-rbv1jLn6-_5kygxJfmEEAA/viewform) | Information Security, Privacy, Incident Response, Digital Forensics |
 | 2019.08.25 | 2019.10.30-31 | Ede, Netherlands | [J-Fall 2019](https://jfall.nl) | [here](https://www.nljugcfp.nl) | Java, Cloud, Enterprise, Alternative JVM Languages, Methodology & Culture, Web, Mobile, Big Data & Machine Learning, Security |
 | 2019.07.15 | 2019.10.25-26 | Budapest, Hungary | [Hacktivity](https://www.hacktivity.com) | [here](https://www.hacktivity.com/call-for-papers) | Computer Security, Cyber Security, Hacking, IoT |
 | 2019.06.30 | 2019.10.29-31 | Lyon, France | [scala.io](https://scala.io) | [here](https://www.papercall.io/scalaio-2019) | Scala, Functional Programming, ... |
