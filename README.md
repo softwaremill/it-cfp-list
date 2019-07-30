@@ -8,6 +8,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2019.09.26 | 2019.11.26 | Moscow, Russia | [ScalaConf.ru](https://scalaconf.ru/2019) | [here](https://www.papercall.io/scalaconf-ru) | Scala, ScalaJS, functional programming |
 | 2019.09.14 | 2019.10.17-18 | Prague, Czech | [GeeCON Prague](http://2019.geecon.cz/) | [here](https://cfp.geecon.org) | JVM, agile, Big Data, ML, ... |
 | 2019.09.01 | 2019.11.21-23 | Ljubljana, Slovenia | [BeeScala](https://www.bee-scala.org/) | [here](https://bee-scala.org/forms/1) | Scala, Big Data, FP, JVM |
 | 2019.08.30 | 2019.10.25 | Luxembourg, Luxembourg | [BSides Luxembourg 2019](https://bsideslux.lu) | [here](https://docs.google.com/forms/d/e/1FAIpQLSedV98yYXovhDuWBSBZbZTv89Z-rbv1jLn6-_5kygxJfmEEAA/viewform) | Information Security, Privacy, Incident Response, Digital Forensics |
