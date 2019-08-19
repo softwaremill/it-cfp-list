@@ -8,6 +8,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2019.12.20 | 2020.04.11 | Kyiv, Ukraine | [.NET fwdays'20](https://fwdays.com/en/event/dotnet-fwdays-2020) | [here](https://docs.google.com/forms/d/e/1FAIpQLScDFCt3QwxTzERuMqirqXaKn8QY9aNh9FmN9oVQJOpxvIHESQ/viewform) | .NET |
 | 2019.09.20 | 2019.11.30 | Lublin, Poland | [IT NonStop: J-Santa](https://j-santa.pl) | [here](https://j-santa.pl) | Java, JVM, Craftsmanship |
 | 2019.09.14 | 2019.10.17-18 | Prague, Czech | [GeeCON Prague](http://2019.geecon.cz/) | [here](https://cfp.geecon.org) | JVM, agile, Big Data, ML, ... |
 | 2019.09.01 | 2019.11.21-23 | Ljubljana, Slovenia | [BeeScala](https://www.bee-scala.org/) | [here](https://bee-scala.org/forms/1) | Scala, Big Data, FP, JVM |
