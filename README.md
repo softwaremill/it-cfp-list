@@ -9,6 +9,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
 | 2019.12.24 | 2020.05.30 | Kyiv, Ukraine | [PHP fwdays 2020](https://fwdays.com/event/php-fwdays-2020) | [here](https://php.cfp.fwdays.com/) | PHP |
+| 2019.11.30 | 2020.03.14 | Kyiv, Ukraine | [JavaScript fwdays'20](https://fwdays.com/en/event/js-fwdays-2020) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdx1Vz-A7d5T0LoVV0cs5KzMTSYrRLEmmYFANQYIPrlwKgZ4Q/viewform) | JavaScript, Frontend, CSS |
 | 2019.09.26 | 2019.11.26 | Moscow, Russia | [ScalaConf.ru](https://scalaconf.ru/2019) | [here](https://www.papercall.io/scalaconf-ru) | Scala, ScalaJS, functional programming |
 | 2019.09.20 | 2019.11.30 | Lublin, Poland | [IT NonStop: J-Santa](https://j-santa.pl) | [here](https://j-santa.pl) | Java, JVM, Craftsmanship |
 | 2019.09.16 | 2020.02.26 | Montreal, Canada | [ConFoo Montreal](https://confoo.ca/en/yul2020) | [here](https://confoo.ca/en/yul2020/call-for-papers) | PHP, Java, Ruby, .Net, Node, AI, VR, Cloud, Craftsmanship, Security, Management, Startup |
