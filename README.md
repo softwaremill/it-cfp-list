@@ -10,6 +10,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 |---------|-----------------|---------------|------|----------|----------|
 | 2019.09.26 | 2019.11.26 | Moscow, Russia | [ScalaConf.ru](https://scalaconf.ru/2019) | [here](https://www.papercall.io/scalaconf-ru) | Scala, ScalaJS, functional programming |
 | 2019.09.20 | 2019.11.30 | Lublin, Poland | [IT NonStop: J-Santa](https://j-santa.pl) | [here](https://j-santa.pl) | Java, JVM, Craftsmanship |
+| 2019.09.16 | 2020.02.26 | Montreal, Canada | [ConFoo Montreal](https://confoo.ca/en/yul2020) | [here](https://confoo.ca/en/yul2020/call-for-papers) | PHP, Java, Ruby, .Net, Node, AI, VR, Cloud, Craftsmanship, Security, Management, Startup |
 | 2019.09.15 | 2019.11.15-16 | Wrocław, Poland | [GDG DevFest Wrocław 2019](https://devfest.wroclaw.pl/) | [here](http://bit.ly/df19-cfp) | Google, Mobile, Web, Cloud, ML, ... |
 | 2019.09.14 | 2019.10.17-18 | Prague, Czech | [GeeCON Prague](http://2019.geecon.cz/) | [here](https://cfp.geecon.org) | JVM, agile, Big Data, ML, ... |
 | 2019.09.01 | 2019.11.21-23 | Ljubljana, Slovenia | [BeeScala](https://www.bee-scala.org/) | [here](https://bee-scala.org/forms/1) | Scala, Big Data, FP, JVM |
