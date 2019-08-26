@@ -12,7 +12,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2019.12.20 | 2020.04.11 | Kyiv, Ukraine | [.NET fwdays'20](https://fwdays.com/en/event/dotnet-fwdays-2020) | [here](https://docs.google.com/forms/d/e/1FAIpQLScDFCt3QwxTzERuMqirqXaKn8QY9aNh9FmN9oVQJOpxvIHESQ/viewform) | .NET |
 | 2019.11.30 | 2020.03.14 | Kyiv, Ukraine | [JavaScript fwdays'20](https://fwdays.com/en/event/js-fwdays-2020) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdx1Vz-A7d5T0LoVV0cs5KzMTSYrRLEmmYFANQYIPrlwKgZ4Q/viewform) | JavaScript, Frontend, CSS |
 | 2019.10.15 | 2020.04.15-16 | Munich, Germany | [JS Kongress](https://js-kongress.com/) | [here](https://sessionize.com/js-kongress-2020) | JavaScript, scaling, Massive Platforms, Data-Driven Architectures, Modern APIs |
-| 2019.10.13  | 2019.12.12-13 | Warsaw, Poland  | [PyData Warsaw Conference 2019](https://pydata.org/warsaw2019/) | [here](https://pydata.org/warsaw2019/cfp/) | Dats Science, AI, Machine Learning, Deep Learning |
+| 2019.10.13  | 2019.12.12-13 | Warsaw, Poland  | [PyData Warsaw Conference 2019](https://pydata.org/warsaw2019/) | [here](https://pydata.org/warsaw2019/cfp/) | Data Science, AI, Machine Learning, Deep Learning |
 | 2019.09.26 | 2019.11.26 | Moscow, Russia | [ScalaConf.ru](https://scalaconf.ru/2019) | [here](https://www.papercall.io/scalaconf-ru) | Scala, ScalaJS, functional programming |
 | 2019.09.20 | 2019.11.30 | Lublin, Poland | [IT NonStop: J-Santa](https://j-santa.pl) | [here](https://j-santa.pl) | Java, JVM, Craftsmanship |
 | 2019.09.16 | 2020.02.26 | Montreal, Canada | [ConFoo Montreal](https://confoo.ca/en/yul2020) | [here](https://confoo.ca/en/yul2020/call-for-papers) | PHP, Java, Ruby, .Net, Node, AI, VR, Cloud, Craftsmanship, Security, Management, Startup |
