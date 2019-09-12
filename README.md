@@ -19,6 +19,12 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2019.09.16 | 2020.02.26 | Montreal, Canada | [ConFoo Montreal](https://confoo.ca/en/yul2020) | [here](https://confoo.ca/en/yul2020/call-for-papers) | PHP, Java, Ruby, .Net, Node, AI, VR, Cloud, Craftsmanship, Security, Management, Startup |
 | 2019.09.15 | 2019.11.15-16 | Wrocław, Poland | [GDG DevFest Wrocław 2019](https://devfest.wroclaw.pl/) | [here](http://bit.ly/df19-cfp) | Google, Mobile, Web, Cloud, ML, ... |
 | 2019.09.14 | 2019.10.17-18 | Prague, Czech | [GeeCON Prague](http://2019.geecon.cz/) | [here](https://cfp.geecon.org) | JVM, agile, Big Data, ML, ... |
+
+### Finished
+
+| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
+|---------|-----------------|---------------|------|----------|----------|
+
 | 2019.09.01 | 2019.11.21-23 | Ljubljana, Slovenia | [BeeScala](https://www.bee-scala.org/) | [here](https://bee-scala.org/forms/1) | Scala, Big Data, FP, JVM |
 | 2019.08.30 | 2019.10.25 | Luxembourg, Luxembourg | [BSides Luxembourg 2019](https://bsideslux.lu) | [here](https://docs.google.com/forms/d/e/1FAIpQLSedV98yYXovhDuWBSBZbZTv89Z-rbv1jLn6-_5kygxJfmEEAA/viewform) | Information Security, Privacy, Incident Response, Digital Forensics |
 | 2019.08.25 | 2019.10.30-31 | Ede, Netherlands | [J-Fall 2019](https://jfall.nl) | [here](https://www.nljugcfp.nl) | Java, Cloud, Enterprise, Alternative JVM Languages, Methodology & Culture, Web, Mobile, Big Data & Machine Learning, Security |
@@ -51,11 +57,6 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2019.03.31 | 2019.09.26-27 | Tallinn, Estonia | [GeekOut](https://2019.geekout.ee/) | [here](https://www.papercall.io/geekout2019) | Java, Web, Big Data, Architecture, ...|
 | 2019.03.31 | 2019.06.08 | Zielona Góra, Poland | [Greenfield](http://greenfieldconf.pl/) | [here](http://greenfieldconf.pl/cfp.html) | Programming, Architecture, Soft skills, ... |
 | 2019.03.29 | 2019.09.30 | Prague, Czech Republic | [SANS DFIR Europe Summit 2019](https://www.sans.org/event/dfir-prague-2019) | [here](https://www.surveymonkey.co.uk/r/DFIR19CFP) | Digital Forensics, Incident Response, Information Security |
-
-### Finished
-
-| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
-|---------|-----------------|---------------|------|----------|----------|
 | 2019.03.16 | 2019.04.01-03 | Philadelphia, USA | [Northeast Scala Symposium](https://nescala.io) | [here](https://www.papercall.io/ne-scala-2019) | Scala |
 | 2019.03.15 | 2019.06.24-27 | Krakow, Poland | [Devoxx Poland](http://devoxx.pl) | [here](https://cfp.devoxx.pl) | Java, Web, Big Data, Architecture, ...|
 | 2019.03.13 | 2019.09.15-19 | San Francisco, USA | [Oracle Code One](https://www.oracle.com/code-one/) | [here](https://reg.rainfocus.com/flow/oracle/oow19/codeone19cfp/cfpHome) | Java, JVM, Oracle |
