@@ -8,6 +8,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2020.01.20 | 2020.03.26 | Budapest, Hungary | [BSides Budapest 2020](https://2020.bsidesbud.com/) | [here](https://forms.gle/rUBbYDCgdGKExxYW9) | Computer Security, Cyber Security, Hacking, IoT |
 | 2019.12.24 | 2020.05.30 | Kyiv, Ukraine | [PHP fwdays 2020](https://fwdays.com/event/php-fwdays-2020) | [here](https://php.cfp.fwdays.com/) | PHP |
 | 2019.12.20 | 2020.04.11 | Kyiv, Ukraine | [.NET fwdays'20](https://fwdays.com/en/event/dotnet-fwdays-2020) | [here](https://docs.google.com/forms/d/e/1FAIpQLScDFCt3QwxTzERuMqirqXaKn8QY9aNh9FmN9oVQJOpxvIHESQ/viewform) | .NET |
 | 2019.11.30 | 2020.03.14 | Kyiv, Ukraine | [JavaScript fwdays'20](https://fwdays.com/en/event/js-fwdays-2020) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdx1Vz-A7d5T0LoVV0cs5KzMTSYrRLEmmYFANQYIPrlwKgZ4Q/viewform) | JavaScript, Frontend, CSS |
