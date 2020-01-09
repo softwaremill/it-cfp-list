@@ -9,6 +9,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
 | 2020.03.31 | 2020.05.30 | Zielona Góra, Poland | [GreenfieldConf 2020](https://GreenfieldConf.pl/) | [here](https://GreenfieldConf.pl/cfp.html) | Craftsmanship, Versatile |
+| 2020.02.29 | 2020.06.05 | Amsterdam, Netherlands | [JSNation 2020](https://jsnation.com) | [here](https://forms.gle/2m28pfb9ZpPFAShR7) | JavaScript, TypeScript, Front-end 
 | 2020.02.29 | 2020.05.11 | Karlsruhe, Germany | [Sencha Community Days 2020](https://sencha-community-days.de) | [here](https://sencha-community-days.de/cfp) | ExtJS, Sencha, JavaScript, Web |
 | 2020.02.28 | 2020.05.13-15 | Kraków, Poland | [GeeCON](https://2020.geecon.org/) | [here](https://2020.geecon.org/cfp/) | Java, JVM, architecture, craftsmanship, mobile |
 | 2020.01.31 | 2020.04.17 | Amsterdam, Netherlands | [React Summit Amsterdam 2020](https://reactsummit.com) | [here](https://docs.google.com/forms/d/e/1FAIpQLSf1gJZym7y79DcqFyG6sZ6-uoxDBnczD0pI7JGcXySwVZ6MfQ/viewform) | React, React Native, GraphQL |
