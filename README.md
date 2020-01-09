@@ -9,10 +9,11 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
 | 2020.03.31 | 2020.05.30 | Zielona Góra, Poland | [GreenfieldConf 2020](https://GreenfieldConf.pl/) | [here](https://GreenfieldConf.pl/cfp.html) | Craftsmanship, Versatile |
+| 2020.02.29 | 2020.05.11 | Karlsruhe, Germany | [Sencha Community Days 2020](https://sencha-community-days.de) | [here](https://sencha-community-days.de/cfp) | ExtJS, Sencha, JavaScript, Web |
 | 2020.02.28 | 2020.05.13-15 | Kraków, Poland | [GeeCON](https://2020.geecon.org/) | [here](https://2020.geecon.org/cfp/) | Java, JVM, architecture, craftsmanship, mobile |
 | 2020.01.13 | 2020.03.26 | Newcastle Upon Tyne, UK | [Build IT Right 2020](https://bitrconf.org/) | [here](https://www.cognitoforms.com/BeaconHouseEvents/BuildITRight2020CallForPapers) | Software Development, Architecture, Agile |
+| 2020.01.20 | 2020.03.26 | Budapest, Hungary | [BSides Budapest 2020](https://2020.bsidesbud.com/) | [here](https://forms.gle/rUBbYDCgdGKExxYW9) | Computer Security, Cyber Security, Hacking, IoT |
 | 2019.12.24 | 2020.05.30 | Kyiv, Ukraine | [PHP fwdays 2020](https://fwdays.com/event/php-fwdays-2020) | [here](https://php.cfp.fwdays.com/) | PHP |
-| 2020.02.29 | 2020.05.11 | Karlsruhe, Germany | [Sencha Community Days 2020](https://sencha-community-days.de) | [here](https://sencha-community-days.de/cfp) | ExtJS, Sencha, JavaScript, Web |
 | 2019.12.20 | 2020.04.11 | Kyiv, Ukraine | [.NET fwdays'20](https://fwdays.com/en/event/dotnet-fwdays-2020) | [here](https://docs.google.com/forms/d/e/1FAIpQLScDFCt3QwxTzERuMqirqXaKn8QY9aNh9FmN9oVQJOpxvIHESQ/viewform) | .NET |
 | 2019.11.30 | 2020.03.14 | Kyiv, Ukraine | [JavaScript fwdays'20](https://fwdays.com/en/event/js-fwdays-2020) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdx1Vz-A7d5T0LoVV0cs5KzMTSYrRLEmmYFANQYIPrlwKgZ4Q/viewform) | JavaScript, Frontend, CSS |
 | 2019.11.01 | 2019.12.07 | Warsaw, Poland | [ConFrontJS 2019](https://2019.confrontjs.com/) | [here](https://forms.gle/wVUKK5HbUEC6S9CD9) | JavaScript, Web, Front-end |
