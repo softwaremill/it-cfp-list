@@ -8,6 +8,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2020.03.31 | 2020.05.30 | Zielona Góra, Poland | [GreenfieldConf 2020](https://GreenfieldConf.pl/) | [here](https://GreenfieldConf.pl/cfp.html) | Craftsmanship, Versatile |
 | 2020.01.13 | 2020.03.26 | Newcastle Upon Tyne, UK | [Build IT Right 2020](https://bitrconf.org/) | [here](https://www.cognitoforms.com/BeaconHouseEvents/BuildITRight2020CallForPapers) | Software Development, Architecture, Agile |
 | 2019.12.24 | 2020.05.30 | Kyiv, Ukraine | [PHP fwdays 2020](https://fwdays.com/event/php-fwdays-2020) | [here](https://php.cfp.fwdays.com/) | PHP |
 | 2019.12.20 | 2020.04.11 | Kyiv, Ukraine | [.NET fwdays'20](https://fwdays.com/en/event/dotnet-fwdays-2020) | [here](https://docs.google.com/forms/d/e/1FAIpQLScDFCt3QwxTzERuMqirqXaKn8QY9aNh9FmN9oVQJOpxvIHESQ/viewform) | .NET |
