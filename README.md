@@ -15,6 +15,11 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2020.01.31 | 2020.04.17 | Amsterdam, Netherlands | [React Summit Amsterdam 2020](https://reactsummit.com) | [here](https://docs.google.com/forms/d/e/1FAIpQLSf1gJZym7y79DcqFyG6sZ6-uoxDBnczD0pI7JGcXySwVZ6MfQ/viewform) | React, React Native, GraphQL |
 | 2020.01.13 | 2020.03.26 | Newcastle Upon Tyne, UK | [Build IT Right 2020](https://bitrconf.org/) | [here](https://www.cognitoforms.com/BeaconHouseEvents/BuildITRight2020CallForPapers) | Software Development, Architecture, Agile |
 | 2020.01.20 | 2020.03.26 | Budapest, Hungary | [BSides Budapest 2020](https://2020.bsidesbud.com/) | [here](https://forms.gle/rUBbYDCgdGKExxYW9) | Computer Security, Cyber Security, Hacking, IoT |
+
+### Finished
+
+| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
+|---------|-----------------|---------------|------|----------|----------|
 | 2019.12.24 | 2020.05.30 | Kyiv, Ukraine | [PHP fwdays 2020](https://fwdays.com/event/php-fwdays-2020) | [here](https://php.cfp.fwdays.com/) | PHP |
 | 2019.12.20 | 2020.04.11 | Kyiv, Ukraine | [.NET fwdays'20](https://fwdays.com/en/event/dotnet-fwdays-2020) | [here](https://docs.google.com/forms/d/e/1FAIpQLScDFCt3QwxTzERuMqirqXaKn8QY9aNh9FmN9oVQJOpxvIHESQ/viewform) | .NET |
 | 2019.11.30 | 2020.03.14 | Kyiv, Ukraine | [JavaScript fwdays'20](https://fwdays.com/en/event/js-fwdays-2020) | [here](https://docs.google.com/forms/d/e/1FAIpQLSdx1Vz-A7d5T0LoVV0cs5KzMTSYrRLEmmYFANQYIPrlwKgZ4Q/viewform) | JavaScript, Frontend, CSS |
@@ -58,11 +63,6 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2019.03.31 | 2019.09.26-27 | Tallinn, Estonia | [GeekOut](https://2019.geekout.ee/) | [here](https://www.papercall.io/geekout2019) | Java, Web, Big Data, Architecture, ...|
 | 2019.03.31 | 2019.06.08 | Zielona Góra, Poland | [Greenfield](http://greenfieldconf.pl/) | [here](http://greenfieldconf.pl/cfp.html) | Programming, Architecture, Soft skills, ... |
 | 2019.03.29 | 2019.09.30 | Prague, Czech Republic | [SANS DFIR Europe Summit 2019](https://www.sans.org/event/dfir-prague-2019) | [here](https://www.surveymonkey.co.uk/r/DFIR19CFP) | Digital Forensics, Incident Response, Information Security |
-
-### Finished
-
-| CFP end | Conference Date | Country, City | Name | CFP Link | Keywords |
-|---------|-----------------|---------------|------|----------|----------|
 | 2019.03.16 | 2019.04.01-03 | Philadelphia, USA | [Northeast Scala Symposium](https://nescala.io) | [here](https://www.papercall.io/ne-scala-2019) | Scala |
 | 2019.03.15 | 2019.06.24-27 | Krakow, Poland | [Devoxx Poland](http://devoxx.pl) | [here](https://cfp.devoxx.pl) | Java, Web, Big Data, Architecture, ...|
 | 2019.03.13 | 2019.09.15-19 | San Francisco, USA | [Oracle Code One](https://www.oracle.com/code-one/) | [here](https://reg.rainfocus.com/flow/oracle/oow19/codeone19cfp/cfpHome) | Java, JVM, Oracle |
