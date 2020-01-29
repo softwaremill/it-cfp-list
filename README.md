@@ -12,6 +12,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | 2020.02.29 | 2020.06.05 | Amsterdam, Netherlands | [JSNation 2020](https://jsnation.com) | [here](https://forms.gle/2m28pfb9ZpPFAShR7) | JavaScript, TypeScript, Front-end 
 | 2020.02.29 | 2020.05.11 | Karlsruhe, Germany | [Sencha Community Days 2020](https://sencha-community-days.de) | [here](https://sencha-community-days.de/cfp) | ExtJS, Sencha, JavaScript, Web |
 | 2020.02.28 | 2020.05.13-15 | Kraków, Poland | [GeeCON](https://2020.geecon.org/) | [here](https://2020.geecon.org/cfp/) | Java, JVM, architecture, craftsmanship, mobile |
+| 2020.02.15 | 2020.06.02-04 | Copenhagen, Denmark | [GR8Conf and JDK IO](https://gr8conf.eu/) | [here](https://cfp.gr8conf.org/) | Java & Groovy, Microservices, Web, Big Data, Architecture, Cloud, ... |
 | 2020.02.14 | 2020.06.17-19 | Kraków, Poland | [Devoxx Poland](http://devoxx.pl/) | [here](https://devoxxpl20.cfp.dev/) | Java, Web, Big Data, Architecture, ... |
 | 2020.01.31 | 2020.04.17 | Amsterdam, Netherlands | [React Summit Amsterdam 2020](https://reactsummit.com) | [here](https://docs.google.com/forms/d/e/1FAIpQLSf1gJZym7y79DcqFyG6sZ6-uoxDBnczD0pI7JGcXySwVZ6MfQ/viewform) | React, React Native, GraphQL |
 | 2020.01.13 | 2020.03.26 | Newcastle Upon Tyne, UK | [Build IT Right 2020](https://bitrconf.org/) | [here](https://www.cognitoforms.com/BeaconHouseEvents/BuildITRight2020CallForPapers) | Software Development, Architecture, Agile |
