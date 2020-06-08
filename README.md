@@ -9,8 +9,8 @@ List sorted by CFP end date descending (oldest and probably already finished las
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
 | 2020.07.15 | 2020.10.08-09 | Budapest, Hungary | [Hacktivity 2020](https://www.hacktivity.com) | [here](https://www.hacktivity.com/call-for-papers) | Computer Security, Cyber Security, Hacking, IoT |
-| 2020.05.31 | 2020.10.12-13 | Prague, Czech Republic | [ReactiveConf 2020](https://reactiveconf.com/) | [here](https://blog.reactiveconf.com/reactiveconf-2020-call-for-papers-is-open-356a554b5b57) | JavaScript, Software Development, Frontend, Design, Meta, Web |
 | 2020.06.12 | 2020.06.27-28 | Online, Worldwide | [Git Commit Show 2020](https://gitcommit.show/) | [here](https://push.gitcommit.show) | Software Development, Open Source |
+| 2020.05.31 | 2020.10.12-13 | Prague, Czech Republic | [ReactiveConf 2020](https://reactiveconf.com/) | [here](https://blog.reactiveconf.com/reactiveconf-2020-call-for-papers-is-open-356a554b5b57) | JavaScript, Software Development, Frontend, Design, Meta, Web |
 | 2020.05.10 | 2020.08.28-29 | Kraków, Poland | [dynamIT 2020](https://dynamit.pro/) | [here](https://dynamit.pro/#call4papers) | Programming, soft skills |
 | 2020.04.17 | 2020.09.09-10 | Oslo, Norway | [JavaZone 2020](https://2020.javazone.no/) | [here](https://2020.javazone.no/speakers) | Java, JVM, Languages, Software Architecture, Frontend, Web, DevOps, AI/Machine Learning, Data Engineering, Cloud, Cloud-native, Kubernetes, Microservices, Security, Agile, Digitalisation |
 | 2020.05.06 | 2020.09.07-09 | Barcelona, Spain | [JBCNConf 2020](https://www.jbcnconf.com/2020) | [here](https://www.jbcnconf.com/2020/callForPapers.html) | Java, JVM languages (Kotlin, Scala, Clojure, etc), Android, Cloud, Kubernetes, Microservices, Docker, Testing, TDD, DDD, CI, CD, Functional Programming |
