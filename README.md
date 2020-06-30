@@ -8,6 +8,7 @@ List sorted by CFP end date descending (oldest and probably already finished las
 
 | CFP end | Conference Date | City, Country | Name | CFP Link | Keywords |
 |---------|-----------------|---------------|------|----------|----------|
+| 2020.07.01 | 2020.09.25 | Germany | [German AWS Community Day](https://www.aws-community-day.de/) | [here](https://sessionize.com/aws-community-day-germany-2020) | All about AWS |
 | 2020.07.15 | 2020.10.08-09 | Budapest, Hungary | [Hacktivity 2020](https://www.hacktivity.com) | [here](https://www.hacktivity.com/call-for-papers) | Computer Security, Cyber Security, Hacking, IoT |
 | 2020.05.31 | 2020.10.12-13 | Prague, Czech Republic | [ReactiveConf 2020](https://reactiveconf.com/) | [here](https://blog.reactiveconf.com/reactiveconf-2020-call-for-papers-is-open-356a554b5b57) | JavaScript, Software Development, Frontend, Design, Meta, Web |
 | 2020.05.10 | 2020.08.28-29 | Kraków, Poland | [dynamIT 2020](https://dynamit.pro/) | [here](https://dynamit.pro/#call4papers) | Programming, soft skills |
